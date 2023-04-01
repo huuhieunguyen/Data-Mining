@@ -1,0 +1,51 @@
+﻿<!--DETAIL GOC NHIN-->
+<article id="article_detail" class="section article_detail">
+<header class="the-article-header inner_section clearfix">
+<h1 class="title_gn_detail">Niềm vui miễn phí</h1>
+<p class="meta">
+<span class="avata_box_author">
+<a href="https://vnexpress.net/tac-gia/khai-don-1083.html">
+<img src="https://i-vnexpress.vnecdn.net/2018/03/30/khaidonpng-1522370624.png" alt="Khải Đơn">
+<strong>Khải Đơn</strong>
+</a>
+</span>
+<span class="time">Thứ tư, 29/8/2018, 00:59 (GMT+7)</span>
+<a href="#box_comment"><span class="icon_commend" data-href="https://vnexpress.net/tin-tuc/goc-nhin/niem-vui-mien-phi-3799777.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3799777"><img class="icon_content icon_title_coment" alt="" src="https://s.vnecdn.net/vnexpress/restruct/i/v14/graphics/img_blank.gif">&nbsp;</span></span></a>
+<span class="luu_tin myvne_save_for_later" data-token="32e271ee56ee53dce46185183e83f2e4" data-article-id="3799777"></span>
+</p>
+</header>
+<div class="article_body inner_section clearfix">
+<div class="fck_detail">
+<p class="Normal">Ở giữa làng biển West Java, tôi vừa được mấy ông ngư dân hàng xóm rủ sang nhà xem trận Việt Nam - Hàn Quốc ngày mai. Đội bóng Indonesia của họ đã không vào sâu được vòng sau. Không vấn đề, họ chẳng trách cứ gì đội nhà mà tiếp tục háo hức đón chờ chiến thắng oanh liệt của môn cầu lông - môn “tủ” của Indo.</p>
+<p class="Normal">
+Không khí Asian Games 2018 tràn ngập khắp ngôi làng đánh cá nhỏ Batu Karas mà tôi ở, và còn rực rỡ hơn ở trong thị trấn Pangandaran gần đó suốt nửa tháng nay. Chiều chiều, vài nhóm thanh niên tụ ngồi ở nhà ai đó, chờ xem một môn thể thao họ yêu thích mà đội chủ nhà đang thắng thế. Ngoài chòi canh bão biển, cánh đàn ông tối nào cũng xem đủ trận đấu tới tận khuya, hết bóng đá, bóng rổ, lại cầu lông.</p><p class="Normal">
+Có buổi sáng tôi ra sân bay Husein Sastranegara ở Bandung đón bạn, anh nhân viên hải quan lập tức hỏi: “Cô từ đâu tới? Cô đi xem Asian Games đúng không?” – “Tôi là người Việt Nam”, tôi trả lời. “A, Việt Nam, Việt Nam đang thắng mấy trận rồi. Nhưng Việt Nam có thi đấu ở sân Si Jalak Harupat đâu?”.</p><p class="Normal">
+Thành phố Bandung những ngày này đông đúc bởi các đoàn thể thao ăn mặc sắc màu đến thi đấu. Cơn kẹt xe “đặc sản” thường thấy ở Jakarta đã dâng tới tận nơi này. Nhân viên hải quan sân bay lo chạy qua lại giúp đỡ hết lòng tất cả những người nước ngoài lơ ngơ đang mất phương hướng hay tìm xe đến địa điểm cần. Cô gái lái Grab Car nói với tôi: “Lần đầu tiên tôi chở nhiều khách nước ngoài như vậy. Không biết nói nhiều tiếng Anh nên chỉ dám chat bằng tin nhắn dể dịch lại thôi”. Giữa một biển kẹt xe, cô vẫn vặn radio để nghe thời sự thể thao, và giải thích với khách du lịch khi đoàn xe vận động viên ào qua.</p><p class="Normal">
+Đêm qua, khi Việt Nam thắng Syria để bước chân vào bán kết, tôi lại nhìn thấy bạn bè mình ở Việt Nam đổ ra đường ăn mừng. Ngay sau đó, trên mạng xã hội, bên cạnh những clip người hâm mộ vui vẻ tung cờ, lại có những người lắc đầu than phiền thành phố tắc đường, đi bão gây tai nạn, học sinh tụ tập nhảy nhót ăn nhậu xong gây chuyện, nhân viên văn phòng bỏ bê công việc xem bóng đá. Những điều như vậy chắc chắn sẽ xảy ra. Những trận bóng U23 Việt Nam từng thi đấu, nhiều người đã dành hẳn cả buổi chiều để tụ tập cùng nhau xem bóng đá hoặc xin nghỉ sớm ở văn phòng.</p><p class="Normal">
+Ta rất dễ nhặt ra bao nhiêu phiền toái từ một cơn “đi bão”, nhưng khó mà đo đếm được niềm vui người hâm mộ có được khi đội tuyển dành được chiến thắng. Rất dễ để nghiêm khắc nhìn nhân viên xao nhãng chuyện công sở, nhưng điều gì có thể gần gũi hơn khi các đồng nghiệp có thể ngồi cùng xem bóng đá và thông cảm nhau hơn trong công việc sau này? Ta có thể bực mình vì kẹt xe suốt hai giờ giữa đám ăn mừng thắng trận, nhưng chợt nhận ra bao nhiêu căng thẳng bực bội đã tan từ lúc nào khi hòa cùng đám “người lạ” đang hò hét.</p><p class="Normal">
+Đội tuyển Việt Nam đêm qua đã tặng người xem một trận cầu ưng ý, một món quà, những khoảnh khắc hồn nhiên. Và tiếp tục háo hức đợi trận cầu bán kết sắp tới. Những khó chịu như kẹt xe, ồn ào, càm ràm bọn “trẻ trâu” đi bão hay chút lơ đễnh công việc không hề làm cuộc sống tồi tệ đi sau một trận cầu.</p><p class="Normal">
+Thể thao lành mạnh còn được gọi là một kiểu “Vốn xã hội”. Nó mang ý nghĩa sâu sắc hơn những bất tiện thường ngày va đập vào ta. Nó cho ta thêm cảm xúc, thêm điểm nhìn, thêm kỷ niệm chia niềm vui và sự hồi hộp của trận đấu với bạn bè. Nó tiếp năng lượng cho mọi người vui sống dù ở đường phố Hà Nội, Sài Gòn hay ở đây, Indonesia, nơi tôi thức dậy. Người ngư dân Indonesia đang ngồi ngoài chòi canh bão vẫn đúng giờ đánh cồng báo hiệu an toàn cho ghe đi biển, nhưng không quên hò hét ầm ĩ khi đội tuyển của họ ăn điểm sau một cú đánh nào.</p><p class="Normal">
+Tôi sẽ học cách xem một trận đấu thể thao như người nông dân Indonesia, đơn giản chỉ là háo hức, chẳng lo bất tiện, lo thắng thua. </p><p class="Normal">
+Những phút gần gũi và hài lòng với người dưng như vậy giúp ta mỉm cười sớm mai, thấy ngày làm việc hưng phấn hơn. Nó giúp ta tạm gạt đi vất vả lấm lem thường trực để thấy cuộc đời còn những niềm vui miễn phí và đơn giản biết bao.</p><p class="Normal" style="text-align:right;">
+<strong><span>Khải Đơn</span></strong></p>	</div>
+<div class="div-fbook width_common mb20">
+<div class="block_btn_like left">
+<div class="item_social font_icon" data-component="true" data-component-type="like" data-component-objectid="3799777" data-component-siteid="1000000" data-objecttype="1"></div>	</div>
+<div class="right text-right">
+<p class="social social-detail">
+<span class="btn_facebook social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/niem-vui-mien-phi-3799777.html" data-type="facebook" class="icon_share social_share">
+<i class="ic ic-facebook"></i>
+</span>
+<span class="btn_twitter social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/niem-vui-mien-phi-3799777.html" data-type="twitter" data-content="Niềm vui miễn phí" class="icon_share social_share">
+<i class="ic ic-twitter"></i>
+</span>
+<span class="btn_google_plus social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/niem-vui-mien-phi-3799777.html" data-type="google" class="icon_share social_share">
+<i class="ic ic-google-plus"></i>
+</span>
+</p>
+<span class="luu_tin right myvne_save_for_later" data-token="32e271ee56ee53dce46185183e83f2e4" data-article-id="3799777"></span>
+</div>
+</div>
+</div>
+</article>
+<!--END DETAIL GOC NHIN-->

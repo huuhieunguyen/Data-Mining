@@ -1,0 +1,60 @@
+﻿<!--DETAIL GOC NHIN-->
+<article id="article_detail" class="section article_detail">
+<header class="the-article-header inner_section clearfix">
+<h1 class="title_gn_detail">Ký ức John McCain</h1>
+<p class="meta">
+<span class="avata_box_author">
+<a href="https://vnexpress.net/tac-gia/sandy-hoa-dang-1146.html">
+<img src="https://i-vnexpress.vnecdn.net/2018/08/31/Sandyhoadangpng-1535652109.png" alt="Sandy Hòa Đặng">
+<strong>Sandy Hòa Đặng</strong>
+</a>
+</span>
+<span class="time">Thứ sáu, 31/8/2018, 01:04 (GMT+7)</span>
+<a href="#box_comment"><span class="icon_commend" data-href="https://vnexpress.net/tin-tuc/goc-nhin/ky-uc-john-mccain-3801094.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3801094"><img class="icon_content icon_title_coment" alt="" src="https://s.vnecdn.net/vnexpress/restruct/i/v14/graphics/img_blank.gif">&nbsp;</span></span></a>
+<span class="luu_tin myvne_save_for_later" data-token="50d07a6b8550b441119b3d75e7585657" data-article-id="3801094"></span>
+</p>
+</header>
+<div class="article_body inner_section clearfix">
+<div class="fck_detail">
+<p class="Normal">Đó là một ngày mùa đông Washington rất lạnh, John McCain mặc bộ vest đen, ngồi trong văn phòng sang trọng có treo một tấm ảnh đen trắng chụp ông khi còn là một người lính ở Việt Nam; một bức khác chụp cùng với Dalai Lama.</p>
+<p class="Normal">
+Tôi kể với ông rằng tôi được sinh ra ở Hà Nội. Lúc thủ đô bị ném bom mười hai ngày đêm năm 1972, tôi chưa đầy năm tuổi. Nhà tôi ở làng Kim Liên. Một ngôi nhà như chiếc răng sắp rụng, tường bằng bùn rơm, mái lá. Bố tôi đào một cái hầm ở dưới nền nhà.</p><p class="Normal">
+Cả đêm đó, bố mẹ tôi cùng ba đứa con chui trốn dưới hầm. Tôi năm tuổi, đứa em gái hai tuổi và đứa em trai mới một tháng. Mẹ tôi bế em. Vừa qua một đợt lụt, nước cao tới đùi tôi. Chân tôi dầm trong nước, đầu và cổ thì bị rễ tre đâm vào. Tôi vẫn nhớ như in mùi hơi đất rất nồng và ẩm. Thỉnh thoảng lại có một tiếng “rầm” của bom nổ, và mặt đất rung chuyển.</p><p class="Normal">
+“Chúng ta cùng ở Hà Nội thời điểm đó. Chúng ta rất gần nhau lúc đó”, McCain nhìn xuống thảm sàn vẻ hơi buồn, chậm rãi nói, “Và thật may mắn bây giờ chúng ta đều ở đây, nhìn cuộc chiến như là một điều đã lùi xa trong quá khứ”.</p><p class="Normal">
+Khi tôi trốn dưới hầm, ông đang bị giam tại Hỏa Lò, hai địa điểm cách nhau chỉ khoảng 3km. Và hôm nay chúng tôi ngồi cạnh nhau ở Mỹ. Tôi chưa từng nghĩ trái đất lại tròn đến thế.</p><p class="Normal">
+Chúng tôi nói chuyện về Việt Nam, phải đến khi người trợ lý nhắc tới vài lần rằng có cuộc hẹn đang chờ, ông mới bắt tay từ biệt.</p><p class="Normal">
+Tôi tình cờ gặp Thượng Nghị sỹ John McCain trên chuyến bay từ Washington DC tới thành phố Tucson, bang Arizona, Mỹ tháng 10/2015. Khi tàu bay lăn bánh, phi hành đoàn thông báo: “Chúng ta rất hân hạnh có ngài Thượng Nghị sỹ McCain trên chuyến bay hôm nay”. Tôi ngạc nhiên, nhưng đinh ninh ông ngồi ở khoang hạng thương gia.</p><p class="Normal">
+Lúc sau, tôi ngạc nhiên hơn khi thấy ông ngồi ở hàng ghế phía trên, cùng khoang hạng phổ thông như tôi. Các chính khách ít khi phải ngồi khoang hạng thường, mà đây lại là chuyến bay dài tới 4-5 tiếng.</p><p class="Normal">
+Với vai trò là Giám đốc điều hành Quỹ Giáo dục Việt Nam (VEF), một tổ chức được thành lập sau khi bình thường hoá quan hệ Việt - Mỹ và cũng chính do ông và Thượng Nghị sỹ John Kerry vận động lập ra, tôi hy vọng có thể nói lời cám ơn nếu ông không ngay lập tức đi rất nhanh như nhiều chính khách.</p><p class="Normal">
+Khi máy bay hạ cánh, ông đi từ tốn. Một người đàn ông đến trước mặt McCain, bày tỏ rằng mình là một cựu binh và rất ngưỡng mộ ông. “Senator McCain, you are my hero” (McCain, ông là anh hùng của tôi), người đó nói.</p><p class="Normal">
+Đợi người kia đi rồi, tôi mới tiến đến, nói rằng tôi muốn cảm ơn vì ông đã lập ra VEF và tôi đang là người điều hành. Đó là công việc ý nghĩa vì đã giúp hàng trăm người Việt Nam tài năng được đào tạo tại các trường đại học uy tín của Mỹ. Rằng liệu tôi có thể mời ông tới một hội nghị thường niên của Quỹ được không. “Cô hãy tới gặp tôi ở văn phòng tại Washington nhé”, ông nói. Và đó là lý do có cuộc gặp trên.</p><p class="Normal">
+<span>Trong buổi gặp, ông hứa với tôi sẽ cố gắng tham dự hội nghị của VEF. </span>Đến ngày hội nghị, ông không tới dự được, nhưng gửi đến một video dài 4 phút rất cảm động. Trong đó, ông nói về mối quan hệ giữa hai nước, về vai trò của Quỹ VEF và bày tỏ sự vui mừng bởi những cá nhân được lựa chọn đi học đã giúp đưa hai đất nước xích lại gần nhau hơn. Và rằng những gì chúng ta đang cùng làm rất ý nghĩa trong việc hàn gắn và chữa lành vết thương chiến tranh, chuyển từ kẻ thù thành đối tác.</p><p class="Normal">
+“Nếu chúng ta sống đủ lâu sẽ thấy được sự thay đổi của lịch sử. Từ hai người chiến đấu đã thành bạn thân và biết bao thay đổi xảy ra”, ngài Thượng nghị sỹ nói. Ông cũng chia sẻ rằng ông có niềm vui lớn vì sau 20 năm, con tàu mang tên gia đình John S. McCain - cũng là tên của ông nội, bố và chính ông - đã cập cảng Đà Nẵng. Ông không nghĩ được rằng quan hệ hai nước có thể tốt như bây giờ và ông vẫn cho rằng Việt Nam luôn là quốc gia vô cùng quan trọng với nước Mỹ.</p><p class="Normal">
+Cảm giác riêng tôi vô cùng đặc biệt. Ông không quên lời đã nói và quan tâm đến sự kiện của chúng tôi mặc dù ông có thể nói rằng mình bận lắm và không nhất thiết phải dành sự quan tâm ấy.</p><p class="Normal">
+Sống ở Mỹ gần 40 năm, tôi từng gặp nhiều người nói rằng, họ từng đánh trận ở Việt Nam và không hề muốn nhớ đến quá khứ đó. Tôi từng làm công tác xã hội trong một bệnh viện điều trị cho cựu chiến binh Mỹ ở Washington. Hầu hết họ bị ám ảnh bởi chiến tranh. Có người nói với tôi họ thường xuyên thấy những hình ảnh em bé bị thương, cảnh vật tang tóc hiện về. Rất nhiều người phải tìm đến rượu để quên đi.</p><p class="Normal">
+Những năm đi lại làm việc giữa hai nước, tôi được nghe nhiều người kể về ông, cùng với John Kerry, Thomas Vallely, Ted Osius, Bill Clinton như những người có vai trò rất quan trọng trong việc hàn gắn lại những vết xước của bức tranh Việt - Mỹ, cũng là một phần của bức tranh lịch sử thế giới. Tôi cũng nghe không biết bao nhiêu người Mỹ sau khi thăm Việt Nam đã nói với tôi họ vô cùng ngạc nhiên vì người dân Việt Nam không ghét người Mỹ. Cách đây vài năm, Ted Osius kể với tôi rằng ông McCain đi thăm dự án Đại học Fulbright tại TP HCM và rất mừng rỡ khi biết ý tưởng này thành hiện thực.</p><p class="Normal">
+Tôi đã lặng người khi nghe tin ông mất. Với tôi đó là sự mất mát lớn cho Mỹ và Việt Nam. Khi nhà báo hỏi nghĩ gì về ông, tôi đã nghĩ đến từ “transformation” (sự chuyển hóa). Bởi vì chỉ từ đó mới thể hiện được sự biến chuyển trong tư duy người Việt và Mỹ về nhau. Bằng tâm hồn nồng ấm, trái tim rộng mở, McCain đã góp phần không nhỏ hàn gắn vết thương dân tộc, chữa lành lịch sử.</p><p class="Normal">
+Sau hơn 20 năm kể từ khi bình thường hóa quan hệ, Việt Nam đã trở thành đối tác thương mại đứng thứ 12 về xuất khẩu và xếp thứ 27 về nhập khẩu hàng hóa với Mỹ. Giá trị thương mại hai chiều đạt trên 41 tỷ USD, tăng tới 187 lần. Dự báo giá trị này tăng gấp đôi vào 2020. Số du học sinh Việt Nam tại Mỹ đang đứng thứ năm trong số các nước, lãnh thổ trên thế giới.</p><p class="Normal">
+Nhưng tôi còn mong một điều nữa: Làm sao để ngày càng nhiều người Mỹ có thể sang Việt Nam học hỏi, làm việc chứ không chỉ là dòng người một chiều. Ta có thể làm nhiều việc hơn nữa trên di sản của những người đi trước.</p><p class="Normal" style="text-align:right;">
+<strong>Sandy Hòa Đặng</strong></p>	</div>
+<div class="div-fbook width_common mb20">
+<div class="block_btn_like left">
+<div class="item_social font_icon" data-component="true" data-component-type="like" data-component-objectid="3801094" data-component-siteid="1000000" data-objecttype="1"></div>	</div>
+<div class="right text-right">
+<p class="social social-detail">
+<span class="btn_facebook social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/ky-uc-john-mccain-3801094.html" data-type="facebook" class="icon_share social_share">
+<i class="ic ic-facebook"></i>
+</span>
+<span class="btn_twitter social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/ky-uc-john-mccain-3801094.html" data-type="twitter" data-content="Ký ức John McCain" class="icon_share social_share">
+<i class="ic ic-twitter"></i>
+</span>
+<span class="btn_google_plus social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/ky-uc-john-mccain-3801094.html" data-type="google" class="icon_share social_share">
+<i class="ic ic-google-plus"></i>
+</span>
+</p>
+<span class="luu_tin right myvne_save_for_later" data-token="50d07a6b8550b441119b3d75e7585657" data-article-id="3801094"></span>
+</div>
+</div>
+</div>
+</article>
+<!--END DETAIL GOC NHIN-->

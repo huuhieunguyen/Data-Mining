@@ -1,0 +1,54 @@
+﻿<!--DETAIL GOC NHIN-->
+<article id="article_detail" class="section article_detail">
+<header class="the-article-header inner_section clearfix">
+<h1 class="title_gn_detail">Người già cô đơn</h1>
+<p class="meta">
+<span class="avata_box_author">
+<a href="https://vnexpress.net/tac-gia/ngo-thi-phuong-le-1116.html">
+<img src="https://i-vnexpress.vnecdn.net/2018/06/01/ngothiphuonglepng-1527792998.png" alt="Ngô Thị Phương Lê">
+<strong>Ngô Thị Phương Lê</strong>
+</a>
+</span>
+<span class="time">Thứ bảy, 25/8/2018, 10:47 (GMT+7)</span>
+<a href="#box_comment"><span class="icon_commend" data-href="https://vnexpress.net/tin-tuc/goc-nhin/nguoi-gia-co-don-3798019.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3798019"><img class="icon_content icon_title_coment" alt="" src="https://s.vnecdn.net/vnexpress/restruct/i/v14/graphics/img_blank.gif">&nbsp;</span></span></a>
+<span class="luu_tin myvne_save_for_later" data-token="6adc33cafc0b133b2fd4240fcbb2e5a8" data-article-id="3798019"></span>
+</p>
+</header>
+<div class="article_body inner_section clearfix">
+<div class="fck_detail">
+<p class="Normal">Sau nhiều năm ở nội đô, vợ chồng tôi quyết định ra một vùng ngoại ô nước Pháp để sống trong một căn nhà rộng rãi hơn, có vườn và sân chơi cho con. Ở khu dân cư chúng tôi đến, ngôi nhà nào cũng rộng, có vườn đầy hoa. Điều đặc biệt là đến khoảng 80% chủ nhà là người cao tuổi. Tôi quan sát cả một khu phố dài, không hề có gia đình nào bố mẹ sống cùng con cái, lâu lâu mới thấy con cái và trẻ nhỏ ghé thăm. Thỉnh thoảng, tôi vẫn thấy xe cấp cứu đỗ trước cửa một căn nhà nào đấy. Và hàng xóm lại ra vẫy "Chúc may mắn nhé" khi bánh xe chuẩn bị lăn.</p>
+<p class="Normal">
+Ở căn biệt thự diện bên đường, có một cặp vợ chồng già. Tôi hay gặp ông bà lúc đưa đón con đi học, khi thì ở ngoài vườn, khi thì uống trà, khi thì tưới cây, tỉa cành. Nhìn cảnh ông bà vui vẻ bên nhau, tôi thường tưởng tượng hình ảnh vợ chồng tôi lúc về già, khi con cái đã trưởng thành và có cuộc sống riêng. Có lẽ chỉ cần thế cũng đủ hạnh phúc.</p><p class="Normal">
+Nhưng tối muộn một đêm mùa đông nọ, chỉ trước lễ Noel hai ngày, chuông cửa nhà tôi rung lên. Bà gọi cửa nhờ chồng tôi sang giúp. Ông bị ngã, không tự đứng dậy được. Chồng tôi vội chạy sang đỡ ông và giúp bà gọi xe cấp cứu. Chỉ mấy phút sau xe đến đưa ông vào bệnh viện, còn bà vẫn ở nhà. Bà bảo không cần đi theo ông, vào đó bệnh viện sẽ lo hết, ông cũng quen rồi. Chỉ khi nào rơi vào tình trạng nguy kịch mới cần gọi cho con cái. Bà phân bua, “Đứa nào cũng bận, trong khi còn tự lo được, tôi không muốn phiền đến chúng nó”.</p><p class="Normal">
+Tết năm đó chúng tôi về Việt Nam, lúc quay lại, ông đã đi rồi.</p><p class="Normal">
+Chỉ còn lại mình bà, căn nhà lúc nào cũng đóng cửa, buông rèm. Tôi hầu như không còn nhìn thấy bà bước ra khỏi nhà nữa, kể cả khi mùa xuân ấm áp đã trở lại. Bà cũng mặc kệ vườn hoa, không còn bận tâm tỉa tót. Lâu lâu cuối tuần, tôi mới thấy con cháu bà về thăm, ăn trưa hoặc ăn tối rồi lại đi. Từ ngày ông mất, thỉnh thoảng tôi vẫn mời bà sang nhà tôi ăn bánh uống trà cho khuây khỏa. Mỗi lần như vậy tôi thấy bà vui lắm, ánh mắt của bà lấp lánh mỗi khi kể chuyện về con về cháu mình.</p><p class="Normal">
+Nhìn bà tôi thường nghĩ tới bà ngoại của mình, cũng tầm lứa tuổi đó. Ông ngoại tôi mất sớm, bà sống cùng ba mẹ tôi, bế bồng chị em tôi khi còn nhỏ. Bà không lúc nào phải ở một mình, hễ ốm đau là con cháu thay nhau chăm sóc, cơm bưng nước rót, vậy mà thỉnh thoảng vẫn buồn lòng nếu con cháu vô tâm khiến bà phật ý. Tôi nghĩ, nếu phải sống một mình như bà cụ hàng xóm ở Pháp, không biết bà tôi sẽ ra sao. Mặc dù tôi không bao giờ dám hỏi bà cụ người Pháp rằng bà thấy thế nào.</p><p class="Normal">
+Việc cha mẹ về già sống cùng con cháu, thậm chí mô hình "tứ đại đồng đường" rất phổ biến ở các nước châu Á. Ngược lại, với văn hóa châu Âu, con cái lúc trưởng thành đều rời cha mẹ và tạo lập cuộc sống của riêng mình. Khi không thể tự lực, người già có thể thuê nhân viên y tế chăm sóc tại nhà hoặc vào viện dưỡng lão, ít ai chuyển tới sống cùng con cháu. Chính vì thế, số người già cô đơn tại châu Âu càng lúc càng nhiều, chiếm tới hơn 30% dân số.</p><p class="Normal">
+Tuổi thọ kéo dài một mặt thể hiện sự phát triển của quốc gia, mặt khác nó cũng mang lại nhiều vấn đề, đặc biệt là vấn nạn cô đơn của người già. Cô đơn là một trong những căn bệnh đáng sợ nhất mà người cao tuổi phải đối diện trên toàn cầu. Đến nỗi, có những cụ già ở Nhật cố tình ăn trộm để được vào tù sống cho đỡ buồn.</p><p class="Normal">
+Chính phủ các nước phát triển đã tìm nhiều cách để người già được hưởng sự chăm sóc tốt nhất. Ở Vương quốc Anh có “Bộ Cô đơn”. Ở nhiều nước phát triển, các đường dây nóng mở ra chỉ để người già có nơi gọi điện tâm tình, hoặc có những phong trào tình nguyện khuyến khích thanh niên tới thăm hỏi người già, trò chuyện và đọc sách, ăn với họ bữa cơm. Có những nơi chính phủ khuyến khích con cái đón cha mẹ về sống chung. Bù lại, họ sẽ được giảm giờ làm, giảm thuế hoặc được hưởng thêm ưu đãi trong chăm sóc y tế, sức khỏe.</p><p class="Normal">
+Mỗi lần nhìn cụ bà nhà đối diện với căn biệt thự mệnh mông, tôi thầm cảm ơn vì người già Việt Nam sướng hơn hẳn người già ở châu Âu, nhất là về mặt tình cảm. Có thể bố mẹ tôi, ông bà tôi ở quê nhà còn gặp nhiều vấn đề trong chăm sóc y tế, thực phẩm và hỗ trợ xã hội, nhưng tôi thấy hầu như rất ít người cao tuổi ở Việt Nam phải sống cô đơn một mình, trừ trường hợp họ không có con cái hoặc người thân. Người Việt coi trọng chữ hiếu và đa số gắng hiếu thuận với cha mẹ đến hết đời nên chúng ta coi việc chăm sóc cha mẹ khi về già là điều tất yếu, ít ai đắn đo suy tính. Đó là nét văn hóa rất quý.</p><p class="Normal">
+Tuy nhiên, thực tế đang đổi thay. Theo kết quả điều tra quốc gia về người cao tuổi Việt Nam, dân số Việt Nam đang "già hóa". Tỷ lệ người trên 60 tuổi dự báo sẽ chiếm 20,7% dân số vào năm 2040, so với 10,2% năm 2014. Bên cạnh đó, cấu trúc gia đình Việt Nam đang thay đổi rõ rệt, nếu năm 1993 có tới 80% người cao tuổi sống với con cái thì năm 2010, tỷ lệ này chỉ còn 69,5%. Đã có một nhóm người trẻ coi việc tách ra ở riêng khỏi cha mẹ sau 18 tuổi là chuyện bình thường. Điều đáng buồn là, ngay cả khi sống cùng với con cháu, nhiều người già vẫn cảm thấy cô đơn khi không nhận được sự quan tâm, chia sẻ thích đáng. Chẳng ít người già đang bị bỏ rơi ngay chính trong ngôi nhà của mình, giữa người thân của mình.</p><p class="Normal">
+Nếu coi sự cô đơn của người già là một tình thế đi kèm với mức độ phát triển kinh tế, thì đã đến lúc Việt Nam chuẩn bị tinh thần để đối phó với điều đó.</p><p class="Normal">
+Thấy bạn bè nhắc sắp tới ngày Vu Lan trên mạng, tôi chợt nao lòng khi nhớ về ông bà, bố mẹ ở Việt Nam. Tôi tự hỏi và mong ước, liệu sau giờ làm việc, mỗi người chúng ta có thể bỏ điện thoại thông minh xuống, nhìn vào mắt người lớn để hỏi, rằng bữa cơm hôm nay có vừa miệng không?</p><p class="Normal" style="text-align:right;">
+<strong>Ngô Thị Phương Lê</strong></p>	</div>
+<div class="div-fbook width_common mb20">
+<div class="block_btn_like left">
+<div class="item_social font_icon" data-component="true" data-component-type="like" data-component-objectid="3798019" data-component-siteid="1000000" data-objecttype="1"></div>	</div>
+<div class="right text-right">
+<p class="social social-detail">
+<span class="btn_facebook social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/nguoi-gia-co-don-3798019.html" data-type="facebook" class="icon_share social_share">
+<i class="ic ic-facebook"></i>
+</span>
+<span class="btn_twitter social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/nguoi-gia-co-don-3798019.html" data-type="twitter" data-content="Người già cô đơn" class="icon_share social_share">
+<i class="ic ic-twitter"></i>
+</span>
+<span class="btn_google_plus social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/nguoi-gia-co-don-3798019.html" data-type="google" class="icon_share social_share">
+<i class="ic ic-google-plus"></i>
+</span>
+</p>
+<span class="luu_tin right myvne_save_for_later" data-token="6adc33cafc0b133b2fd4240fcbb2e5a8" data-article-id="3798019"></span>
+</div>
+</div>
+</div>
+</article>
+<!--END DETAIL GOC NHIN-->

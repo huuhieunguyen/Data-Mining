@@ -1,0 +1,56 @@
+﻿<!--DETAIL GOC NHIN-->
+<article id="article_detail" class="section article_detail">
+<header class="the-article-header inner_section clearfix">
+<h1 class="title_gn_detail">Một món bồi thường</h1>
+<p class="meta">
+<span class="avata_box_author">
+<a href="https://vnexpress.net/tac-gia/hoang-phuong-890.html">
+<img src="https://i-vnexpress.vnecdn.net/2018/05/30/hoangphuongpng-1527618229.png" alt="Hoàng Phương">
+<strong>Hoàng Phương</strong>
+</a>
+</span>
+<span class="time">Thứ hai, 10/9/2018, 00:00 (GMT+7)</span>
+<a href="#box_comment"><span class="icon_commend" data-href="https://vnexpress.net/tin-tuc/goc-nhin/mot-mon-boi-thuong-3805302.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3805302"><img class="icon_content icon_title_coment" alt="" src="https://s.vnecdn.net/vnexpress/restruct/i/v14/graphics/img_blank.gif">&nbsp;</span></span></a>
+<span class="luu_tin myvne_save_for_later" data-token="02a9ff265a20ec918941ad429c715c66" data-article-id="3805302"></span>
+</p>
+</header>
+<div class="article_body inner_section clearfix">
+<div class="fck_detail">
+<p class="Normal">Ngày anh Tiếu đi bộ đội về, chỉ còn mình mẹ già ngồi dưới hiên nhà tranh xơ xác. Đất nước thống nhất rồi, anh chỉ muốn lấy vợ, sinh con, cày cấy, sống cuộc đời an ổn. Nhưng Tiếu không biết số phận mình đã được định đoạt từ năm 18 tuổi, khi hành quân dưới những cánh rừng rải đầy chất diệt cỏ.</p>
+<p class="Normal">
+Mấy người cùng xã nhập ngũ năm ấy, người chết vì ung thư, người mù lòa, người sinh được bốn cô con gái cũng ngẩn ngơ. Ông còn mắng đồng đội: “Đẻ gì lắm thế”. Nhưng rồi vận mệnh nhà mình còn bi đát hơn: ông sinh hai đứa con trai ngơ ngẩn, rồi lại có sáu đứa cháu ngẩn ngơ.</p><p class="Normal">
+Bằng nhiều xoay xở của vợ chồng ông Tiếu, hai anh con trai lấy vợ. Hai cô con dâu người làng bên, đều ở tuổi nhỡ nhàng. Hôm cưới, nhà trai còn chẳng xem ngày lành, đến nải chuối nhà gái cũng không lấy. Cưới nhau một quãng thời gian, các chị mới biết rõ về chồng.</p><p class="Normal">
+Ba thế hệ da cam cùng trú dưới một mái nhà. Ba gian nhà được xây từ tiền từ thiện. Mười một con người sống dựa vào trợ cấp da cam của ông Tiếu và công việc dán những chiếc bình mỹ nghệ, nhận đôi chục nghìn tiền công mỗi ngày.</p><p class="Normal">
+Bà Lý, phó chủ tịch Hội nạn nhân chất độc da cam của huyện, hồ hởi dắt chúng tôi vào nhà ông Tiếu. Cuộc kiếm tìm hỗ trợ cho nạn nhân da cam, nhất là thế hệ F2, từ nhiều năm nay chỉ trông vào những người như bà. Người phụ nữ kỳ vọng những bài báo giúp cho nạn nhân được ủng hộ, “thêm tí nào hay tí ấy”.</p><p class="Normal">
+“Chúng tôi tin rằng công ty Monsanto cũng phải có trách nhiệm bồi thường cho các nạn nhân chất độc da cam Việt Nam về những tác hại từ chất diệt cỏ mà công ty này đã cung cấp”, bà Nguyễn Phương Trà, phó phát ngôn viên Bộ Ngoại giao Việt Nam lên tiếng hôm 23/8.</p><p class="Normal">
+Đây là lần đầu tiên, Việt Nam lên tiếng yêu cầu bồi thường cho các nạn nhân da cam ở cấp độ nhà nước. Trước đó, chỉ có các nạn nhân tự đi kiện với danh nghĩa cá nhân, hoặc hội nạn nhân da cam.</p><p class="Normal">
+Đầu tháng Tám, tòa án San Francisco ra phán quyết, buộc công ty hóa chất Monsanto phải bồi thường 289 triệu USD cho Dewayne Johnson vì thuốc diệt cỏ gây ung thư. Người đàn ông này đã đâm đơn kiện vì thuốc diệt cỏ chứa glyphosate gây ung thư bạch huyết do công ty này sản xuất. Đây là lần đầu tiên đơn kiện glyphosate gây ung thư được xử lý.</p><p class="Normal">
+Dewayne Johnson đã “may mắn” hơn hàng triệu nạn nhân da cam Việt Nam trên hành trình đi tìm công lý lẫn lợi ích. Từ năm 2004, các nạn nhân da cam Việt Nam đã đệ đơn kiện 37 công ty hóa chất Mỹ, nổi bật là Monsanto và Dow Chemical. Nhưng đơn kiện bị tòa án liên bang Mỹ bác bỏ với lý do không đủ căn cứ. Trên thực tế, Monsanto đã nhiều lần bồi thường các nguyên đơn ở Mỹ khi họ phải chịu tác hại từ việc phơi nhiễm hóa chất mà hãng này sản xuất.</p><p class="Normal">
+Bà Lý, hay bất kỳ thành viên nào trong Hội đều biết rõ ngôi nhà nào có nạn nhân da cam, nhà này khổ thế nào, nhà kia kiệt quệ ra sao. Ai cũng có thể thấy khuôn mặt của những đứa trẻ thế hệ thứ ba trong các ngôi nhà ấy như thế nào. Nhưng trở ngại trên con đường đi tìm công lý của họ vẫn là: “Bằng chứng đâu?”. Tòa án Mỹ hỏi họ, ngay cả các bộ ngành Việt Nam cũng bối rối hỏi họ, rằng bằng chứng đâu.</p><p class="Normal">
+Bộ Y tế chưa xác định được danh mục các bệnh của da cam thế hệ thứ ba. Bộ Lao động thì vẫn “chờ chủ trương” để làm chính sách. Và theo khảo sát của Hội nạn nhân chất độc da cam Việt Nam, thì tại nhiều tỉnh thành, số nạn nhân vẫn đang tăng lên, xuất hiện thế hệ thứ ba, thứ tư.</p><p class="Normal">
+Ở một góc khác của thành phố, người cựu binh có con và cháu chịu di chứng, nhiều năm nay sống trong dằn vặt. Con trai và cháu nội của ông đều bị khiếm thị. “Nhà này ăn ở thế nào mà đẻ ra con cháu không mù cũng điếc”. Câu nói năm xưa xóm làng đến giờ vẫn khiến ông lặng người. Ngày cầm súng ra trận, người trai năm ấy chỉ mơ đến ngày hòa bình, thống nhất.</p><p class="Normal">
+“Cô cứ thử đi 100 gia đình có người nhiễm da cam xem, chẳng nhà nào có nổi một tiếng cười thanh thản”, vợ người cựu binh nói, giọng u uất. Những quan hệ đối tác, quan hệ chiến lược sau bốn mươi năm chiến tranh qua đi, không xóa sạch được những vết thương khi nó còn hằn trong thân phận mấy chục nghìn người.</p><p class="Normal">
+Có những món bồi thường phải đòi không vì giá trị hiện kim của nó. Trong câu chuyện này, có những mất mát vĩnh viễn không thể đòi lại được, những cuộc đời vĩnh viễn không thể bù đắp được. Món bồi thường ấy, hàm chứa một khao khát công bằng.</p><p class="Normal">
+Sẽ có những người thờ ơ, hay bạn bè quốc tế không hiểu chuyện bật ra câu hỏi: “Sau bốn mươi ba năm, giữa lúc quan hệ đang tốt đẹp, sao chính phủ Việt Nam vẫn còn đòi một khoản bồi thường từ chiến tranh?”. Lúc đó, bạn, một người Việt Nam có trách nhiệm, có thể trả lời họ rằng: Đây không phải là chuyện tiền.</p><p class="Normal" style="text-align:right;">
+<strong>Hoàng Phương</strong></p>	</div>
+<div class="div-fbook width_common mb20">
+<div class="block_btn_like left">
+<div class="item_social font_icon" data-component="true" data-component-type="like" data-component-objectid="3805302" data-component-siteid="1000000" data-objecttype="1"></div>	</div>
+<div class="right text-right">
+<p class="social social-detail">
+<span class="btn_facebook social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/mot-mon-boi-thuong-3805302.html" data-type="facebook" class="icon_share social_share">
+<i class="ic ic-facebook"></i>
+</span>
+<span class="btn_twitter social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/mot-mon-boi-thuong-3805302.html" data-type="twitter" data-content="Một món bồi thường" class="icon_share social_share">
+<i class="ic ic-twitter"></i>
+</span>
+<span class="btn_google_plus social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/mot-mon-boi-thuong-3805302.html" data-type="google" class="icon_share social_share">
+<i class="ic ic-google-plus"></i>
+</span>
+</p>
+<span class="luu_tin right myvne_save_for_later" data-token="02a9ff265a20ec918941ad429c715c66" data-article-id="3805302"></span>
+</div>
+</div>
+</div>
+</article>
+<!--END DETAIL GOC NHIN-->

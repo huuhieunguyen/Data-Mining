@@ -1,0 +1,50 @@
+﻿<!--DETAIL GOC NHIN-->
+<article id="article_detail" class="section article_detail">
+<header class="the-article-header inner_section clearfix">
+<h1 class="title_gn_detail">'Mùa hạ cuối cùng'</h1>
+<p class="meta">
+<span class="avata_box_author">
+<a href="https://vnexpress.net/tac-gia/duc-khue-1145.html">
+<img src="https://i-vnexpress.vnecdn.net/2018/08/24/duckhue2png-1535045900.png" alt="Đức Khuê">
+<strong>Đức Khuê</strong>
+</a>
+</span>
+<span class="time">Thứ sáu, 24/8/2018, 00:25 (GMT+7)</span>
+<a href="#box_comment"><span class="icon_commend" data-href="https://vnexpress.net/tin-tuc/goc-nhin/mua-ha-cuoi-cung-3797328.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3797328"><img class="icon_content icon_title_coment" alt="" src="https://s.vnecdn.net/vnexpress/restruct/i/v14/graphics/img_blank.gif">&nbsp;</span></span></a>
+<span class="luu_tin myvne_save_for_later" data-token="7db5091858f87a01a5d5aa1a374fc9b3" data-article-id="3797328"></span>
+</p>
+</header>
+<div class="article_body inner_section clearfix">
+<div class="fck_detail">
+<p class="Normal">Từ năm 1984, Nhà hát Tuổi trẻ lần đầu dựng 'Mùa hạ cuối cùng' của nhà biên kịch Lưu Quang Vũ dưới sự chỉ đạo của NSND Phạm Thị Thành. Nghệ sĩ gạo cội Tất Bình, Đức Trung đóng vai chính. Thế hệ các anh chị như Lê Khanh, Chí Trung, Ngọc Huyền, Đức Hải đóng học sinh. Lúc đó, tôi vẫn ngồi trên ghế nhà trường, may mắn được đi xem vở.</p>
+<p class="Normal">
+Trong <em>Mùa hạ cuối cùng</em>, Châu - một học sinh giỏi ngoan ngoãn - phát hiện ra kỳ thi cuối cấp có sự gian lận, cậu đề nghị nhà trường tổ chức thi lại để có sự công bằng với tất cả học sinh. Nguyện vọng của Châu không được nhà trường chấp thuận. Trong lúc Châu hoang mang, uất ức, thầy giáo Hiển là người duy nhất ủng hộ, động viên, giúp đỡ cậu, trở thành chỗ dựa tinh thần cho học trò trong cuộc chiến tìm kiếm lẽ phải.</p><p class="Normal">
+Năm 2013, Nhà hát Tuổi trẻ phục dựng tác phẩm. Tôi được chọn vào vai thầy giáo Hiển - một người cương trực, liêm khiết. Nhân vật thầy Hiển là đại diện tiêu biểu của tầng lớp trí thức, không chịu khuất phục trước sức ép của nhiều thế lực. Tôi có lợi thế khi hóa thân thành nhân vật này nhờ vẻ ngoài hiền lành, thật thà, chất phác. Đó là kiểu vai sở trường, tôi không gặp nhiều khó khăn trong vai thầy Hiển.</p><p class="Normal">
+Nhưng ở ngoài cuộc sống, chúng ta có bao nhiêu người thầy dám tố cáo tiêu cực, đứng về phía lẽ phải?</p><p class="Normal">
+Cuộc sống của thầy Đỗ Việt Khoa gặp vô vàn khó khăn sau khi tố cáo những hành vi tiêu cực trong thi cử tại Hà Tây (cũ). Việc hàng loạt cán bộ, giáo viên bị kỷ luật vì gian lận tại THPT dân lập Đồi Ngô, Bắc Giang năm 2012 cũng gây nên chấn động. Gần nhất, hàng loạt tỉnh như Hà Giang, Sơn La... bị phát hiện nâng điểm cho thí sinh, gây hoang mang trong dư luận. Có thể nói, gian lận thi cử ngày càng táo tợn, tinh vi. Tính chất của vụ việc nghiêm trọng hơn khi bùng phát ở kỳ thi THPT Quốc gia - nơi thành tích đạt được trở thành căn cứ xét tuyển vào đại học. Những trường hợp gian lận nếu không được tố giác sẽ khép lại cánh cửa vào giảng đường của nhiều học sinh khác.</p><p class="Normal">
+Hơn ba mươi năm trước, nhà biên kịch Lưu Quang Vũ đã đề cập đến sự tha hóa nhân cách của một bộ phận làm trong ngành giáo dục. Vì tham tiền, cô văn thư tuồn đề thi cho gia đình một em học sinh giàu có. Thế nhưng khi phát hiện ra sự thật, các lãnh đạo muốn lấp liếm để bảo vệ danh dự nhà trường. Gian lận thi cử không xuất phát từ một cá nhân, nó bắt nguồn từ nhiều phía, trở thành một thứ bệnh dịch âm ỉ lây lan sang toàn bộ hệ thống. Theo tôi, đây là thực trạng chung của mọi thời. Chúng ta chỉ cần buông lỏng một nhịp, sự thật, lẽ công bằng ngay lập tức bị nhấn chìm bởi những điều giả dối.</p><p class="Normal">
+Giữa một nền giáo dục còn nhiều giả dối, thiếu nghiêm minh, những người như thầy Hiển là điểm tựa tinh thần của học sinh. Sự kiên định của thầy giúp lòng tin của học trò không bị sứt mẻ trước ngưỡng cửa vào đời. Theo tôi, tình cảm thầy trò là một mối quan hệ hữu cơ, ảnh hưởng trực tiếp, mạnh mẽ đến nhau. Người thầy ở vị trí trung tâm, vừa là chỗ dựa của học trò, vừa đương đầu với các thế lực có chức, có quyền, có tiền.</p><p class="Normal">
+Trong tác phẩm, thầy giáo Hiển có nói: "Khi lòng tin bị đánh cắp, các em sẽ bước vào dòng đời thế nào, lòng tin là cái để các em bám víu". Câu nói ấy thể hiện vai trò của người thầy đối với việc định hướng nhân cách, suy nghĩ, lối sống của học sinh. Thực tế, ngày nay, mối quan hệ giữa thầy và trò có phần mai một. Theo thời gian, áp lực học tập ngày càng tăng, sự tương tác giữa thầy và trò nhiều khi chỉ gói gọn trên trang giấy.</p><p class="Normal">
+Trong khi, người thầy cần phát huy vai trò, sức ảnh hưởng của mình đối với thế hệ trẻ, hướng các em đến những điều tốt đẹp.</p><p class="Normal" style="text-align:right;">
+<strong>Đức Khuê</strong></p>	</div>
+<div class="div-fbook width_common mb20">
+<div class="block_btn_like left">
+<div class="item_social font_icon" data-component="true" data-component-type="like" data-component-objectid="3797328" data-component-siteid="1000000" data-objecttype="1"></div>	</div>
+<div class="right text-right">
+<p class="social social-detail">
+<span class="btn_facebook social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/mua-ha-cuoi-cung-3797328.html" data-type="facebook" class="icon_share social_share">
+<i class="ic ic-facebook"></i>
+</span>
+<span class="btn_twitter social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/mua-ha-cuoi-cung-3797328.html" data-type="twitter" data-content="'Mùa hạ cuối cùng'" class="icon_share social_share">
+<i class="ic ic-twitter"></i>
+</span>
+<span class="btn_google_plus social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/mua-ha-cuoi-cung-3797328.html" data-type="google" class="icon_share social_share">
+<i class="ic ic-google-plus"></i>
+</span>
+</p>
+<span class="luu_tin right myvne_save_for_later" data-token="7db5091858f87a01a5d5aa1a374fc9b3" data-article-id="3797328"></span>
+</div>
+</div>
+</div>
+</article>
+<!--END DETAIL GOC NHIN-->

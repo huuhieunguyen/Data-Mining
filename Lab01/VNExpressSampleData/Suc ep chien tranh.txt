@@ -1,0 +1,58 @@
+﻿<!--DETAIL GOC NHIN-->
+<article id="article_detail" class="section article_detail">
+<header class="the-article-header inner_section clearfix">
+<h1 class="title_gn_detail">Sức ép ‘chiến tranh’</h1>
+<p class="meta">
+<span class="avata_box_author">
+<a href="https://vnexpress.net/tac-gia/can-van-luc-998.html">
+<img src="https://i-vnexpress.vnecdn.net/2017/08/17/canvalucpng-1502906277.png" alt="Cấn Văn Lực">
+<strong>Cấn Văn Lực</strong>
+</a>
+</span>
+<span class="time">Thứ tư, 22/8/2018, 01:18 (GMT+7)</span>
+<a href="#box_comment"><span class="icon_commend" data-href="https://vnexpress.net/tin-tuc/goc-nhin/suc-ep-chien-tranh-3796089.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3796089"><img class="icon_content icon_title_coment" alt="" src="https://s.vnecdn.net/vnexpress/restruct/i/v14/graphics/img_blank.gif">&nbsp;</span></span></a>
+<span class="luu_tin myvne_save_for_later" data-token="1b65785c7c64cea616dd073875812594" data-article-id="3796089"></span>
+</p>
+</header>
+<div class="article_body inner_section clearfix">
+<div class="fck_detail">
+<p class="Normal">Một chủ doanh nghiệp ngồi cạnh tôi trong một chuyến đi. Anh ta ghi ghi chép chép, tính toán rồi thở dài. Chúng tôi trò chuyện về diễn biến nền kinh tế. Anh bày tỏ mình đang bối rối vì chưa biết dùng các nước cờ và ứng xử thế nào với đối tác Trung Quốc sắp gặp. Họ sẽ phải thương lượng với nhau bởi doanh nghiệp phía Trung Quốc bỗng dưng yêu cầu tăng 2% đến 3% giá hàng.</p>
+<p class="Normal">
+Công ty của anh có trên 1.000 nhân viên và doanh thu năm 2017 gần 1.000 tỷ đồng. Đó không phải một doanh nghiệp nhỏ. <span>Với mức tăng giá nguồn nhập khẩu đó, sẽ gây đội chi phí đầu vào của công ty lên rất cao. Đó là điều khiến anh rất lo lắng.</span></p><p class="Normal">
+Tôi hỏi tại sao lại như vậy. “Tất cả là do chiến tranh thương mại Mỹ - Trung”, anh trả lời, “Trung Quốc điều chỉnh tỷ giá đồng Nhân dân tệ khiến các doanh nghiệp xuất khẩu của họ muốn chúng tôi cùng san sẻ một phần mất giá của đồng tiền. Chúng tôi chưa biết xử lý thế nào”. Nét mặt anh ta bỗng căng thẳng, số tiền trội thêm ngang bằng gần một nửa chi phí tiền lương cho nhân viên hàng tháng.</p><p class="Normal">
+Giải thích sâu xa hơn là thế này: Sau khi Tổng thống Mỹ áp thuế suất cao hơn với hàng Trung Quốc nhập khẩu vào Mỹ, giá hàng hóa nhập khẩu vào Mỹ từ Trung Quốc bị tăng lên. Một tác động gián tiếp là các doanh nghiệp hai nước này có thể đòi tăng giá đối với hàng hóa xuất khẩu sang nước khác để bù phần bị thiệt cho các lô hàng bị đội chi phí. Việt Nam, nền kinh tế có đối tác thương mại lớn nhất là Trung Quốc đã bị tác động dây chuyền.</p><p class="Normal">
+Phải trả giá cao hơn cho nguồn nguyên liệu nhập từ Trung Quốc, chi phí hoạt động của doanh nghiệp Việt tăng sẽ gia tăng, chưa kể còn kéo theo áp lực tăng lạm phát đối với tiền đồng Việt Nam.</p><p class="Normal">
+Thực ra, không riêng với doanh nghiệp kia. Tôi và bạn, chúng ta đã bị ảnh hưởng. Bạn mua hàng của doanh nghiệp kia, ví dụ một cái tai nghe, trước là 300 nghìn đồng, nay sẽ là 305.000 đồng. Tiền trong ví bạn sẽ vơi đi nhiều hơn trước, cũng vẫn là để mua cùng một vật.</p><p class="Normal">
+Tiền của bạn có thể còn vơi đi bởi một lý do khác, đó là sự biến động của tỷ giá. Đồng Nhân dân tệ và các đồng tiền châu Á đều đã bị mất giá mạnh, từ 3% đến 10% so với đồng bạc xanh USD trong hiệp đầu của cuộc chiến tranh thương mại. VND đã mất giá khoảng 2,5% so với USD kể từ đầu năm. Mức mất giá này không phải là lớn so với đồng tiền các nước trong khu vực, nhưng cũng khiến chúng ta, nhất là doanh nghiệp nhập khẩu bồn chồn.</p><p class="Normal">
+<span>Rủi ro này không nhỏ và không chỉ với riêng một công ty đó, vì Trung Quốc hiện nay vẫn là thị trường nhập khẩu lớn nhất của Việt Nam. Câu hỏi đặt ra là cần hành động thế nào để tận dụng, bảo toàn lợi ích của nền kinh tế Việt Nam, trong đó có việc làm ăn của doanh nghiệp và túi tiền của người dân?</span></p><p class="Normal">
+Trong động thái tự vệ từ việc <a href="https://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/my-sap-danh-thue-them-200-ty-usd-hang-trung-quoc-3776017.html?vn_source=rcm_detail&vn_medium=kinhdoanh&vn_campaign=rcm&ctr=rcm_detail_env_4_click_kinhdoanh">áp thuế của tổng thống Trump</a>, Trung Quốc đang hướng tập trung nhiều hơn vào thị trường nội địa, khiến nhu cầu nhập khẩu từ các nước, trong đó có Việt Nam bị giảm đi. Đây là một thách thức lớn đối với Việt Nam khi quy mô xuất khẩu của chúng ta đang tương đương 93% GDP năm 2017; trong đó Trung Quốc là thị trường xuất khẩu lớn thứ ba của Việt Nam.</p><p class="Normal">
+Bên cạnh đó, khi bị giảm xuất khẩu vào Mỹ, doanh nghiệp Trung Quốc đẩy mạnh xuất khẩu sang nước khác, những thị trường không quá khó tính như Việt Nam, nhất là đối với hàng hóa, thiết bị dư thừa hoặc bị Mỹ áp thuế cao. Thậm chí, tôi e nó có thể bao gồm cả hình thức “đội lốt” hàng hóa Việt hay còn gọi là “tạm nhập, tái xuất” nhằm tránh thuế suất cao.</p><p class="Normal">
+Sự thay đổi này sẽ tạo ra sức ép cạnh tranh khốc liệt hơn đối với doanh nghiệp Việt; đồng thời gây rủi ro bị vạ lây do Mỹ tiến hành điều tra, áp thuế chống bán phá giá hoặc các hình thức phòng vệ khác.</p><p class="Normal">
+Ngoài ra, với việc xuất khẩu sang Trung Quốc khó hơn, nhập khẩu từ Trung Quốc có thể sẽ tăng lên, thâm hụt thương mại Việt - Trung sẽ tăng lên. Đây là một bài toán lớn với nhà điều hành kinh tế Việt Nam trong bối cảnh Việt Nam đang muốn giảm phụ thuộc thương mại vào Trung Quốc.</p><p class="Normal">
+Điều thứ ba, đối sách của Trung Quốc trong cuộc chiến thương mại này sẽ không chỉ tập trung vào chính sách thương mại, mà họ còn sử dụng một số công cụ khác. Ví dụ, Trung Quốc có thể giảm đầu tư vào Mỹ, ban hành mới các tiêu chuẩn về an ninh mạng với hàm ý bảo hộ doanh nghiệp, giảm tỷ lệ dự trữ bắt buộc để giải phóng tiền trong hệ thống ngân hàng, phá giá đồng Nhân dân tệ mạnh tay hơn như <a href="https://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/nguy-co-chien-tranh-tien-te-khi-trung-quoc-lien-tuc-ha-gia-nhan-dan-te-3780649.html?ctr=related_news_click">một biện pháp chiến tranh tiền tệ</a>. Tất cả các động tác này có tác động không nhỏ đến việc tăng sức cạnh tranh của hàng xuất khẩu của Trung Quốc; đồng Tệ mất giá khiến hàng hóa Trung Quốc trở nên rẻ hơn và đồng thời tạo áp lực đẩy tỷ giá tăng đối với VND.</p><p class="Normal">
+Từ những gì quan sát thấy tới thời điểm này, tôi tin rằng những rủi ro, thách thức từ tiếng gầm của hai con sư tử sẽ có thể dồn dập hơn và khó đoán hơn.</p><p class="Normal">
+Tình thế cuộc chiến thương mại chưa kết thúc, có thể còn dai dẳng và khó lường đòi hỏi mỗi doanh nghiệp, tổ chức phải theo dõi, cập nhật, đánh giá, dự báo và đưa ra các kịch bản ứng phó khác nhau.</p><p class="Normal">
+Tôi cũng kỳ vọng Chính phủ sẽ là người cung cấp thông tin, đồng hành và lèo lái gần gũi nhất với các doanh nghiệp, người dân trong câu chuyện này. Trong đó, mấu chốt vẫn là làm sao định hướng để tạo thế cân bằng thương mại hơn với Mỹ, kiến tạo để doanh nghiệp có thể đa dạng hóa thị trường, đối tác, không quên chăm chút thị trường nội địa, quan tâm hơn đến phòng ngừa rủi ro trong cả thương mại, tài chính, tiền tệ và đầu tư.</p><p class="Normal">
+Chiến tranh thương mại Mỹ - Trung đã gõ cửa doanh nghiệp Việt, người dân Việt.</p><p class="Normal" style="text-align:right;">
+<strong><span>Cấn Văn Lực</span></strong></p>	</div>
+<div class="div-fbook width_common mb20">
+<div class="block_btn_like left">
+<div class="item_social font_icon" data-component="true" data-component-type="like" data-component-objectid="3796089" data-component-siteid="1000000" data-objecttype="1"></div>	</div>
+<div class="right text-right">
+<p class="social social-detail">
+<span class="btn_facebook social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/suc-ep-chien-tranh-3796089.html" data-type="facebook" class="icon_share social_share">
+<i class="ic ic-facebook"></i>
+</span>
+<span class="btn_twitter social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/suc-ep-chien-tranh-3796089.html" data-type="twitter" data-content="Sức ép ‘chiến tranh’" class="icon_share social_share">
+<i class="ic ic-twitter"></i>
+</span>
+<span class="btn_google_plus social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/suc-ep-chien-tranh-3796089.html" data-type="google" class="icon_share social_share">
+<i class="ic ic-google-plus"></i>
+</span>
+</p>
+<span class="luu_tin right myvne_save_for_later" data-token="1b65785c7c64cea616dd073875812594" data-article-id="3796089"></span>
+</div>
+</div>
+</div>
+</article>
+<!--END DETAIL GOC NHIN-->

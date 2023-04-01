@@ -1,0 +1,54 @@
+﻿<!--DETAIL GOC NHIN-->
+<article id="article_detail" class="section article_detail">
+<header class="the-article-header inner_section clearfix">
+<h1 class="title_gn_detail">Người thầy</h1>
+<p class="meta">
+<span class="avata_box_author">
+<a href="https://vnexpress.net/tac-gia/do-hai-1153.html">
+<img src="https://i-vnexpress.vnecdn.net/2018/09/07/dohaipng-1536328966.png" alt="Đỗ Hải">
+<strong>Đỗ Hải</strong>
+</a>
+</span>
+<span class="time">Thứ tư, 12/9/2018, 00:00 (GMT+7)</span>
+<a href="#box_comment"><span class="icon_commend" data-href="https://vnexpress.net/tin-tuc/goc-nhin/nguoi-thay-3805307.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3805307"><img class="icon_content icon_title_coment" alt="" src="https://s.vnecdn.net/vnexpress/restruct/i/v14/graphics/img_blank.gif">&nbsp;</span></span></a>
+<span class="luu_tin myvne_save_for_later" data-token="27e6478e4208f5b0af9ffa356d1f716f" data-article-id="3805307"></span>
+</p>
+</header>
+<div class="article_body inner_section clearfix">
+<div class="fck_detail">
+<p class="Normal">Một buổi sáng mùa đông, tôi bước chân vào phòng học có khoảng 70 sinh viên năm thứ ba. Tiết một bắt đầu lúc 7 giờ, chưa ai chuẩn bị công cụ giảng dạy. Người thì ngáp, người gục mặt xuống bàn ngủ, người bấm điện thoại, người buôn chuyện. Bao trùm cả lớp là thứ ánh sáng loang lổ vì chỗ có đèn, chỗ không. Tôi lên bục, cầm micro: “Chào các em!”. Một số bạn đứng lên chào giáo viên, rồi các bạn khác cũng rậm rịch đứng lên theo.</p>
+<p class="Normal">
+Tôi hướng về phía mấy bạn ngồi gần công tắc điện và nói: “Cho cô xin năm trăm điện nào”. Các sinh viên nhìn nhau. “Kìa, cô bảo mày”, “Mày ngồi gần hơn tao mà”, rồi cũng có bạn lê dép đi bật điện. Tôi cảm giác đang đứng trước biệt đội “xác sống giảng đường”. Vẫn còn nhiều ánh mắt lờ đờ đỏ hoe, vài bạn nhìn tôi dò xét, một anh chàng khoanh tay trước ngực, ưỡn người ra sau, nghênh đầu nhìn tôi vẻ thách thức: “Nào thì xem bà cô này dạy thế nào!”.</p><p class="Normal">
+Một buổi chiều mùa hè, tôi bước vào phòng học khác. Mấy cái quạt trần chạy vù vù không át nổi sự nóng nực của những tia nắng xói ngang. Trên bục, máy chiếu, micro, đài đã sẵn sàng, tôi giới thiệu môn học. Mới nói một lúc, mồ hôi đã lấm chấm trên mặt. Bỗng một anh chàng xin phép ra ngoài, lúc sau quay lại với cốc nước trên tay: “Cô uống nước ạ!” . Tôi thấy xúc động tận đáy lòng.</p><p class="Normal">
+Anh chàng đó tên Duy. Cậu ta lúc nào cũng tươi cười, ánh mắt hồn nhiên, luôn toát lên vẻ nhiệt tình, hăng hái. Duy là người luôn đến sớm để cùng bạn đi lấy micro, đài và sổ đầu bài cho giáo viên, kéo máy chiếu, chạy đi thay pin nếu hết pin, chạy đi đổi đài nếu cần. Khi cần đổi phòng học khác rộng và mát hơn, cậu ta chạy đi khắp các dãy nhà để hỏi phòng trống. Trong lớp, Duy nổi bật vì tích cực tham gia trao đổi bài và xung phong phát biểu với phong thái và ngôn từ khá rắn rỏi, tư duy độc lập. Mặc dù đôi lúc vẫn còn thể hiện sự ngây thơ, vội vàng nhưng dường như cậu chẳng sợ sai; cũng không sợ bị đánh giá là thích thể hiện, thích nổi bật; càng không xấu hổ khi phát biểu những suy nghĩ rất chân thật của mình.</p><p class="Normal">
+Mỗi năm, tôi dạy chục lớp với hàng ngàn sinh viên, tôi nhận thấy có một lượng “xác sống giảng đường” không hề nhỏ. Họ lờ đờ, uể oải, thiếu sức sống khiến tôi thấy tiếc cho tình trạng lãng phí chất xám và năng lượng ở những người trẻ.</p><p class="Normal">
+Ngược lại, những sinh viên như Duy là số ít. Những việc Duy làm không đến nỗi cực nhọc gì nhưng thể hiện một con người nhạy bén, có óc quan sát, có khả năng giải quyết vấn đề và biết nghĩ cho người khác. Duy được các thầy cô, anh chị khóa trên tin tưởng nên có công việc hay, vị trí tốt là gọi cậu đi làm. Ra trường, cậu đã có vài năm kinh nghiệm làm việc, được nhận vào một tập đoàn với với mức lương khởi điểm khá cao, trong khi những sinh viên đồng lứa còn đang đì đẹt đi xin việc hoặc chấp nhận mức lương trung bình.</p><p class="Normal">
+Có phải tôi đã quá tán dương Duy? Có những hành động tưởng chừng rất nhỏ, ai cũng làm được, nhưng có mấy người chủ động đứng lên làm? Hoặc nhiều người cũng muốn làm, nhưng họ e ngại, họ còn nhìn người khác, chờ xem có ai đứng lên không, hoặc họ không biết nên làm gì. Trong các cuộc hội họp hay thảo luận thì: thứ nhất ngồi ì, thứ nhì đồng ý, thứ ba lí nhí, thứ tư bí từ. Hình như đó là thói quen của số đông người Việt, thiếu sự chủ động, tích cực trong mọi việc. Họ thường ngồi chờ đợi mọi thứ tự nó đến, chờ đợi người khác giúp, nhắc nhở hay giục giã mới làm.</p><p class="Normal">
+Tuổi trẻ là tương lai của đất nước. Tôi không hoàn toàn đổ trách nhiệm lên đầu các em dù yếu tố tự nhận thức của những người trẻ rất quan trọng với cuộc đời họ. Bởi tôi cho rằng nhận thức của giới trẻ được ươm tạo từ môi trường giáo dục, trong đó có vai trò rất lớn của người thầy.</p><p class="Normal">
+Chúng ta còn chưa quên khoảnh khắc cả thế giới vỡ òa niềm vui khi nghe tin đội bóng Lợn Hoang và huấn luyện viên Ake được giải cứu khỏi hang Tham Luang, Thái Lan. Phép màu đó không tự nhiên mà có. Tôi không biết rõ mỗi ngày các em đã được Ake truyền dạy những gì, nhưng biết được cách các em ứng xử, đối mặt và vượt qua thử thách thì tôi tin các em đã gặp một người thầy tốt.</p><p class="Normal">
+Một phương pháp giảng dạy hiệu quả mà tôi được truyền cảm hứng từ một người thầy của mình, đó là: “Khai tâm rồi mới khai trí”. Làm thầy đứng trước học trò giống như người lãnh đạo, muốn các em hào hứng học tập, trước hết thầy phải yêu quý các em, biết khai mở tâm tính tốt, khơi gợi trí tò mò và yêu thích khám phá của các em rồi mới đến việc truyền kiến thức.</p><p class="Normal">
+Tôi cũng tâm đắc với câu nói “Thượng bất chính, hạ tác loạn” và áp dụng nó làm nguyên tắc giảng dạy của mình. Người thầy không chân chính, anh minh thì trò sẽ loạn. Muốn trò tốt, trò giỏi, trước hết thầy phải tốt, phải giỏi.</p><p class="Normal">
+Ngày nay, khoa học chứng minh phương pháp dạy và học hiệu quả nhất là thông qua trải nghiệm thực tế, trực quan sinh động. Thầy làm, trò noi theo. Thầy là tấm gương, trò nhìn vào học tập. Nếu tấm gương ấy tối tăm, u ám, nhiễu loạn thì người soi cũng nhiễu loạn. Ngược lại, một tấm gương sáng thì người soi sẽ đi đúng đường. Có thể nói, học trò phản chiếu người thầy. Thầy là nhân, trò là quả. Thái độ, nhân cách, kiến thức và kỹ năng giảng dạy của thầy có khả năng làm thay đổi thái độ, nhân cách và năng lực của trò.</p><p class="Normal">
+Nhìn vào cách cư xử của giới trẻ ở một quốc gia, có thể thấy một phần tương lai đất nước. Không phải tất cả sinh viên đều vật vờ. Nhưng đáng buồn, cũng không hiếm tại giảng đường đại học Việt Nam.</p><p align="right" class="Normal">
+<strong>Đỗ Hải </strong></p>	</div>
+<div class="div-fbook width_common mb20">
+<div class="block_btn_like left">
+<div class="item_social font_icon" data-component="true" data-component-type="like" data-component-objectid="3805307" data-component-siteid="1000000" data-objecttype="1"></div>	</div>
+<div class="right text-right">
+<p class="social social-detail">
+<span class="btn_facebook social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/nguoi-thay-3805307.html" data-type="facebook" class="icon_share social_share">
+<i class="ic ic-facebook"></i>
+</span>
+<span class="btn_twitter social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/nguoi-thay-3805307.html" data-type="twitter" data-content="Người thầy" class="icon_share social_share">
+<i class="ic ic-twitter"></i>
+</span>
+<span class="btn_google_plus social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/nguoi-thay-3805307.html" data-type="google" class="icon_share social_share">
+<i class="ic ic-google-plus"></i>
+</span>
+</p>
+<span class="luu_tin right myvne_save_for_later" data-token="27e6478e4208f5b0af9ffa356d1f716f" data-article-id="3805307"></span>
+</div>
+</div>
+</div>
+</article>
+<!--END DETAIL GOC NHIN-->

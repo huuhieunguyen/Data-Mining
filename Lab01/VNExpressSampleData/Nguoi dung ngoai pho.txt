@@ -1,0 +1,53 @@
+﻿<!--DETAIL GOC NHIN-->
+<article id="article_detail" class="section article_detail">
+<header class="the-article-header inner_section clearfix">
+<h1 class="title_gn_detail">Người dưng ngoài phố</h1>
+<p class="meta">
+<span class="avata_box_author">
+<a href="https://vnexpress.net/tac-gia/hoang-minh-tri-324.html">
+<img src="https://i-vnexpress.vnecdn.net/2015/07/20/cutrijpg-1437403752.jpg" alt="Hoàng Minh Trí">
+<strong>Hoàng Minh Trí</strong>
+</a>
+</span>
+<span class="time">Chủ nhật, 26/8/2018, 21:41 (GMT+7)</span>
+<a href="#box_comment"><span class="icon_commend" data-href="https://vnexpress.net/tin-tuc/goc-nhin/nguoi-dung-ngoai-pho-3798499.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3798499"><img class="icon_content icon_title_coment" alt="" src="https://s.vnecdn.net/vnexpress/restruct/i/v14/graphics/img_blank.gif">&nbsp;</span></span></a>
+<span class="luu_tin myvne_save_for_later" data-token="68a766a5f225ab7c376d4bc0ff0aac2b" data-article-id="3798499"></span>
+</p>
+</header>
+<div class="article_body inner_section clearfix">
+<div class="fck_detail">
+<p class="Normal">Bố tôi sinh năm 1938, đã có một tuổi trẻ được học hành tươm tất thời Pháp thuộc. Nhưng những điều tưởng chừng đầy thuận lợi cho sau này lại trở thành một gánh nặng lên cuộc đời ông. Bất lợi về xuất thân lẫn lý lịch đằng đẵng bám theo khi đi học lẫn đi làm.</p>
+<p class="Normal">
+<span>Ông thất vọng rất nhiều và vài chục năm sau bắt đầu uống rượu, uống nhiều đến mức nếu không có rượu chân tay sẽ run và toát mồ hôi hột trên trán. Ở phố cũ, dân phố nương nhau sống. Những người say rượu, người ta đưa về hoặc lên tận nhà gọi ra quán đón. Ở phố cũ người ta coi ông vẫn là người bình thường.</span></p><p class="Normal">
+<span>Năm 1989 gia đình tôi chuyển về gầm cầu gần chợ Đồng Xuân, chỗ ấy không có những điều đó. Bố tôi vẫn hay ra phố uống rượu với những người xa lạ. Có lần say quá, đám thanh niên phố chợ bê bố tôi nhét vào cái sọt tre rồi kéo lê quanh phố đến tận chợ Long Biên, ông chảy máu khắp mặt và đám đông ấy bu quanh cười ngặt nghẽo thỏa mãn. Tôi còn quá nhỏ, chỉ biết chạy theo khóc, không có ai bênh vực một người không bình thường như vậy. Đám trẻ con ở phố mới cũng thế, chúng coi tôi là con của một người điên, coi thường, khinh bỉ nhiều năm sau đó, thỉnh thoảng cà khịa đấm chảy toang máu mũi ở giữa phố.</span></p><p class="Normal">
+<span>Bố tôi tỉnh táo vào ban sáng và thường tuyệt nhiên không nhớ gì của ngày hôm qua, có lẽ vậy nên ông không bận tâm lắm những kẻ hành hạ mình hôm trước. Còn tôi thì không thể, sợ hãi, nem nép và nhiều khi cắm đầu bước thật nhanh để lẩn tránh khi vô tình đi qua chỗ bố ngồi uống rượu. Sau này chị gái có bạn trai, là anh rể tôi bây giờ, hay đến nhà chơi và thỉnh thoảng ra đưa bố tôi về khi say, đám ấy không còn bắt nạt bố con tôi nữa.</span></p><p class="Normal">
+<span>Một người không tỉnh táo trí óc là bi kịch cho mỗi gia đình, tôi tin là vậy. Ông mất đã lâu, tôi vẫn hay đi qua con phố ấy, đôi lúc dừng lại trân trối nhìn góc phố gần như không biến dạng bởi thời gian. Ủy mị khóc, ước rằng khi ấy đã đủ cứng cáp như hôm nay để làm gì đó cho bố. Năm ngoái nhiếp ảnh gia Dương Minh Long đăng tải lên Facebook một bức ảnh chụp năm 1991, trong đó đúng góc phố này, tôi xin và anh Long đã in tặng đóng khung gỗ rất cầu kỳ, nó lớn hơn một bức ảnh bởi đó là ký ức rất buồn không thể quên.</span></p><p class="Normal">
+<span>Cách đây ít lâu tôi đi dạo bộ trên phố thì bắt gặp một chiếc xe thùng thu gom người lang thang quanh khu vực hồ Gươm. Họ đỗ xe dưới trời nắng nóng rồi kéo nhau vào quán ăn cơm trưa, để lại thùng kín phía sau một bác lớn tuổi có gương mặt khắc khổ, bẩn thỉu, mái tóc bù xù. Tôi cảm thấy bực, đi vào hỏi họ sao lại để như vậy. Một anh trong nhóm thu gom nói: “Ôi thằng điên ý mà để ý làm gì em”.</span></p><p class="Normal">
+<span>Tôi ra xe nói chuyện với ông già “điên”, ông hỏi xin điếu thuốc, tôi châm luồn đưa qua khe hẹp. Ông cầm điếu thuốc lặng lẽ hút, mắt buồn có hồn, đầy ám ảnh.</span></p><p class="Normal">
+<span>Có lẽ người ta sống ít khi phải nặng lòng với những kẻ bị cho là thần kinh ngoài phố, đôi khi bị coi là những kẻ tận cùng của xã hội. Và họ đối xử với những con người ấy bằng trí khôn của một số phận nhiều may mắn hơn, thông tuệ, khôn lanh...</span></p><p class="Normal">
+<span>Những clip người điên bán bóng bay đạp xe như gió ngoài phố, ông thần kinh không bình thường đi mua chiếc áo đỏ... được chia sẻ đầy trên mạng xã hội hôm nay, sẽ mua vui được cho đám đông. Mạng xã hội tò mò và thích thú với điều đó, giống như niềm vui của những anh bạn bên chiếc sọt tre trong đó có ông cụ nhà tôi mấy chục năm trước vậy.</span></p><p class="Normal">
+<span>Mạng xã hội không giống chiếc sọt tre, bởi nó sẽ còn tồn tại những nụ cười thỏa mãn đó một thời gian rất dài, không hề biến mất vào sáng ngày mới khi vào phiên chợ.</span></p><p class="Normal">
+<span>Mỗi lần cười cợt sự thiệt thòi của người “điên” hay kẻ yếm thế thần kinh, giống như mình lại xúc một thìa nhỏ tính thiện tâm trong lòng hất ra đường để đổi lấy một nụ cười. Không hiểu vì lý do gì, chúng ta đang thiếu đi một tấm lòng cần thiết. Và cũng có những kẻ khôn ranh đang mua bán giấy chứng nhận tâm thần để phạm tội ác, để chứng minh là người bình thường thời này có lẽ còn khó hơn.</span></p><p class="Normal">
+<span>Tất nhiên để hiểu, hoặc chút ít biết cảm thông, trắc ẩn với cuộc đời người khác có gì đó vời vợi, nhưng không phải quá khó.</span></p><p class="Normal" style="text-align:right;">
+<strong><span>Hoàng Minh Trí</span></strong></p>	</div>
+<div class="div-fbook width_common mb20">
+<div class="block_btn_like left">
+<div class="item_social font_icon" data-component="true" data-component-type="like" data-component-objectid="3798499" data-component-siteid="1000000" data-objecttype="1"></div>	</div>
+<div class="right text-right">
+<p class="social social-detail">
+<span class="btn_facebook social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/nguoi-dung-ngoai-pho-3798499.html" data-type="facebook" class="icon_share social_share">
+<i class="ic ic-facebook"></i>
+</span>
+<span class="btn_twitter social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/nguoi-dung-ngoai-pho-3798499.html" data-type="twitter" data-content="Người dưng ngoài phố" class="icon_share social_share">
+<i class="ic ic-twitter"></i>
+</span>
+<span class="btn_google_plus social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/nguoi-dung-ngoai-pho-3798499.html" data-type="google" class="icon_share social_share">
+<i class="ic ic-google-plus"></i>
+</span>
+</p>
+<span class="luu_tin right myvne_save_for_later" data-token="68a766a5f225ab7c376d4bc0ff0aac2b" data-article-id="3798499"></span>
+</div>
+</div>
+</div>
+</article>
+<!--END DETAIL GOC NHIN-->

@@ -1,0 +1,56 @@
+﻿<!--DETAIL GOC NHIN-->
+<article id="article_detail" class="section article_detail">
+<header class="the-article-header inner_section clearfix">
+<h1 class="title_gn_detail">Những kẻ giết rùa</h1>
+<p class="meta">
+<span class="avata_box_author">
+<a href="https://vnexpress.net/tac-gia/nguyen-lung-danh-1152.html">
+<img src="https://i-vnexpress.vnecdn.net/2018/09/06/lungdanhpng-1536174038.png" alt="Nguyễn Lừng Danh">
+<strong>Nguyễn Lừng Danh</strong>
+</a>
+</span>
+<span class="time">Thứ ba, 11/9/2018, 00:00 (GMT+7)</span>
+<a href="#box_comment"><span class="icon_commend" data-href="https://vnexpress.net/tin-tuc/goc-nhin/nhung-ke-giet-rua-3805304.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3805304"><img class="icon_content icon_title_coment" alt="" src="https://s.vnecdn.net/vnexpress/restruct/i/v14/graphics/img_blank.gif">&nbsp;</span></span></a>
+<span class="luu_tin myvne_save_for_later" data-token="a580f435857e764874d052edea52c500" data-article-id="3805304"></span>
+</p>
+</header>
+<div class="article_body inner_section clearfix">
+<div class="fck_detail">
+<p class="Normal">Tôi và cô bạn bước vào quán cà phê trên đường Cuba - con đường nhộn nhịp nhất thủ đô Wellington, New Zealand. Trong lúc xếp hàng chờ mua cà phê, tôi thấy có một khay đựng ống hút nhựa, được dán nhãn “Turtle killer”, tạm dịch: kẻ giết rùa.</p>
+<p class="Normal">
+Vài năm trước, một đoạn phim về chú rùa biển bị ống hút nhựa cắm vào mũi và suýt chết được đưa lên mạng. Từ đó, người ta dán nhãn “kẻ giết rùa” để khuyên khách hàng hạn chế lấy ống hút nhựa khi mua đồ uống. Bạn tôi kể rằng cô hay tới đây mua cà phê mang đi, những lần đầu đều lấy ống hút nhựa. Một lần, chủ quán hỏi: “Sao cô cứ lấy kẻ giết rùa hoài vậy?”. Ông tặng cô một ống hút kim loại dành cho khách uống tại quán. Ông dặn, dùng xong, rửa sạch, lần sau tới nhớ mang theo.</p><p class="Normal">
+Một lần, cô làm mất cái ống hút kim loại, nhưng không muốn dùng lại ống “giết rùa”, cô tới quán mua một ống hút kim loại khác và dùng cho tới bây giờ. Quán cà phê đó cách đây vài tuần đã chuyển sang dùng ống hút giấy cho những người mua mang đi. Một số quán khác trong thủ đô này cũng đã làm theo, dán nhãn “kẻ giết rùa” vào hộp đựng ống hút.</p><p class="Normal">
+Sống ở đây gần nửa năm, một trong những biến chuyển đáng kể nhất tới tư duy của tôi chính là thái độ với môi trường. Ở Việt Nam, tôi ít lăn tăn khi lấy thêm một cái ống hút, một bịch nylon, mua thêm một chai nhựa. Nhưng từ khi qua đây, thấy người người đều ý thức về môi trường, tôi không thể thờ ơ như trước.</p><p class="Normal">
+Tôi bây giờ khác hẳn tôi ở Việt Nam: đi siêu thị nếu mua ít đồ thì tự cầm bằng tay, mua nhiều đồ thì bỏ vào thùng carton mang về. Có lần, nhân viên siêu thị hỏi có lấy túi nylon không. "Không, bảo vệ môi trường”, tôi nói. Anh cười tươi, giơ ngón tay cái: "Yeah, đúng rồi, đúng rồi".</p><p class="Normal">
+Năm 2010, một nhóm nhà khoa học Mỹ và Úc công bố nghiên cứu rằng,Việt Nam xếp thứ tư thế giới về số lượng rác thải nhựa không được xử lý, với 1,8 triệu tấn. Nước ta đứng sau Trung Quốc, Indonesia và Philippines về khối lượng. Tuy nhiên, nếu xét trên tỷ lệ dân số, chúng ta đang đứng đầu với mức trung bình mỗi người dân xả ra môi trường khoảng 20 kg chất thải nhựa mỗi năm. Trong số 1,8 triệu tấn rác thải nhựa trên có 730 nghìn tấn nhựa thải trực tiếp ra biển, hoặc trôi bồng bềnh, hoặc chìm xuống đáy đại dương.</p><p class="Normal">
+Những hình ảnh rùa biển bị vướng vào mảnh nhựa, chim biển mắc kẹt vào mớ nylon, hay cá voi chết vì nuốt quá nhiều nhựa đã quá phổ biến trên mạng. Hàng trăm sinh vật biển đang bị đe dọa từ nguy cơ rác. Người ta tìm thấy hạt vi nhựa trong cơ thể chúng. Liệu thông qua chuỗi thức ăn, chúng ta có đang hấp thụ nhựa vào cơ thể không?</p><p class="Normal">
+Tôi tự hỏi liệu có ngày nào đó con người sẽ coi rác là giặc? Và các chương trình phòng chống rác hiệu quả sẽ được triển khai thay vì phong trào bề nổi như chiến dịch dọn rác vỉa hè hay tái chế vỏ chai nhựa làm khay trồng rau, nổi lên vài ngày rồi chìm xuống.</p><p class="Normal">
+Tôi cho rằng trẻ em từ mẫu giáo phải được giáo dục về tác hại của rác nhựa, và nhắc đi nhắc lại trong nhiều năm, kèm theo sự tham gia hành động cụ thể. Giáo dục ý thức từ nhỏ là điều dễ làm và tác động sâu rộng.</p><p class="Normal">
+Ở các khu chợ trời cuối tuần Wellington, người ta bày hàng rau củ quả, cạnh các gian hàng đều có cuộn túi nylon, ai muốn mua gì thì tự lấy túi đựng rồi mang lại quầy tính tiền. Ấy thế mà, tôi đã nhiều lần nhìn thấy các em chỉ 5-6 tuổi, hai tay cầm hai củ khoai tây cùng cha mẹ các cháu - cũng hai tay cầm trực tiếp nhiều rau củ khác - đi tới quầy tính tiền, rồi bỏ vào túi vải họ mang theo.</p><p class="Normal">
+Tiếp đến, chủ các siêu thị, cửa hàng nên đưa ra lời kêu gọi nói không với nilon. Có siêu thị thì phạt bằng cách tính thêm phí 20 xu nếu lấy túi nilon; có chỗ thì thưởng bằng việc giảm 20 xu nếu bạn mua đơn hàng trên 20 USD mà không lấy túi nylon; có chỗ thì dán dòng chữ tại quầy “Hãy giúp chúng tôi với chương trình hạn chế túi nylon” và kế bên để rất nhiều thùng giấy. Bạn có thể bỏ đồ vào thùng mang về.</p><p class="Normal">
+Thứ nữa, tôi ước chi việc phân loại rác tại nguồn được thực hiện càng sớm càng tốt tại Việt Nam. Mô hình phân loại rác không khó gì, chỉ cần gõ một từ tìm kiếm là đủ loại mô hình từ Nhật Bản đến Đài Loan sẽ hiện ra. Ý thức về việc phân loại, thu gom các loại rác khác nhau vào những ngày khác nhau có thể được triển khai thông qua nhiều kênh: dạy trẻ con ở trường, đưa tờ rơi hướng dẫn tới các hộ, các cuộc họp dân phố, lên báo đài. Tôi tin nếu nhà chức trách quyết tâm, chúng ta chắc chắn sẽ có thói quen, nếp sống ân cần với môi trường hơn.</p><p class="Normal">
+Và cuối cùng, đừng quên các doanh nghiệp. Doanh nghiệp dù có giàu có tới mấy mà dung túng hành vi tổn hại tới môi trường như dùng túi nhựa, chai nhựa nên được yêu cầu thay đổi hành vi hoặc có chính sách thuế nghiêm khắc hơn. Liệu có ai muốn dạy thế hệ sau rằng “Đất nước ta rừng vàng biển rác”?</p><p class="Normal">
+Tháng này New Zealand vừa thông qua đạo luật mới, tiến tới cấm sử dụng túi nylon cỡ nhỏ - loại chỉ đựng 1, 2 món hàng - mà chỉ cho sử dụng túi cỡ lớn hoặc túi chứa rác. Thủ tướng và thứ trưởng Bộ Môi trường lên báo nhắc nhở dân chúng rằng rác nhựa đang làm hại sinh vật biển. Một vài siêu thị bắt đầu không sử dụng túi nilon nữa.</p><p class="Normal">
+Tôi hình dung khi trở về sống tại Việt Nam, mỗi khi thấy ai đó định lấy thêm một túi nylon ở quầy tính tiền, tôi sẽ phải nói câu gì để họ đổi ý.</p><p align="right" class="Normal">
+<strong>Nguyễn Lừng Danh</strong></p>	</div>
+<div class="div-fbook width_common mb20">
+<div class="block_btn_like left">
+<div class="item_social font_icon" data-component="true" data-component-type="like" data-component-objectid="3805304" data-component-siteid="1000000" data-objecttype="1"></div>	</div>
+<div class="right text-right">
+<p class="social social-detail">
+<span class="btn_facebook social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/nhung-ke-giet-rua-3805304.html" data-type="facebook" class="icon_share social_share">
+<i class="ic ic-facebook"></i>
+</span>
+<span class="btn_twitter social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/nhung-ke-giet-rua-3805304.html" data-type="twitter" data-content="Những kẻ giết rùa" class="icon_share social_share">
+<i class="ic ic-twitter"></i>
+</span>
+<span class="btn_google_plus social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/nhung-ke-giet-rua-3805304.html" data-type="google" class="icon_share social_share">
+<i class="ic ic-google-plus"></i>
+</span>
+</p>
+<span class="luu_tin right myvne_save_for_later" data-token="a580f435857e764874d052edea52c500" data-article-id="3805304"></span>
+</div>
+</div>
+</div>
+</article>
+<!--END DETAIL GOC NHIN-->

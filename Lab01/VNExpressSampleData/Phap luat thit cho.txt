@@ -1,0 +1,57 @@
+﻿<!--DETAIL GOC NHIN-->
+<article id="article_detail" class="section article_detail">
+<header class="the-article-header inner_section clearfix">
+<h1 class="title_gn_detail">Pháp luật thịt chó</h1>
+<p class="meta">
+<span class="avata_box_author">
+<a href="https://vnexpress.net/tac-gia/duc-hoang-58.html">
+<img src="https://i-vnexpress.vnecdn.net/2017/04/03/DucHoangpng-1491237929.png" alt="Đức Hoàng">
+<strong>Đức Hoàng</strong>
+</a>
+</span>
+<span class="time">Thứ năm, 13/9/2018, 23:41 (GMT+7)</span>
+<a href="#box_comment"><span class="icon_commend" data-href="https://vnexpress.net/tin-tuc/goc-nhin/phap-luat-thit-cho-3808911.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3808911"><img class="icon_content icon_title_coment" alt="" src="https://s.vnecdn.net/vnexpress/restruct/i/v14/graphics/img_blank.gif">&nbsp;</span></span></a>
+<span class="luu_tin myvne_save_for_later" data-token="fc9dbc23c471547906f1810deb3c54cc" data-article-id="3808911"></span>
+</p>
+</header>
+<div class="article_body inner_section clearfix">
+<div class="fck_detail">
+<p class="Normal">Cuộc tranh luận thịt chó trên truyền thông đã kéo dài hơn một thập niên, và có lẽ còn kéo dài rất lâu nữa nếu người ta cương quyết tiếp cận nó ở góc độ văn hóa.</p>
+<p class="Normal">
+Rất ít người tiếp cận thịt chó ở góc độ pháp luật. Ngay cả chính quyền Hà Nội, trong một nỗ lực tưởng như rất gắt gao khi đề xuất cấm bán thịt chó, cũng dùng chữ “vận động” hay là “khuyến cáo” để mô tả tiến trình. Trong khi đó, điều kỳ lạ nhất, đáng nói nhất, là việc con chó đang được sử dụng làm thực phẩm, lại không chịu sự kiểm soát đáng kể nào về giết mổ, nguồn gốc, thú y, kiểm dịch.</p><p class="Normal">
+Một quả trứng gà chưa thành hình con vật về nguyên tắc cũng phải mang dấu thú y và kiểm dịch. Thậm chí nhiều loại thực phẩm còn đang bị cho là mang quá nhiều con dấu. Nhưng chó thì không.</p><p class="Normal">
+Đó là một chương trình truyền hình cách đây chưa lâu. Phía bên kia băng ghế là một biên tập viên nữ xinh đẹp, người chuẩn bị sẵn sàng tâm lý cho một cuộc tranh luận về văn hóa trong “ăn thịt chó”. Tôi hơi bối rối, vì không có sở trường tranh luận.</p><p class="Normal">
+Tôi mở đầu bằng việc thú thực mình chưa bao giờ nghĩ về thịt chó đủ nhiều để cho rằng “nên” hay “không nên”. Tôi vốn luôn quan niệm trong một xã hội tự do, chỉ có hai thứ một con người muốn tồn tại buộc phải tuân theo. Một là các quy luật sinh học, ví dụ như phải uống nước, phải hít thở hoặc không được lao đầu vào xe tải. Hai là luật pháp của quốc gia sở tại. Cái gì không thuộc hai khía cạnh này, hoàn toàn thuộc về ý chí tự do, có tranh luận cũng không dẫn đến đâu.</p><p class="Normal">
+Nhưng nói kiểu “hòa cả làng” như thế thì sẽ rất khó cho nhà sản xuất chương trình. Sau một lúc, cuộc nói chuyện có dấu hiệu gượng gạo. Đằng nào cũng đã mất công ngồi với nhau, nên tôi quay sang nói về luật pháp: thực phẩm thì phải có xuất xứ và kiểm dịch.</p><p class="Normal">
+Các quy chuẩn thực phẩm thật ra giải quyết được rất nhiều vấn đề của thịt chó. Đầu tiên, đòi hỏi nguồn gốc hàng hóa sẽ ngăn chặn việc bắt một con chó bất kỳ để xẻ thịt, tạo ra khung pháp lý chống lại tình trạng trộm chó đầy bi kịch hiện nay. Việc một con vật bị giết mổ để làm thực phẩm, hoàn toàn không chịu sự quản lý của pháp luật, cho dù đến cuối được bày bán công khai, là điều không thể chấp nhận ở một quốc gia tiến bộ. Đặc biệt là một quốc gia yêu giấy phép con và chuộng đóng dấu như nước ta thì càng khó chấp nhận hơn. Nhưng ta vẫn để điều phi lý đó diễn ra khi mải mê hướng các tranh biện vào “tập quán”.</p><p class="Normal">
+Cộng nguồn gốc hàng hóa bắt buộc với quy chuẩn giết mổ, đóng lên một miếng thịt tươi hàng loạt con dấu thú y, thêm vài con dấu nữa nếu qua chế biến, vài con dấu nữa khi đưa vào thương mại, thì giá thịt chó có thể sẽ tăng rất cao.</p><p class="Normal">
+Lúc đó, những người yêu việc ăn thịt chó sẽ buộc phải trả một cái giá rất cao so với hiện nay. Số người có khả năng chi trả thường xuyên cho một bữa thịt cao cấp này, phần nhiều có thể rơi vào nhóm người trẻ đô thị - những người không ăn thịt chó. Hoặc là nhóm người giống như tôi, vốn không quan tâm gì đến thịt chó dưới khía cạnh văn hóa, cái gì cảm thấy vô lý về mặt giá cả thì không tiêu thụ. Việc tăng điều kiện đầu vào cho hàng hóa, đồng nghĩa với tăng giá đột biến, luôn là biện pháp hữu hiệu để giảm cầu.</p><p class="Normal">
+Nếu mọi thứ đi theo lộ trình này, hiệu quả sẽ hơn bất kỳ một cuộc vận động nào. Bạn sẽ nhận ra rằng ở nhiều nước, như Singapore, thói quen hút thuốc đang dần biến mất. Không phải nhờ một cuộc tranh luận hay lên án nào, mà vì các thiết chế khiến người ta quá khổ sở để hút được một điếu thuốc.</p><p class="Normal">
+Tôi đã cảm thấy thất vọng khi chính quyền vẫn dùng những từ như “khuyến cáo” hay “vận động”, khi mà thịt chó vẫn bày đầy hè phố, khói quạt chả bốc thơm lừng, bằng nguồn hàng hóa gần như không chịu sự quản lý. Việc cần làm ngay chưa được làm.</p><p class="Normal">
+Tất cả hàng rào quanh miếng thịt chó, trước hết cần được thực thi nhân danh luật pháp. Thực phẩm người dân ăn thì phải được kiểm soát. Đó là việc đảm bảo nguyên tắc xã hội căn bản và khách quan. Những người ăn thịt chó không cần phải cảm thấy tự ái và phản kháng. Không cần phải biện ra “văn hóa”, “phong tục”, hay là sự “văn minh” nào. Không có gì đáng phải tranh luận nếu chúng ta vá một lỗ hổng trong an toàn thực phẩm.</p><p class="Normal">
+Câu chuyện về thịt chó thật ra phản ánh một thói quen suy nghĩ khá phổ biến. Đó là phân tích hành vi xã hội trên góc độ văn hóa, và toàn tâm điều chỉnh nó ở khía cạnh này, bỏ quên góc độ lập pháp. Nâng cao nhận thức cũng cần thiết. Nhưng chúng ta không điều chỉnh việc đốt pháo, việc hút thuốc lá hay việc đội mũ bảo hiểm bằng “khuyến cáo” hay “tranh luận”: chúng ta đơn giản là ban hành các thiết chế, nhân danh lợi ích công.</p><p class="Normal">
+Nếu tiếp cận mọi thứ dưới góc độ lập pháp, có lẽ nhiều cuộc tranh luận đã đi đến hồi kết nhanh hơn. Từ dùng túi nylon, sử dụng phương tiện cá nhân, thực phẩm có hại, hay thậm chí là chuyện sinh đẻ, nếu chứng minh được lợi ích công bị xâm phạm, các chính phủ đều có thể sử dụng hàng rào pháp lý để điều chỉnh tập quán. Và các cử tri, nếu nhận thức dưới góc độ này, sẽ thuyết phục chính phủ của mình ra tay hiệu quả hơn là nhất quyết đòi “cấm”, đòi “dẹp” hoặc khăng khăng đòi giữ.</p><p class="Normal">
+Sau chương trình hôm ấy, giám đốc kênh truyền hình nhắn tin cảm ơn tôi, vì cái tứ lập pháp mà tôi nói trên sóng. Tôi quên bẵng mất việc trả lời chị và hơi áy náy. Nếu trả lời hôm nay, có lẽ tôi sẽ chia sẻ nhiều hơn với chị, hình như chúng ta - công chúng và những người làm truyền thông Việt Nam - đang quá ham hố việc nhìn nhận mọi thứ dưới góc độ văn hóa.</p><p class="Normal">
+Và phần nhiều, từ chém lợn, chọi trâu, vàng mã, dùng túi nylon đến ăn thịt chó, các cuộc tranh luận kiểu này có xu hướng quẩn quanh.</p><p class="Normal" style="text-align:right;">
+<strong>Đức Hoàng</strong></p>	</div>
+<div class="div-fbook width_common mb20">
+<div class="block_btn_like left">
+<div class="item_social font_icon" data-component="true" data-component-type="like" data-component-objectid="3808911" data-component-siteid="1000000" data-objecttype="1"></div>	</div>
+<div class="right text-right">
+<p class="social social-detail">
+<span class="btn_facebook social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/phap-luat-thit-cho-3808911.html" data-type="facebook" class="icon_share social_share">
+<i class="ic ic-facebook"></i>
+</span>
+<span class="btn_twitter social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/phap-luat-thit-cho-3808911.html" data-type="twitter" data-content="Pháp luật thịt chó" class="icon_share social_share">
+<i class="ic ic-twitter"></i>
+</span>
+<span class="btn_google_plus social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/phap-luat-thit-cho-3808911.html" data-type="google" class="icon_share social_share">
+<i class="ic ic-google-plus"></i>
+</span>
+</p>
+<span class="luu_tin right myvne_save_for_later" data-token="fc9dbc23c471547906f1810deb3c54cc" data-article-id="3808911"></span>
+</div>
+</div>
+</div>
+</article>
+<!--END DETAIL GOC NHIN-->

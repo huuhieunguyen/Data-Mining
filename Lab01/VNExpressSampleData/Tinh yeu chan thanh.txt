@@ -1,0 +1,53 @@
+﻿<!--DETAIL GOC NHIN-->
+<article id="article_detail" class="section article_detail">
+<header class="the-article-header inner_section clearfix">
+<h1 class="title_gn_detail">Tình yêu chân thành</h1>
+<p class="meta">
+<span class="avata_box_author">
+<a href="https://vnexpress.net/tac-gia/truong-anh-ngoc-520.html">
+<img src="https://i-vnexpress.vnecdn.net/2018/08/27/TruongAnhNgocpng-1535385136.png" alt="Trương Anh Ngọc">
+<strong>Trương Anh Ngọc</strong>
+</a>
+</span>
+<span class="time">Thứ hai, 27/8/2018, 22:32 (GMT+7)</span>
+<a href="#box_comment"><span class="icon_commend" data-href="https://vnexpress.net/tin-tuc/goc-nhin/tinh-yeu-chan-thanh-3799148.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3799148"><img class="icon_content icon_title_coment" alt="" src="https://s.vnecdn.net/vnexpress/restruct/i/v14/graphics/img_blank.gif">&nbsp;</span></span></a>
+<span class="luu_tin myvne_save_for_later" data-token="ea945532c5ab05ec3a25f883023b9314" data-article-id="3799148"></span>
+</p>
+</header>
+<div class="article_body inner_section clearfix">
+<div class="fck_detail">
+<p class="Normal">Paul, bạn tôi, một nhà báo người Anh khẳng định rằng, anh ấy tin, Việt Nam là quốc gia yêu bóng đá bậc nhất thế giới. "Tôi rất thích cách người Việt Nam yêu bóng đá, đam mê, cuồng nhiệt và rất chân thành", Paul nói.</p>
+<p class="Normal">
+Một người đã lang thang ở rất nhiều đất nước cuồng nhiệt vì bóng đá như Brazil, Argentina hay Italia đã nói thế, hẳn phải có lý do.</p><p class="Normal">
+Người bạn ấy đã chứng kiến đường phố Hà Nội và TP HCM tràn ngập cờ đỏ sao vàng, những tiếng còi xe vui sướng và những nụ cười hạnh phúc trên môi người hâm mộ trong những ngày đội U23 tạo nên điều kì diệu ở Thường Châu đầu năm nay. Anh cũng đã ngồi tại các quán bia vỉa hè và cùng xem bóng đá với mọi người trong những trận đấu và giải đấu khác nữa. Anh bảo, phải có một niềm đam mê to lớn như thế nào thì người ta mới có thể sống trong bóng đá như thế. Nhưng cũng phải mất một thời gian dài chú ý và cảm nhận, anh mới hiểu được tại sao ở một nước mà đội tuyển quốc gia trong bao năm vẫn ngụp lặn ở những giải đấu cấp khu vực, chưa từng vào World Cup, người ta lại yêu mến và phát cuồng vì một đội tuyển trẻ đến như vậy.</p><p class="Normal">
+Những người đến từ các nền bóng đá phát triển đương nhiên không thể hiểu được tại sao ở một đất nước yêu bóng đá như thế này, người ta lại yêu một đội tuyển trẻ đến thế, điều ít thấy ở nước họ - kể cả nếu đội tuyển trẻ kia thành công trên cấp độ thế giới.</p><p class="Normal">
+Lý do ấy tiếp tục được thể hiện khi những chàng trai đã có mặt ở Thường Châu, cộng thêm ba cầu thủ trên 23 tuổi, vào đến bán kết của Asian Games 2018. Đó là một thành tích chưa từng có trong lịch sử bóng đá nước nhà. Nó sẽ là một sự khẳng định rằng, bóng đá của quốc gia hơn 90 triệu dân không chỉ còn quanh quẩn trong cái ao khu vực, luôn bị ám ảnh nỗi sợ hãi người Thái, mà đã tiến ra ngoài đường biên châu Á, thậm chí đã mơ đến xa hơn nữa, thế giới. Năm ngoái, cũng lần đầu tiên U20 của Việt Nam đi dự World Cup.</p><p class="Normal">
+Nhưng thực ra, người ta yêu lứa cầu thủ này đến thế không phải vì họ chiến thắng - họ đã vô địch những giải lớn chính thức nào đâu, chỉ là á quân ở U23 Châu Á - mà vì họ đem đến cho người hâm mộ biết bao cảm xúc về một thứ bóng đá quả cảm, mạnh mẽ, hết mình và không hề vụ lợi của tuổi trẻ. Thứ bóng đá trong sạch và đầy tính chiến đấu.</p><p class="Normal">
+Anh bạn tôi không phải là người Việt và do đó không thể hiểu được, khi những thế hệ cổ động viên trung niên ngừng quay lưng với đội tuyển, khi thế hệ cổ động viên trẻ coi các cầu thủ ấy là người hùng, không phải chỉ vì họ đẹp trai và ra dáng đàn ông, mà là vì họ không bị vẩn đục bởi những nỗi nghi ngờ sẽ phản bội như nhiều lứa cầu thủ tài năng trước đây. Những vụ bán độ, cả những cầu thủ bị bắt và ra toà, trong một nền bóng đá mà đến cả một số tuyển thủ quốc gia cũng bị những thế lực đen bên ngoài thao túng. Đã có rất nhiều năm, những scandal bán độ liên tiếp xảy ra và quét khỏi nền bóng đá nhiều cầu thủ giỏi. Không có gì ngạc nhiên khi niềm tin của người hâm mộ đã bị bào mòn. Các sân bóng ở giải V-League đìu hiu. Những người hâm mộ chân chính nhìn bóng đá nước nhà với sự ngao ngán.</p><p class="Normal">
+Cho đến khi một làn gió mới thổi tới. Khi những đại gia bắt đầu đầu tư một cách bài bản cho bóng đá trẻ, những đội tuyển trẻ bắt đầu gặt hái những chiến thắng ở các giải trẻ khu vực và châu lục. Và rồi tất cả thay đổi mãnh liệt khi đội tuyển dưới tay ông Park Hang-Seo làm những điều trước nay không ai có thể nghĩ đến trong giải trẻ U23 Châu Á. </p><p class="Normal">
+Hệ quả từ thành công ấy rất lớn. Khán giả bắt đầu trở lại các sân bóng để theo dõi V-League. Một niềm tin lớn lao về hướng đi đúng của bóng đá nước nhà bao trùm tất cả, bất chấp những lùm xùm và tranh cãi, thị phi xung quanh cơ cấu tổ chức nhiệm kỳ mới của Liên đoàn Bóng đá Việt Nam. Và việc đội tuyển Olympic đi sâu trong giải Asian Games 2018 tiếp tục thổi bùng lên tình yêu trong sáng và nỗi đam mê lớn lao.</p><p class="Normal">
+Điều gì sẽ xảy ra hôm nay, khi chúng ta chiến thắng Syria, và làm nên lịch sử? Chắc chắn những đường phố sẽ lại được nhuộm bằng cờ đỏ sao vàng và những nụ cười của người hâm mộ. Họ chỉ đợi như thế để được ăn mừng như thể chúng ta đã vào vòng chung kết World Cup.</p><p class="Normal">
+Nhưng, ngay cả khi chiến thắng không đến thì chắc chắn cũng sẽ không có điều gì rạn vỡ trong lòng các cổ động viên đã yêu mến họ. Bởi với những gì từng thể hiện, họ đã là những người hùng trong trái tim tất cả, bằng một thứ bóng đá “thật” và sạch. Điều rất giản dị công chúng từng khao khát mà không có được những năm qua.</p><p class="Normal">
+ Nếu gặp lại Paul, tôi sẽ nói rằng, đối với chúng tôi, bóng đá là một phần của cuộc sống thường nhật. Vì chúng tôi khao khát cuộc sống của mình hạnh phúc, vui vẻ và trong sạch, nên cũng muốn bóng đá của mình như thế.</p><p class="Normal" style="text-align:right;">
+<strong><span>Trương Anh Ngọc</span></strong></p>	</div>
+<div class="div-fbook width_common mb20">
+<div class="block_btn_like left">
+<div class="item_social font_icon" data-component="true" data-component-type="like" data-component-objectid="3799148" data-component-siteid="1000000" data-objecttype="1"></div>	</div>
+<div class="right text-right">
+<p class="social social-detail">
+<span class="btn_facebook social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/tinh-yeu-chan-thanh-3799148.html" data-type="facebook" class="icon_share social_share">
+<i class="ic ic-facebook"></i>
+</span>
+<span class="btn_twitter social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/tinh-yeu-chan-thanh-3799148.html" data-type="twitter" data-content="Tình yêu chân thành" class="icon_share social_share">
+<i class="ic ic-twitter"></i>
+</span>
+<span class="btn_google_plus social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/tinh-yeu-chan-thanh-3799148.html" data-type="google" class="icon_share social_share">
+<i class="ic ic-google-plus"></i>
+</span>
+</p>
+<span class="luu_tin right myvne_save_for_later" data-token="ea945532c5ab05ec3a25f883023b9314" data-article-id="3799148"></span>
+</div>
+</div>
+</div>
+</article>
+<!--END DETAIL GOC NHIN-->

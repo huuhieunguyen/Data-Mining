@@ -1,0 +1,56 @@
+﻿<!--DETAIL GOC NHIN-->
+<article id="article_detail" class="section article_detail">
+<header class="the-article-header inner_section clearfix">
+<h1 class="title_gn_detail">Nền nông nghiệp tử tế</h1>
+<p class="meta">
+<span class="avata_box_author">
+<a href="https://vnexpress.net/tac-gia/tran-ban-hung-1057.html">
+<img src="https://i-vnexpress.vnecdn.net/2017/12/13/tranbanhungpng-1513100610.png" alt="Trần Ban Hùng">
+<strong>Trần Ban Hùng</strong>
+</a>
+</span>
+<span class="time">Thứ hai, 20/8/2018, 01:47 (GMT+7)</span>
+<a href="#box_comment"><span class="icon_commend" data-href="https://vnexpress.net/tin-tuc/goc-nhin/nen-nong-nghiep-tu-te-3794848.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3794848"><img class="icon_content icon_title_coment" alt="" src="https://s.vnecdn.net/vnexpress/restruct/i/v14/graphics/img_blank.gif">&nbsp;</span></span></a>
+<span class="luu_tin myvne_save_for_later" data-token="2450bd38e13950a671b17c2933c9c2e9" data-article-id="3794848"></span>
+</p>
+</header>
+<div class="article_body inner_section clearfix">
+<div class="fck_detail">
+<p class="Normal">Tôi đưa ba chủ nhiệm hợp tác xã ca cao ở Tây Nguyên đi hội chợ chuyên về thức ăn vặt - Snack Fair - ở thành phố Cologne, Đức hồi đầu năm. Chúng tôi muốn giới thiệu ca cao Việt Nam. </p>
+<p class="Normal">
+Hội chợ này quy tụ hầu hết các nhà sản xuất bánh kẹo lớn nhất thế giới của Châu Âu và Mỹ. Nếu ca cao Việt Nam được nhà sản xuất châu Âu mua làm nguồn nguyên liệu, chắc rằng các hợp tác xã không phải lo về đầu ra sản phẩm. Người mua nước ngoài thường trả giá cao và cam kết lâu dài.</p><p class="Normal">
+Một số khách hàng ở hội chợ này đã được đối tác của chúng tôi gửi mẫu trước. Họ đã phân tích về chất lượng của hạt ca cao Việt Nam và rất hài lòng. Thế nhưng câu hỏi họ đưa ra là, ngoài chứng chỉ thương mại công bằng, ca cao của Việt Nam đã có chứng chỉ hữu cơ chưa? Nếu có, họ sẵn sàng mua với giá cao hơn vì họ muốn sản xuất ca cao chất lượng cao và khách hàng của họ luôn đòi hỏi có cả hai chứng chỉ này.</p><p class="Normal">
+Thật đáng buồn là cả ba nhóm hợp tác xã đều không có chứng chỉ hữu cơ. Tôi hỏi liệu họ có thể có chứng chỉ này không, họ đều dè dặt rằng nếu muốn làm thì phải mất vài năm. Bởi đất đai của họ đã nhiễm quá nhiều hóa chất sau nhiều năm sử dụng phân vô cơ và thuốc bảo vệ thực vật.</p><p class="Normal">
+Chúng tôi bàn cách lấy chứng chỉ hữu cơ cho ba hợp tác xã. Câu chuyện xoay quanh việc làm sao thay thế phân hóa học bằng phân bón hữu cơ và không tiếp tục sử dụng thuốc bảo vệ thực vật cho cây trồng. Và hơn thế, mấu chốt của câu chuyện hữu cơ là người sản xuất phải thay đổi thói quen, hành vi canh tác nhằm bảo vệ môi trường và sản xuất hòa hợp với tự nhiên.</p><p class="Normal">
+Nhưng đa số nông dân tôi gặp dường như chưa nhận thức đủ vấn đề. Tôi từng hỏi một số nông dân tại sao họ sản xuất hữu cơ thì đều được trả lời: làm thế để bán sản phẩm với giá cao hơn. Hiếm ai khẳng định cần làm thế để bảo vệ mảnh đất họ đang sống và canh tác, bảo vệ sức khỏe của chính họ và người thân, môi trường sống cho con cháu.</p><p class="Normal">
+Người nông dân khó mà nhìn thấy được lợi ích của việc làm nông nghiệp hữu cơ: họ cũng chỉ là những người làm gia công.</p><p class="Normal">
+Tôi từng đỏ mặt tía tai tranh luận với một đồng nghiệp Ấn Độ, và đành chấp nhận cậu ấy đúng khi cho rằng ngành nông nghiệp của Việt Nam là nông nghiệp gia công. Phân bón, xăng dầu để tưới tiêu, máy móc sản xuất đều phải nhập khẩu. Chúng ta chỉ bỏ ra sức lao động để gia công.</p><p class="Normal">
+Tôi e rằng sản xuất hữu cơ của chúng ta rồi cũng sẽ bị nhìn nhận như thế. Việc cấp chứng nhận, xét nghiệm đất đều phải do các tổ chức quốc tế cấp; các loại phân bón sử dụng cho cánh đồng hữu cơ cũng phải được họ phê duyệt và phần lớn sản phẩm hữu cơ được cấp chứng nhận sẽ xuất khẩu.</p><p class="Normal">
+Như mọi người quan tâm đến sức khỏe của bản thân và cộng đồng, tôi luôn ủng hộ nông nghiệp hữu cơ. Thế nhưng, chuyển đổi sang nông nghiệp hữu cơ như cách chúng ta đang làm liệu có thực sự bền vững khi lợi ích không phải dành cho người sản xuất và người tiêu dùng?</p><p class="Normal">
+Người được lợi nhất trong việc “hữu cơ hóa” nông nghiệp, theo cách hiện nay, chắc chắn không phải những người trực tiếp sản xuất. Tôi biết các hãng phân bón giàu lên từ việc môi giới các loại chế phẩm hữu cơ, phân hữu cơ cho nông dân. Tôi cũng biết các doanh nhân lập hợp tác xã hữu cơ để huy động nông dân sản xuất, rồi họ mua hàng, xin chứng nhận và bán hàng. Phần lợi nhuận lớn nhất chui vào túi của những người đời chưa lần nào cầm đến cái cuốc. Tôi từng biết một vị chuyên đi xin các nguồn tài trợ quốc tế để xây dựng dự án nông nghiệp hữu cơ. Rồi khi dự án kết thúc, nhà xưởng được công ty họ sở hữu. Nông dân trong dự án thì vẫn nghèo và lại đi tìm các dự án khác.</p><p class="Normal">
+Lá cờ “hữu cơ” với đủ loại ý nghĩa cao đẹp được phất lên khắp nơi bởi nhiều doanh nhân lĩnh vực nông nghiệp và nông sản. Còn bản thân người nông dân - những người nắm trong tay quyền thay đổi toàn diện phương thức sản xuất - thì không được phép nhìn nhận toàn cảnh: họ thường xuyên rơi vào cảnh đi gia công mướn cho các nhà buôn, dù là vô cơ hay hữu cơ.</p><p class="Normal">
+Chìa khóa của câu chuyện là khuyến khích nông dân thay đổi thói quen canh tác nông nghiệp theo hướng bền vững. Để có được điều đó, cần cắt giảm tối đa các khâu trung gian để phần lớn thu nhập phải về tay người trực tiếp cầm con dao cái cuốc. Để có điều đó, cần có một thị trường nội địa biết trân trọng các sản phẩm hữu cơ chứ không chỉ mặc định nông sản hữu cơ là để “gia công xuất khẩu”.</p><p class="Normal">
+Tôi kỳ vọng Chính phủ, Bộ Nông nghiệp chăm chút thật sự cho thị trường nội địa, nơi tôi cũng kỳ vọng mọi người hiểu rõ hơn về các sản phẩm của đồng bào mình.</p><p class="Normal">
+Để có một ngày, bất cứ người Việt Nam nào khi đi chợ sẽ cầm lên các sản phẩm có chứng nhận Hữu cơ, với thái độ tự tin rằng mình đang bảo vệ sức khoẻ của chính mình và những người thân, và còn chung tay với nông dân xây dựng nền nông nghiệp tử tế.</p><p class="Normal" style="text-align:right;">
+<strong>Trần Ban Hùng</strong></p>	</div>
+<div class="div-fbook width_common mb20">
+<div class="block_btn_like left">
+<div class="item_social font_icon" data-component="true" data-component-type="like" data-component-objectid="3794848" data-component-siteid="1000000" data-objecttype="1"></div>	</div>
+<div class="right text-right">
+<p class="social social-detail">
+<span class="btn_facebook social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/nen-nong-nghiep-tu-te-3794848.html" data-type="facebook" class="icon_share social_share">
+<i class="ic ic-facebook"></i>
+</span>
+<span class="btn_twitter social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/nen-nong-nghiep-tu-te-3794848.html" data-type="twitter" data-content="Nền nông nghiệp tử tế" class="icon_share social_share">
+<i class="ic ic-twitter"></i>
+</span>
+<span class="btn_google_plus social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/nen-nong-nghiep-tu-te-3794848.html" data-type="google" class="icon_share social_share">
+<i class="ic ic-google-plus"></i>
+</span>
+</p>
+<span class="luu_tin right myvne_save_for_later" data-token="2450bd38e13950a671b17c2933c9c2e9" data-article-id="3794848"></span>
+</div>
+</div>
+</div>
+</article>
+<!--END DETAIL GOC NHIN-->

@@ -1,0 +1,54 @@
+﻿<!--DETAIL GOC NHIN-->
+<article id="article_detail" class="section article_detail">
+<header class="the-article-header inner_section clearfix">
+<h1 class="title_gn_detail">Quỹ đen</h1>
+<p class="meta">
+<span class="avata_box_author">
+<a href="https://vnexpress.net/tac-gia/nguyen-lung-danh-1152.html">
+<img src="https://i-vnexpress.vnecdn.net/2018/09/06/lungdanhpng-1536174038.png" alt="Nguyễn Lừng Danh">
+<strong>Nguyễn Lừng Danh</strong>
+</a>
+</span>
+<span class="time">Thứ năm, 6/9/2018, 02:12 (GMT+7)</span>
+<a href="#box_comment"><span class="icon_commend" data-href="https://vnexpress.net/tin-tuc/goc-nhin/quy-den-3803964.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3803964"><img class="icon_content icon_title_coment" alt="" src="https://s.vnecdn.net/vnexpress/restruct/i/v14/graphics/img_blank.gif">&nbsp;</span></span></a>
+<span class="luu_tin myvne_save_for_later" data-token="9721b88b60303a9e8f105500ca06fdbf" data-article-id="3803964"></span>
+</p>
+</header>
+<div class="article_body inner_section clearfix">
+<div class="fck_detail">
+<p class="Normal">Mười năm trước, tôi giữ vị trí hậu cần trong một nhóm sinh viên tình nguyện xuống miền Tây tham gia phong trào mùa hè Xanh. Tôi nắm rõ chi tiêu hàng ngày của đội, biết rõ các nguồn tiền vào, ra như thế nào mặc dù người trực tiếp giữ tiền và chi ra là anh đội trưởng.</p>
+<p class="Normal">
+Hết chiến dịch, chúng tôi về lại Sài Gòn. Tôi biết rõ tiền tài trợ đội nhận từ các đơn vị vẫn còn dư khoảng hai triệu đồng. Anh đội trưởng giữ số tiền ấy và chưa bao giờ chi ra cho đội. Tôi đã thầm trách anh ấy, “biển thủ số tiền ấy làm gì, có đáng là bao”.</p><p class="Normal">
+Năm 2009, tôi lại tham gia chiến dịch tình nguyện Mùa hè xanh cũng ở tỉnh đó, huyện đó, xã đó. Lần này, với vai trò đội trưởng, tôi nắm tất cả chi tiêu của đội, giữ tất cả tiền tài trợ mà đảng ủy nhà trường, hiệu trưởng, các công ty khác tặng. Cuối chiến dịch, đội cũng dư số tiền gần hai triệu đồng. Tôi định dùng nó tổ chức tiệc liên hoan cho anh em sinh viên, nhưng cán bộ ủy ban xã đề nghị họ sẽ lo việc này.</p><p class="Normal">
+Thế là tôi giữ số tiền đó, dùng nó để sửa chiếc xe Wave bị hỏng và chưa bao giờ chia cho các bạn đội mình. Một ngày, tôi giật mình nhận ra mình là phiên bản hoàn hảo của anh đội trưởng hai năm trước.</p><p class="Normal">
+Câu chuyện không nguôi ngoai. Anh em sinh viên cùng chiến dịch đều không rõ đội nhận được bao nhiêu, chi ra bao nhiêu. Vì là đội trưởng, tôi không phải báo cáo cho ai biết những số tiền tài trợ lắt nhắt ấy. Và như thế, tôi đã tham nhũng tiền của đội một cách tự nhiên nhất.</p><p class="Normal">
+Nó làm tôi tin rằng, khi tôi có quyền kiểm soát một số lượng tiền nào đấy, mà nếu như không phải báo cáo cho ai, không có cơ chế nào giám sát chi tiết việc tôi sử dụng nó thì khả năng tôi sử dụng tiền của chung cho cá nhân là rất lớn.</p><p class="Normal">
+Tôi nghĩ, rất nhiều chiến sĩ công an trẻ tuổi vào nghề với tinh thần phụng sự nhân dân vô điều kiện. Tôi tin rất nhiều cán bộ nhà nước khởi đầu sự nghiệp với trái tim trong sáng. Và tôi tin những lãnh đạo bị phanh phui, bị ra vành móng ngựa với các cáo buộc tham nhũng tiền tỷ, nếu nhìn lại bản thân thời tuổi trẻ, có lẽ họ cũng giật mình bởi chính họ chưa bao giờ có ý định sẽ chiếm đoạt nhiều tiền đến thế của tổ chức, của nhân dân.</p><p class="Normal">
+Có rất nhiều cụm tính từ người ta dùng để mô tả những cán bộ tham nhũng: suy đồi đạo đức, biến chất, tha hóa, băng hoại, lợi dụng quyền hạn. Nhưng nếu bạn làm lãnh đạo, có cơ hội nắm số tiền tỷ trong tay, con bạn đi học bằng xe đạp dưới trời nắng nôi, cha mẹ bạn vất vả; trong khi các bạn cùng lớp con đều được bố mẹ mua cho chiếc xe máy 50 phân khối. Rồi có ai đó nói với bạn rằng với việc ấy, chi một tỷ hay chi 950 triệu đồng cũng không ai phát hiện được. Và sự thực bạn biết cách hệ thống mình đang vận hành là như thế thật, có thể sẽ không ai biết, thì việc bạn biển thủ 50 triệu để mua chiếc xe máy cho con mình, tôi cho rằng, là một hành vi không quá khó hiểu.</p><p class="Normal">
+Khi các cựu lãnh đạo Cục Đường thủy thừa nhận thu "quỹ đen" <a href="https://vnexpress.net/tin-tuc/thoi-su/cuc-duong-thuy-thu-quy-den-gan-5-ty-dong-tu-nha-thau-3803423.html">gần 5 tỷ đồng</a> từ doanh nghiệp để tổ chức hội thao, ăn uống,... nhận định được Thanh tra Bộ Giao thông đưa ra rất nhanh, là do "lỗi chủ quan của các cá nhân". Nhưng nghĩ đến cùng, một kết luận như thế có quá đơn giản và có phục vụ hiệu quả việc chống tham nhũng?</p><p class="Normal">
+Giữ gìn đạo đức luôn là việc vô cùng khó, đặc biệt khi đạo đức ấy bị rất nhiều yếu tố thử thách, ngày này qua ngày khác, năm này qua năm khác, thường xuyên và liên tục. Cám dỗ ấy có thể là tiền, quyền, tình, danh dự, cái tôi hay những lý do hết sức cá biệt khác. Giữ gìn sự liêm chính là một loại năng lực. Nó đặc biệt sẽ khó khăn hơn khi người ta đã làm lần đầu, đã vướng vào một mạng lưới quan hệ xã hội phức tạp, người ta không còn có thể dễ dàng quyết định nên hay không nên làm một việc dựa trên ý chí của riêng mình.</p><p class="Normal">
+Nhìn ở góc độ này, có lẽ hành vi tham nhũng là một sản phẩm tất yếu của cơ chế quản trị lỏng lẻo, và người phạm tội cũng là nạn nhân của một vòng xoáy ma lực, cám dỗ mãnh liệt. Nếu những cán bộ đang bị điều tra, đang hay sẽ hầu tòa đã có hành vi tham nhũng trực tiếp thì hệ thống lập pháp nên chịu trách nhiệm gián tiếp vì còn để quá nhiều khe hở cho những cán bộ kia lách qua.</p><p class="Normal">
+Để tài sản quốc gia không còn thất thoát nữa, để các lãnh đạo cơ quan công quyền không tiếp tục là nạn nhân của chính mình, để công cuộc phòng chống tham nhũng giảm gánh nặng, các cơ chế pháp lý chặt chẽ cần được xây dựng và điều chỉnh càng sớm càng tốt. Người dân có quyền trông chờ một lực lượng hành pháp đủ năng lực, làm việc cật lực và nhất quán, cũng như sự đầu tư pháp lý kiên quyết và đúng mực từ nhà nước trong việc quản lý chính mình.</p><p class="Normal">
+Bởi chúng ta chắc chắn không thể chỉ dùng đức trị để quản lý những nhà quản lý.</p><p class="Normal" style="text-align:right;">
+<strong>Nguyễn Lừng Danh</strong></p>	</div>
+<div class="div-fbook width_common mb20">
+<div class="block_btn_like left">
+<div class="item_social font_icon" data-component="true" data-component-type="like" data-component-objectid="3803964" data-component-siteid="1000000" data-objecttype="1"></div>	</div>
+<div class="right text-right">
+<p class="social social-detail">
+<span class="btn_facebook social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/quy-den-3803964.html" data-type="facebook" class="icon_share social_share">
+<i class="ic ic-facebook"></i>
+</span>
+<span class="btn_twitter social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/quy-den-3803964.html" data-type="twitter" data-content="Quỹ đen" class="icon_share social_share">
+<i class="ic ic-twitter"></i>
+</span>
+<span class="btn_google_plus social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/quy-den-3803964.html" data-type="google" class="icon_share social_share">
+<i class="ic ic-google-plus"></i>
+</span>
+</p>
+<span class="luu_tin right myvne_save_for_later" data-token="9721b88b60303a9e8f105500ca06fdbf" data-article-id="3803964"></span>
+</div>
+</div>
+</div>
+</article>
+<!--END DETAIL GOC NHIN-->

@@ -1,0 +1,55 @@
+﻿<!--DETAIL GOC NHIN-->
+<article id="article_detail" class="section article_detail">
+<header class="the-article-header inner_section clearfix">
+<h1 class="title_gn_detail">Tinh thần khai thuế</h1>
+<p class="meta">
+<span class="avata_box_author">
+<a href="https://vnexpress.net/tac-gia/vo-dinh-tri-1104.html">
+<img src="https://i-vnexpress.vnecdn.net/2018/05/23/vodinhtripng-1527012028.png" alt="Võ Đình Trí">
+<strong>Võ Đình Trí</strong>
+</a>
+</span>
+<span class="time">Thứ tư, 15/8/2018, 10:56 (GMT+7)</span>
+<a href="#box_comment"><span class="icon_commend" data-href="https://vnexpress.net/tin-tuc/goc-nhin/tinh-than-khai-thue-3792660.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3792660"><img class="icon_content icon_title_coment" alt="" src="https://s.vnecdn.net/vnexpress/restruct/i/v14/graphics/img_blank.gif">&nbsp;</span></span></a>
+<span class="luu_tin myvne_save_for_later" data-token="9b8dfe7c00a292f944c31f462ac52e83" data-article-id="3792660"></span>
+</p>
+</header>
+<div class="article_body inner_section clearfix">
+<div class="fck_detail">
+<p class="Normal">Hầu hết mọi người sống ở Pháp từ 18 tuổi trở lên đều nhớ khoảng thời gian giữa tháng Tư đến đầu tháng Sáu là thời điểm phải tự kê khai thu nhập cá nhân của năm trước như một thói quen.</p>
+<p>
+Đối với những người sống ở quốc gia này, bản xác nhận thuế là một trong những giấy tờ không thể thiếu trong rất nhiều giao dịch hành chính, từ vay tiền ngân hàng, mua, thuê nhà, tới các khoản đóng góp liên quan đến học hành của con trẻ.</p><p class="Normal">
+Việc kê khai khá đơn giản, ai có ít nguồn thu nhập thì chỉ mất vài phút, ai có nhiều nguồn thu - thường là người giàu - thì thuê người khai thuế chuyên nghiệp. Năm nay là năm cuối cùng chính phủ chấp nhận kê khai bằng bản giấy, từ 2019 họ sẽ chuyển sang môi trường Internet, sẽ tiện hơn nữa.</p><p class="Normal">
+Ngày 6/8 vừa qua, như bao người cư trú tại Pháp, tôi nhận được thông báo của cơ quan thuế qua email. Họ thông báo Bản xác nhận thuế thu nhập cá nhân năm 2017 của tôi đã xong, tôi có thể tải về để sử dụng cho các giao dịch của mình.</p><p class="Normal">
+Người dân như tôi tự giác kê khai thuế, một phần vì họ yên tâm bởi thông tin kê khai được cam kết bảo mật theo các quy định về thông tin riêng tư; thứ hai họ hiểu rằng tờ khai thuế quan trọng trong sinh hoạt đến thế nào. Trong hồ sơ thuê nhà, vay ngân hàng, làm thẻ cư trú, làm hộ chiếu, đóng các khoản tiền ăn, tiền học, hay thậm chí là hoạt động ngoại khoá của con cái đều phải có bản sao của tờ khai thuế. Đến các khoản phí đóng ở địa phương cho từng hộ gia đình cũng được tính dựa trên bản xác nhận thuế, một số dịch vụ công có trả thêm tiền như thể thao, câu lạc bộ văn hoá... đều phải có văn bản này. Nếu không có bản xác nhận thuế, bạn phải chịu mức phí cao nhất cho các dịch vụ. Đây là cơ chế mềm mà rất nghiêm khắc tạo ra văn hóa thuế cho nước Pháp.</p><p class="Normal">
+Chính vì vậy, tôi đã hơi bất ngờ khi đọc tin về việc không ít cá nhân ở Việt Nam được <a href="https://kinhdoanh.vnexpress.net/tin-tuc/doanh-nghiep/mot-ca-nhan-co-thu-nhap-tu-facebook-google-bi-phat-va-truy-thu-4-1-ty-dong-3785937.html">trả thu nhập tới hàng chục tỷ đồng</a> nhưng lại không kê khai thuế thu nhập cá nhân, ngành Thuế lâu lâu lại “phát hiện hành vi trốn thuế”. Năm 2017, họ đã gửi giấy mời hàng nghìn người lên làm việc.</p><p class="Normal">
+Vấn đề đến từ đâu? Từ các cá nhân đã không tự giác kê khai thuế hay cơ quan thuế đã không theo sát đúng cách các luồng thu nhập trên thị trường?</p><p class="Normal">
+Thứ nhất, tôi cho rằng hiện quy định quản lý thuế thu nhập cá nhân ở Việt Nam khá lỏng lẻo. Mặc dù theo quy định, các cá nhân phải tự kê khai các khoản thu nhập, song nếu không phải lao động hưởng lương hay có hợp đồng rõ ràng thì ít ai thấy cần thiết phải tự kê khai đầy đủ các khoản thu của mình. Thực tế ta đều biết, có cá nhân có thu nhập cao từ hoạt động dịch vụ, kinh doanh, nghề nghiệp nhưng không kê khai hoặc kê khai không đầy đủ như tiền hoa hồng, có nhà cho thuê, tư vấn riêng. Đối với những cá nhân tự kinh doanh hay chủ doanh nghiệp, phần lớn họ mới thực hiện nghĩa vụ thuế của công ty đó mà chưa thực hiện đầy đủ nghĩa vụ thuế đối với thu nhập cá nhân, có lẽ do sự tách bạch trách nhiệm thuế của pháp nhân và thể nhân chưa đủ rõ ràng.</p><p class="Normal">
+Thứ hai là ở cách làm việc của cơ quan Thuế. Cục Thuế TP HCM cho biết cơ quan này vừa ra quyết định truy thu và phạt 4,1 tỷ đồng với một cá nhân và cũng mong muốn “đánh động dư luận” để từ đó các cá nhân khác chủ động liên hệ với cơ quan thuế để thực hiện nghĩa vụ. Tôi tự hỏi, cơ quan thuế thay vì ngồi một chỗ, “đánh động” và chờ người dân “chủ động liên hệ”, liệu còn có thể làm gì hữu hiệu hơn?</p><p class="Normal">
+Nếu việc khai thuế đối với nhiều cá nhân vẫn dựa trên sự tự giác, thiếu các cơ chế bắt buộc mềm như yêu cầu phải có xác nhận thuế trong một số giao dịch hành chính thì bất bình đẳng về thuế sẽ ngày càng tăng, tạo điều kiện cho tham nhũng và thu nhập bất hợp pháp tồn tại. Cạnh đó, cũng cần lưu ý đến việc dùng chính sách thuế để khuyến khích một số lĩnh vực ngành nghề. Chẳng hạn những cá nhân có thu nhập cao từ Google, Facebook, Apple... là những người rất giỏi. Cách thực hiện chính sách thuế thu nhập cá nhân quá cứng nhắc, máy móc có thể khiến họ so sánh và lựa chọn nơi đăng kí hoạt động cũng như tài khoản ngân hàng ở một quốc gia khác trong khu vực. Singapore hay Malaysia là những nước có rất nhiều ưu đãi trong lĩnh vực kinh tế số.</p><p class="Normal">
+Cơ quan chức năng vẫn liên tục bàn về việc xử lý tài sản, thu nhập bất minh. Tài sản, thu nhập bất minh không chỉ liên quan đến quan chức, nó xảy ra với tất cả mọi người, khi có hoạt động kinh tế phát sinh. Việc làm tốt kê khai thu nhập cá nhân đối với tất cả những ai từ 18 tuổi trở lên; đưa tờ khai thuế trở thành một trong những giấy tờ bắt buộc đối với một số thủ tục hành chính cũng là một cách. Bù lại, cơ quan quản lý có thể cắt giảm những giấy tờ ít quan trọng hơn để đỡ phiền cho dân. Và quan trọng nhất, tạo nền tảng thuận tiện, đơn giản và dễ chịu nhất cho mọi người khi thực hiện nghĩa vụ cơ bản của một công dân với một chính thể.</p><p class="Normal">
+Chẳng phải bỗng dưng nước Pháp có được văn minh thuế như vậy. Họ có nền tảng thuận tiện cho việc làm nghĩa vụ thuế và chăm lo kỹ càng cho “tinh thần thuế” của công dân.</p><p class="Normal">
+Tất cả khai thuế không đồng nghĩa với tất cả phải đóng thuế. Việc kê khai thu nhập cá nhân diện rộng là một trong những cách tốt nhất để điều tiết thu nhập, hướng đến công bằng hơn trong xã hội. <span>Có đến 58% hộ gia đình nước Pháp không phải đóng thuế thu nhập; và 10% hộ gia đình đóng đến 70% tổng thuế thu nhập cá nhân trong năm 2017. </span></p><p class="Normal">
+Khoảng cách giàu nghèo ở Việt Nam đang ngày càng rộng. Khi việc đóng thuế thu nhập cá nhân chưa áp công bằng với tất cả, nó sẽ tạo tâm lý bất bình cho rất nhiều người thực hiện nghiêm túc nghĩa vụ thuế. Việc bài trừ tham nhũng và thu nhập bất minh, vì thế, vẫn sẽ như tìm "lá diêu bông”.</p><p class="Normal" style="text-align:right;">
+<strong>Võ Đình Trí</strong></p>	</div>
+<div class="div-fbook width_common mb20">
+<div class="block_btn_like left">
+<div class="item_social font_icon" data-component="true" data-component-type="like" data-component-objectid="3792660" data-component-siteid="1000000" data-objecttype="1"></div>	</div>
+<div class="right text-right">
+<p class="social social-detail">
+<span class="btn_facebook social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/tinh-than-khai-thue-3792660.html" data-type="facebook" class="icon_share social_share">
+<i class="ic ic-facebook"></i>
+</span>
+<span class="btn_twitter social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/tinh-than-khai-thue-3792660.html" data-type="twitter" data-content="Tinh thần khai thuế" class="icon_share social_share">
+<i class="ic ic-twitter"></i>
+</span>
+<span class="btn_google_plus social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/tinh-than-khai-thue-3792660.html" data-type="google" class="icon_share social_share">
+<i class="ic ic-google-plus"></i>
+</span>
+</p>
+<span class="luu_tin right myvne_save_for_later" data-token="9b8dfe7c00a292f944c31f462ac52e83" data-article-id="3792660"></span>
+</div>
+</div>
+</div>
+</article>
+<!--END DETAIL GOC NHIN-->

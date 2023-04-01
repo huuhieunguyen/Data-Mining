@@ -1,0 +1,58 @@
+﻿<!--DETAIL GOC NHIN-->
+<article id="article_detail" class="section article_detail">
+<header class="the-article-header inner_section clearfix">
+<h1 class="title_gn_detail">Người giàu và thiên tai</h1>
+<p class="meta">
+<span class="avata_box_author">
+<a href="https://vnexpress.net/tac-gia/dang-hung-vo-1124.html">
+<img src="https://i-vnexpress.vnecdn.net/2018/06/17/danghungvopng-1529241770.png" alt="Đặng Hùng Võ">
+<strong>Đặng Hùng Võ</strong>
+</a>
+</span>
+<span class="time">Thứ năm, 13/9/2018, 05:16 (GMT+7)</span>
+<a href="#box_comment"><span class="icon_commend" data-href="https://vnexpress.net/tin-tuc/goc-nhin/nguoi-giau-va-thien-tai-3808335.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3808335"><img class="icon_content icon_title_coment" alt="" src="https://s.vnecdn.net/vnexpress/restruct/i/v14/graphics/img_blank.gif">&nbsp;</span></span></a>
+<span class="luu_tin myvne_save_for_later" data-token="06356ef7de20bb30569e9f8cd82162cf" data-article-id="3808335"></span>
+</p>
+</header>
+<div class="article_body inner_section clearfix">
+<div class="fck_detail">
+<p class="Normal">Tôi còn nhớ một lời thoại trong vở kịch "Hồn Trương Ba, da hàng thịt" của cố tác giả Lưu Quang Vũ. Khi vợ ông Trương Ba muốn nhận ra chồng mình lúc mà hồn ông đã nhập vào thân xác anh hàng thịt, bà hỏi: "Nếu là ông thì hãy nói xem tôi với ông đã sống với nhau như thế nào?".</p>
+<p class="Normal">
+Ông Trương Ba trả lời rằng: "Tôi với bà đã sống với nhau 30 năm, hai lần bão sập nhà, năm lần nước ngập lụt, 4 lần chạy giặc". Thời cổ tích xa xưa, 30 năm mới chịu bão lớn có hai lần, ngập lụt có năm lần, tức là khoảng 15 năm mới có một lần bão lớn, 6 năm mới lụt một lần. Còn thời nay, ở phía Tây của Thanh Nghệ, hai ngày đã chịu hai cơn bão, người dân than rằng "chỉ mươi ngày mà ngập lụt nặng tới ba lần".</p><p class="Normal">
+Tháng Tám vừa qua, miền Bắc hứng hai cơn bão chỉ trong hai ngày. Đó là cơn bão số 3 mang tên Sơn Tinh và cơn bão số 4 mang tên Bebinca. Hai cơn bão đều đổ bộ theo một kịch bản khá giống nhau: cùng đi vào phía nam đồng bằng sông Hồng, tiến về phía tây của Nghệ An và Thanh Hóa. Bão tan đi ở đó, kéo theo mưa lớn trên một vùng rất rộng từ Nghệ An, Thanh Hóa, vòng lên Hòa Bình, tới Sơn La rồi lên tận Cao Bằng. Cả một vùng núi Đông Bắc, Đồng bằng sông Hồng và Bắc Trung Bộ chìm trong mưa. Phía Tây Hà Nội bị ngập nặng.</p><p class="Normal">
+Mấy ngày Hà Nội mưa ròng, tôi ngồi nhà vì không đi đâu được, gọi taxi không có, mà có ra ngoài cũng bị nghẽn đường. Tôi ngồi ngắm trời trút nước, nghĩ miên man về những kỷ niệm.</p><p class="Normal">
+Tư duy cứ vẩn vơ cho đến khi nhìn lên màn hình tivi, thấy hình ảnh về hai cơn bão. Mưa dài ngày gây thiệt hại rất lớn cho dân ta ở nhiều nơi. Hàng trăm ngôi nhà bị lũ quét cuốn trôi, hàng chục người chết và mất tích. Đa số là trẻ em, người già, phụ nữ, người ốm yếu. Họ không đủ sức chạy vượt nước lũ. Tất cả đều xảy ra với vùng núi, nơi mà đời sống còn quá nghèo, đồng bào các dân tộc thiểu số còn khó khăn.</p><p class="Normal">
+Tôi không thể cầm lòng khi thấy cảnh mấy ngôi nhà liền nhau trượt cùng đất xuống dòng nước lũ, căn nhà khác từ lưng chừng núi cũng lao theo đất lở xuống tận chân đèo. Hãy thử đặt mình vào cảnh nghèo mà bị mất hết nhà cửa, đồ đạc, ruộng vườn, người thân. Cuộc đời sẽ ra sao?</p><p class="Normal">
+Còn đồng bằng sông Cửu Long thì lũ lớn về sớm. Lúa chưa kịp cắt. Nơi ở của dân bị đe dọa khi đê bao khu dân cư không ngăn được lũ. Trong dòng nước lũ đó, có lượng nước khá lớn từ vỡ đập thủy điện ở thượng nguồn. Vựa lúa nước ta cũng sắp chìm trong nước. Trượt lở, sụt lún đã xảy ra ở nhiều nơi. Cũng vẫn cảnh nhiều xóm nghèo bên sông trượt theo dòng nước, nhiều nhà dù xa bờ sông vẫn hư hỏng, đổ nát do đất sụt lún mạnh. Và toàn xảy ra với người nghèo.</p><p class="Normal">
+Ngược lại, vùng Nam Trung Bộ và Tây Nguyên lại rơi vào khô hạn, không có nước. Người dân giờ đang mong mấy giọt mưa cho cây cỏ hồi sinh, cho gia súc đỡ khát. Mưa không đến. Họ gắng khoan giếng thật sâu để lấy nước ngầm nhưng không phải nơi nào cũng có, mà năm nay có rồi năm sau lại không còn. Mức nước ngầm cứ thế mà cạn dần.</p><p class="Normal">
+Theo Luật Phòng, chống thiên tai (Khoản 1, Điều 3), các loại hình thiên tai ở ta gồm có: "bão, áp thấp nhiệt đới, lốc, sét, mưa lớn, lũ, lũ quét, ngập lụt, sạt lở đất do mưa lũ hoặc dòng chảy, sụt lún đất do mưa lũ hoặc dòng chảy, nước dâng, xâm nhập mặn, nắng nóng, hạn hán, rét hại, mưa đá, sương muối, động đất, sóng thần và các loại thiên tai khác". Như vậy, thiên tai có loại từ trên trời giáng xuống, có loại do những biến động trên mặt đất gây ra và có loại từ ngoài biển tấn công vào.</p><p class="Normal">
+Loại từ trên trời giáng xuống và loại từ biển tấn công vào đều do khí hậu làm ra. Loại do biến động trên mặt đất đều do hệ sinh thái mất cân bằng tạo nên. Trong thời hiện đại, biến đổi khí hậu do trái đất nóng lên vì hiệu ứng nhà kính do con người phát thải khí nhà kính quá nhiều đã được cảnh báo từ năm 1992, tại Hội nghị Thượng đỉnh toàn cầu về môi trường ở Rio De Janeiro.</p><p class="Normal">
+Trên thực tế, tác động của biến đổi khí hậu đã đến sớm hơn dự báo, cũng không phải đầu tiên từ biển đi vào mà từ trên trời giáng xuống trước. Bão, áp thấp nhiệt đới, mưa lớn, lốc xảy ra với tần suất lớn hơn và cường độ mạnh hơn. Mưa lớn gây ra lũ quét, ngập lụt, sạt lở đất còn mạnh hơn, nhất là khi cộng với việc rừng đầu nguồn đã bị phá trụi.</p><p class="Normal">
+Phát thải khí nhà kính là do phát triển công nghiệp để làm giàu, mà các chủ đầu tư là người thu lợi. Từ khí nhà kính mà ra bão giông, lũ quét, ngập lụt; làm mất cơ nghiệp, lấy đi tính mạng của những người nghèo, người yếu thế - những người không có khả năng tự bảo vệ mình.</p><p class="Normal">
+Trên bề mặt đất, câu chuyện thiên tai cũng không gắn với biến đổi khí hậu toàn cầu mà là hậu quả của việc khai thác tài nguyên vô hạn định. Hệ sinh thái vốn bền vững nhưng tự nó cũng vật vã, trồi lún mãi mới tạo được thế cân bằng. Nay nhiều người làm giàu bằng cách vét hết cát ở lòng sông, vét cạn nguồn nước ngầm, đào bới mặt đất để khai khoáng, chặt phá rừng lấy gỗ. Tất cả đều làm mất cân bằng hệ sinh thái, khiến mặt đất cựa mình làm nên sụt lún, trượt lở. Nhà cửa, cơ nghiệp của dân nghèo lại chìm xuống sông hoặc đổ gãy.</p><p class="Normal">
+Thiên tai thời hiện đại đã nhiều hơn và mạnh hơn thời xưa, không phải do trời gây ra mà chính bởi con người làm ra. Người làm giàu vô trách nhiệm và thiếu lương tâm - từ khắp nơi trên thế giới chứ không riêng gì quốc gia nào - đang làm cho nhiều người nghèo khốn đốn vì thiên tai.</p><p class="Normal">
+Đồng tiền thu được của nhiều người giàu đã gây ra khí nhà kính, tiền của người vét cạn tài nguyên đã làm mất cân bằng hệ sinh thái. Trong những đồng bạc ấy có lời oán trách của tự nhiên và cả oan hồn của những người nghèo đã bị thiên tai lấy đi cuộc sống.</p><p class="Normal">
+Đất nước cần những người biết làm giàu. Nhưng phải là làm giàu có trách nhiệm và đừng lấy đi cơ nghiệp, tính mạng của người khác.</p><p class="Normal">
+Và với cơ quan công quyền, ứng xử với người giàu cũng chính là ứng xử với người nghèo.</p><p class="Normal" style="text-align:right;">
+<strong>Đặng Hùng Võ</strong></p>	</div>
+<div class="div-fbook width_common mb20">
+<div class="block_btn_like left">
+<div class="item_social font_icon" data-component="true" data-component-type="like" data-component-objectid="3808335" data-component-siteid="1000000" data-objecttype="1"></div>	</div>
+<div class="right text-right">
+<p class="social social-detail">
+<span class="btn_facebook social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/nguoi-giau-va-thien-tai-3808335.html" data-type="facebook" class="icon_share social_share">
+<i class="ic ic-facebook"></i>
+</span>
+<span class="btn_twitter social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/nguoi-giau-va-thien-tai-3808335.html" data-type="twitter" data-content="Người giàu và thiên tai" class="icon_share social_share">
+<i class="ic ic-twitter"></i>
+</span>
+<span class="btn_google_plus social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/nguoi-giau-va-thien-tai-3808335.html" data-type="google" class="icon_share social_share">
+<i class="ic ic-google-plus"></i>
+</span>
+</p>
+<span class="luu_tin right myvne_save_for_later" data-token="06356ef7de20bb30569e9f8cd82162cf" data-article-id="3808335"></span>
+</div>
+</div>
+</div>
+</article>
+<!--END DETAIL GOC NHIN-->

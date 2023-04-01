@@ -1,0 +1,57 @@
+﻿<!--DETAIL GOC NHIN-->
+<article id="article_detail" class="section article_detail">
+<header class="the-article-header inner_section clearfix">
+<h1 class="title_gn_detail">'Việt Nam vô địch!'</h1>
+<p class="meta">
+<span class="avata_box_author">
+<a href="https://vnexpress.net/tac-gia/jesse-peterson-1050.html">
+<img src="https://i-vnexpress.vnecdn.net/2017/11/17/jessepngpng-1510857625.png" alt="Jesse Peterson">
+<strong>Jesse Peterson</strong>
+</a>
+</span>
+<span class="time">Thứ tư, 29/8/2018, 18:00 (GMT+7)</span>
+<a href="#box_comment"><span class="icon_commend" data-href="https://vnexpress.net/tin-tuc/goc-nhin/viet-nam-vo-dich-3800345.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3800345"><img class="icon_content icon_title_coment" alt="" src="https://s.vnecdn.net/vnexpress/restruct/i/v14/graphics/img_blank.gif">&nbsp;</span></span></a>
+<span class="luu_tin myvne_save_for_later" data-token="879a90faac3e41b175520b585d6d7306" data-article-id="3800345"></span>
+</p>
+</header>
+<div class="article_body inner_section clearfix">
+<div class="fck_detail">
+<p class="Normal">Hàng xóm tôi hay bàn nhau nên chọn nhà ai để nhậu và xem bóng đá. Lúc thì nhà anh Mạnh, khi thì nhà chú Mỹ, gần đây họ xem Việt Nam thắng ở nhà anh Hải, bên cạnh nhà tôi.</p>
+<p class="Normal">
+Mấy người hàng xóm cũng hay trêu chọc tôi về việc khá mù mờ bóng đá. "Việt Nam vô địch mấy lần rồi, Jesse?" họ hỏi mỗi khi nghe tiếng hô hào (mà đôi khi là tiếng gào): "Việt Nam vô địch!"</p><p class="Normal">
+Mỗi khi Việt Nam ghi bàn thắng, tôi có thể nghe long trời từ xất xa: "Yeahhhhh!". Rất là vui. Nhìn cảnh tượng những người Việt Nam đang vui vẻ, những người hàng xóm đang hô hào, tôi đoán người Việt Nam từ lâu đã luôn sống quây quần, giúp đỡ, chơi đùa.</p><p class="Normal">
+Tôi ngồi vào ghế, một quán tên là Bia hơi Hà Nội. Trận đấu giữa Syria và Việt Nam chưa bắt đầu mà nhà hàng đã kín người. Có vẻ cả nước Việt Nam hôm nay cùng chung tinh thần đi xem bóng đá, ủng hộ những đứa con của nước Việt Nam chiến đấu.</p><p class="Normal">
+Tôi mời một người bạn tên là Cameron, một triết học gia xem trận đấu cùng tôi. Tôi thừa nhận với anh ấy rằng, mấy năm trước tôi không xem bóng đá Việt Nam nhiều, không thiết tha mấy. Cameron hơi ngạc nhiên, anh ấy rất thích xem bóng đá Việt Nam. “Ô, sao lại không vậy, Jesse?”. Anh thấy tôi viết bài nhiều bằng tiếng Việt, hoà nhập xã hội Việt Nam cũng lâu, nên khá bất ngờ khi tôi không xem môn thể thao phổ biến nhất quốc gia này.</p><p class="Normal">
+Tôi giải thích rằng trước đây, tôi lo lắng nếu người Việt cứ tập trung vào bóng đá thì họ sẽ không có nhiều thời gian cho những sở thích lành mạnh khác... Tôi không hâm mộ bóng đá, nên trót xếp chung bóng đá vào với việc xem truyền hình nhiều, một <a href="https://suckhoe.vnexpress.net/tin-tuc/khoe-dep/dan-ong-xem-tivi-tren-5-gio-moi-ngay-de-bi-yeu-sinh-ly-3454148.html">thói quen có hại.</a></p><p class="Normal">
+“Giờ thì tôi thay đổi suy nghĩ rồi, đặc biệt vì Syria”. Tôi thấy đôi khi chúng ta quá cố chấp với suy nghĩ của mình và đó là lý do mình nên gặp thật nhiều người, cùng ngồi trò chuyện, chia sẻ, lắng nghe thật kỹ suy nghĩ của nhau, không phán xét, không đặt cái tôi lên trên hết. </p><p class="Normal">
+Ví dụ như với bóng đá thì chắc tôi đã sai. Tôi không bài xích bóng đá nữa, đặc biệt là khi tôi thấy sự nhiệt tình của người Việt Nam đối với đội tuyển nước nhà. Họ đến trung tâm thành phố vẫy cờ nhiệt liệt, đăng hình ảnh và “tự tường thuật” không khí bóng đá trên mạng. Họ mỉm cười và đoàn kết với nhau như tôi chưa bao giờ thấy trước đây. Toàn bộ đất nước đã đến với nhau trong niềm tự hào và hạnh phúc.</p><p class="Normal">
+Và đặc biệt, tôi đã nghĩ về Syria, một nước đang gặp chiến tranh rất khủng khiếp, chắc có lẽ nhiều người đã đặt vũ khí xuống để cùng nhau cổ vũ một trận bóng đá. Dù chỉ trong ít phút vẫn tốt hơn là không có gì.</p><p class="Normal">
+Trong lúc xem trận đấu tôi thấy một điều lạ. Trên đồng phục của các cầu thủ Syria không in tên cầu thủ, tất cả chỉ có một cái tên chung trên áo, là tên tổ quốc "Syria". Tôi tin rằng họ đang thi đấu thể thao bởi một điều gì cao hơn bản thân mình khi đất nước còn chìm trong loạn lạc, thực sự khó khăn. </p><p class="Normal">
+Vẻ đẹp của bóng đá chân chính, tôi tin, vượt lên trên bản thân một cá nhân hay một nhóm người nào.</p><p class="Normal">
+Trước đây, trong mùa World Cup, tôi đã viết cho một chuyên mục về bóng đá. Lúc đó, tôi đã thấy ấn tượng với Croatia. Đó là một nước nhỏ hơn Pháp, nghèo hơn rất nhiều, mặc dù họ đã thua trong trận chung kết, nhưng tôi yêu họ nhiều hơn trong bóng đá. Bởi vì trái tim và niềm đam mê mà họ đã thể hiện, rất giống với hình ảnh tôi thấy ở Việt Nam.</p><p class="Normal">
+Croatia một nước mới và nhỏ, nhưng họ có rất nhiều điều muốn cho thế giới biết. Tổng thống Kolinda Grabar-Kitarovic, một nữ cổ động viên vô cùng nhiệt tình và mạnh mẽ, ủng hộ đội tuyển nước nhà hết mình vì cô biết tầm quan trọng của sự đoàn kết và tự hào dân tộc. Đặc biệt là với một quốc gia nhỏ, một kẻ yếu thế. Kẻ yếu trong trường hợp này, tôi muốn dùng từ “underdog” - mang nghĩa tích cực. Nó chỉ một nhóm nhỏ nhưng rất dũng cảm chiến đấu với một thế lực lớn hơn.</p><p class="Normal">
+Và tôi cũng thấy bóng đá trong Asian Games rất giống ý nghĩa của một World Cup. Đó là nơi mỗi nước, dù lớn hay nhỏ, đều có cơ hội “kể” cho thế giới biết về mình. Với người Việt Nam, bóng đá giúp họ bày tỏ niềm đam mê mà tôi thấy không có nhiều dân tộc có được, sự yêu quý dành cho đồng hương, sự cho đi và cũng là cơ hội để mọi người cùng tận hưởng một trò chơi bất tận.</p><p class="Normal">
+Syria và Croatia đã thể hiện được vẻ đẹp của bóng đá cho dù họ thua. Và Việt Nam sau trận đấu với Hàn Quốc hôm nay cũng vậy. Họ là nhà vô địch, nhưng theo một nghĩa khác với việc đoạt huy chương vàng. </p><p class="Normal">
+Cá nhân tôi vẫn sẽ không xem bóng đá nhiều hơn và không dám bén mảng vào trung tâm thành phố khi mọi người “đi bão". Nhưng tôi sẽ không nói gì nếu các bạn làm thế.</p><p class="Normal" style="text-align:right;">
+<strong>Jesse Peterson</strong></p>	</div>
+<div class="div-fbook width_common mb20">
+<div class="block_btn_like left">
+<div class="item_social font_icon" data-component="true" data-component-type="like" data-component-objectid="3800345" data-component-siteid="1000000" data-objecttype="1"></div>	</div>
+<div class="right text-right">
+<p class="social social-detail">
+<span class="btn_facebook social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/viet-nam-vo-dich-3800345.html" data-type="facebook" class="icon_share social_share">
+<i class="ic ic-facebook"></i>
+</span>
+<span class="btn_twitter social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/viet-nam-vo-dich-3800345.html" data-type="twitter" data-content="'Việt Nam vô địch!'" class="icon_share social_share">
+<i class="ic ic-twitter"></i>
+</span>
+<span class="btn_google_plus social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/viet-nam-vo-dich-3800345.html" data-type="google" class="icon_share social_share">
+<i class="ic ic-google-plus"></i>
+</span>
+</p>
+<span class="luu_tin right myvne_save_for_later" data-token="879a90faac3e41b175520b585d6d7306" data-article-id="3800345"></span>
+</div>
+</div>
+</div>
+</article>
+<!--END DETAIL GOC NHIN-->

@@ -1,0 +1,58 @@
+﻿<!--DETAIL GOC NHIN-->
+<article id="article_detail" class="section article_detail">
+<header class="the-article-header inner_section clearfix">
+<h1 class="title_gn_detail">Họp, hô, hứa</h1>
+<p class="meta">
+<span class="avata_box_author">
+<a href="https://vnexpress.net/tac-gia/duc-hoang-58.html">
+<img src="https://i-vnexpress.vnecdn.net/2017/04/03/DucHoangpng-1491237929.png" alt="Đức Hoàng">
+<strong>Đức Hoàng</strong>
+</a>
+</span>
+<span class="time">Thứ năm, 23/8/2018, 07:52 (GMT+7)</span>
+<a href="#box_comment"><span class="icon_commend" data-href="https://vnexpress.net/tin-tuc/goc-nhin/hop-ho-hua-3796716.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3796716"><img class="icon_content icon_title_coment" alt="" src="https://s.vnecdn.net/vnexpress/restruct/i/v14/graphics/img_blank.gif">&nbsp;</span></span></a>
+<span class="luu_tin myvne_save_for_later" data-token="eb8bd29b2538b3fc27ce4cb5791d9189" data-article-id="3796716"></span>
+</p>
+</header>
+<div class="article_body inner_section clearfix">
+<div class="fck_detail">
+<p class="Normal">“Họp, hô, hứa” là một thuật ngữ tôi mới học được trên mạng gần đây. Rất súc tích, nó gợi ra một phương trình làm việc rất phổ biến trong các cơ quan quản lý, đặc biệt là việc đề ra các mục tiêu phát triển.</p>
+<p class="Normal">
+Tôi đã tâm sự với nhiều lãnh đạo các cơ quan quản lý. Và sau mỗi lần gặp, tôi lại nhìn rõ thêm một thực tế đáng cảm thông. Đấy là việc “họp” và “hô” thì họ mặc nhiên phải làm. Vì nhiệm vụ của chính phủ giao cho cơ quan lúc nào cũng bao gồm việc “phát triển” lĩnh vực mình phụ trách. Phát triển thì phải đề ra đích đến tương lai - tức là kiểu gì cũng phải “hô”.</p><p class="Normal">
+Nhưng các cơ quan quản lý, hay là lãnh đạo các cơ quan quản lý, luôn đối mặt với một thực trạng đáng sợ. Đấy là giải quyết các vấn đề sẵn có đã hết sạch cả thời gian vật lý lẫn nguồn lực. Làm tốt việc sẵn có đã khổ rồi, khắc phục tiêu cực đã khó rồi, nên các mục tiêu phát triển thì chỉ có thể “hứa”.</p><p class="Normal">
+“Họp, hô, hứa” trong mục tiêu phát triển ở các cơ quan quản lý không phải là một lời nói mát của nhân dân. Nó là một thực trạng mang tính quy luật.</p><p class="Normal">
+Hãy thử tưởng tượng về một nhà quản lý văn hóa cấp địa phương. Ông có cùng lúc hai nhiệm vụ, là “bảo tồn” và “phát huy” các giá trị văn hóa bản địa. Công việc “bảo tồn” tiêu tốn toàn bộ thời gian của ông, nhưng cũng chưa ra đâu vào đâu: Một trăm cái chùa xếp hạng di tích trên địa bàn, nhờ công đức, bảy mươi trụ trì nộp đề án xin cải tạo. Ông duyệt xong đã hết năm. Sang năm mới, ông phát hiện ra hai mươi tư cái làm không đúng đề án được phê. Một cái đã bị phá hủy hoàn toàn hạng mục tường bao có từ thời nhà Lê (vì ông quên không xếp hạng di tích cái tường bao). Hai trăm căn nhà cổ cần giữ nguyên trạng, có một trăm hộ dân phản ứng đòi xây công trình phụ. Lễ hội địa phương năm nào cũng có sự cố giẫm đạp. Quay đi quay lại, ông hết nhiệm kỳ.</p><p class="Normal">
+Nhưng ông vẫn phải tổ chức và dự các buổi họp với nhiệm vụ “phát huy”. Và ở đó, ông đành họp, hô và hứa.</p><p class="Normal">
+Ông cũng không thấy ngại. Ông cũng đi dự họp ở các lĩnh vực khác, và phát hiện ra rằng ở ngành công thương, ngành nông nghiệp, ngành kế hoạch,... các vị đồng cấp cũng loay hoay với cả núi giấy tờ công văn, riêng cấp phép đầu tư, quản lý dự án và thanh tra đã hết sạch thời gian.</p><p class="Normal">
+Quán tính tư duy của một xã hội bao cấp đòi hỏi các cơ quan nhà nước vừa phải làm “quản lý” vừa phải làm “phát triển”. Yêu cầu nhiệm vụ của các cơ quan công, thường xuyên phải có việc tạo ra thành tựu mới trong lĩnh vực mình phụ trách - vì thứ nhiệm vụ ấy đã được xây dựng từ thời không hề có khối kinh tế tư nhân. Ngân sách cũng (buộc phải) được rót xuống các cơ quan này cho nhiệm vụ “phát triển”. Ngân sách rót xuống rồi thì (buộc phải) giải ngân.</p><p class="Normal">
+Sau ba mươi năm Đổi mới và hai mươi năm mở cửa kinh tế, có lẽ đã đến lúc phải nói thẳng với nhau rằng nhà nước nên bớt ôm việc vào mình. Nhà nước nên tập trung thực hiện chức năng cốt lõi của nó là quản lý, hay nôm na hơn, là giữ gìn trật tự. Để thực hiện mục tiêu phát triển, nhà nước đầu tư xây dựng hạ tầng, rồi tạo khung pháp lý thông thoáng để nhân dân tự phát huy trên cái hạ tầng ấy.</p><p class="Normal">
+Nếu vẫn muốn tiêu ngân sách để trực tiếp thực hiện các dự án, thì nhà nước có thể dùng hình thức quỹ phát triển. Một quỹ phát triển văn hóa, được điều hành bởi các chuyên gia văn hóa, chắc sẽ rót vốn được cho các bộ phim, cuốn sách tốt hơn là để các chuyên gia quản lý nhà nước trực tiếp đặt hàng. Một quỹ phát triển giáo dục, tập hợp các cố vấn hàng đầu về giáo dục, chắc sẽ tìm thấy những đề án tốt hơn là các nhà quản lý đang bạc mặt học nốt bằng thạc sĩ hành chính công để được lên lon. Một quỹ phát triển công nghệ, chắc chắn sẽ thu hút các startup trẻ đến thuyết trình say mê. Nhà nước nên làm một “shark” cầm nghìn tỷ và ngồi chờ những nhân tố thị trường thông minh nhất đến để rót vốn. Hay thậm chí thuê luôn các “shark” có thâm niên làm việc này.</p><p class="Normal">
+Buộc các cơ quan công phải thực hiện bằng được nhiệm vụ sáng tạo phát triển, thì sẽ không chỉ dừng lại ở “họp, hô, hứa”, mà còn có cả sự lãng phí. Hàng tỷ đồng cho một đề án nghiên cứu không có tính ứng dụng, hàng chục tỷ đồng cho một mô hình kinh tế cẩu thả, hay hàng trăm tỷ đồng cho một làng văn hóa không có khách tham quan, sẽ liên tục xuất hiện, khi mà doanh nghiệp tư nhân trong lĩnh vực ấy thì đói vốn trầm trọng.</p><p class="Normal">
+Quản trị là một môn khoa học. Bắt quản lý nhà nước sáng tạo ra cái mới trong lĩnh vực mình phụ trách, tức là bắt một người có năng lực ưu việt trong hai môn khoa học cùng lúc. Ngay cả nếu họ có thực sự là siêu nhân, thì cơ chế này cũng đẩy họ vào nguy cơ làm dở cả hai nhiệm vụ vì thiếu tập trung.</p><p class="Normal">
+Tôi ngồi với một đạo diễn. Ông rít rất nhiều thuốc, và run run nói về những liên hoan phim quốc tế, nơi mà các đồng nghiệp cũng dùng tiền ngân sách, nhưng là thông qua hình thức quỹ đầu tư của nhà nước. Ông mơ ước nhà nước mình cũng có mô hình như thế. Ông ganh tị với đồng nghiệp ở Iran, nơi mà người ta không thèm hô “hội nhập” vẫn làm ra phim đoạt giải Oscar.</p><p class="Normal">
+Tôi đoán trong đầu ông đã mơ tưởng ra cả danh sách các thành viên hội đồng của cái quỹ ấy, nếu nó được thành lập ở Việt Nam. Toàn đồng nghiệp có trình độ, những người mà ông kính trọng và tin tưởng. Họ có sửa kịch bản, chắc ông cũng không nề hà.</p><p class="Normal">
+Nhưng không có quỹ: ông vẫn phải làm phim theo đặt hàng từ chính cơ quan quản lý. Tôi không biết trong đặt hàng cụ thể có gì, cán bộ quản lý đòi hỏi gì, nhưng phim người ta chê là nặng tuyên truyền, ông cũng buồn lòng. Đồng nghiệp trong nước còn lời ra tiếng vào, vì nhận được “đặt hàng” đã là một loại may mắn. Rốt cục thì tiền tiêu cả đống, ai cũng rầu lòng mà không thấy bước tiến.</p><p class="Normal">
+Câu chuyện nhỏ về điện ảnh, chỉ là ví dụ dễ hiểu nhất và ít tốn kém nhất trong số những nhiệm vụ giải ngân cho phát triển của các cơ quan quản lý.</p><p class="Normal">
+Có những thiết chế sinh ra để khuyến khích người ta hứa, rồi lại mặc nhiên tiêu diệt những lời hứa.</p><p class="Normal" style="text-align:right;">
+<strong>Đức Hoàng</strong></p>	</div>
+<div class="div-fbook width_common mb20">
+<div class="block_btn_like left">
+<div class="item_social font_icon" data-component="true" data-component-type="like" data-component-objectid="3796716" data-component-siteid="1000000" data-objecttype="1"></div>	</div>
+<div class="right text-right">
+<p class="social social-detail">
+<span class="btn_facebook social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/hop-ho-hua-3796716.html" data-type="facebook" class="icon_share social_share">
+<i class="ic ic-facebook"></i>
+</span>
+<span class="btn_twitter social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/hop-ho-hua-3796716.html" data-type="twitter" data-content="Họp, hô, hứa" class="icon_share social_share">
+<i class="ic ic-twitter"></i>
+</span>
+<span class="btn_google_plus social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/hop-ho-hua-3796716.html" data-type="google" class="icon_share social_share">
+<i class="ic ic-google-plus"></i>
+</span>
+</p>
+<span class="luu_tin right myvne_save_for_later" data-token="eb8bd29b2538b3fc27ce4cb5791d9189" data-article-id="3796716"></span>
+</div>
+</div>
+</div>
+</article>
+<!--END DETAIL GOC NHIN-->

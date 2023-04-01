@@ -1,0 +1,53 @@
+﻿<!--DETAIL GOC NHIN-->
+<article id="article_detail" class="section article_detail">
+<header class="the-article-header inner_section clearfix">
+<h1 class="title_gn_detail">Con nghiện</h1>
+<p class="meta">
+<span class="avata_box_author">
+<a href="https://vnexpress.net/tac-gia/da-ngan-1143.html">
+<img src="https://i-vnexpress.vnecdn.net/2018/08/16/Danganpng-1534390525.png" alt="Dạ Ngân">
+<strong>Dạ Ngân</strong>
+</a>
+</span>
+<span class="time">Thứ năm, 16/8/2018, 10:38 (GMT+7)</span>
+<a href="#box_comment"><span class="icon_commend" data-href="https://vnexpress.net/tin-tuc/goc-nhin/con-nghien-3793235.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3793235"><img class="icon_content icon_title_coment" alt="" src="https://s.vnecdn.net/vnexpress/restruct/i/v14/graphics/img_blank.gif">&nbsp;</span></span></a>
+<span class="luu_tin myvne_save_for_later" data-token="f43a15c67c040ac769a32bd47c342312" data-article-id="3793235"></span>
+</p>
+</header>
+<div class="article_body inner_section clearfix">
+<div class="fck_detail">
+<p class="Normal">Thời chiến ở miền Nam, kẻ lỡ mắc phải cơm đen và đèn bàn thì xung quanh gọi là “con nghiện, thằng nghiện, lão nghiện…”.</p>
+<p class="Normal">
+Cuộc chiến càng về cuối, số người nghiện càng dày: trí thức ươn nhược, binh lính chán đời, trai gái thất nghiệp, đàn ông đàn bà lấm láp bụi đời... Nhiều vô kể. Có người đổ cho lối sống Mỹ, đổ cho quan chức làm càn trục lợi bằng chất cấm. Nói chung, người ta đổ hết cho chiến tranh, guồng quay, gót giày viễn chinh và một chính quyền bên bờ vực.</p><p class="Normal">
+Hậu chiến bộn bề. Chính quyền mới xử lý núi việc, trong đó không loại trừ chuyện quản lý những con nghiện trôi nổi. Thực tình tôi không nhớ những hình ảnh không dễ dàng ấy, bởi vì chuyện cải tạo người, cải tạo kinh tế thị trường cho giống với mô hình miền Bắc xã hội chủ nghĩa khiến tôi chú ý hơn. Một thời gian dài đô thị vắng bóng con nghiện, có lẽ do cuộc chiến 10 năm ở hai đầu đất nước và việc bị cấm vận giống như quốc gia đang đóng cửa, nghèo thê thảm khiến con người bạc mặt chỉ lo kiếm sống và lo trốn đi hay trụ lại.</p><p class="Normal">
+Lật bật Đổi mới. Từ 1990, con nghiện tái xuất. Đa số là người trẻ. Dư luận hoang mang ngang bằng với dư chấn của nạn HIV/AIDS. Hoang mang rằng không phải cơm đen, dạng này trắng mịn, chỉ cần hít thử hai lần là dính! Quỷ quái đến thế sao? Thử hít hai lần, bọn bạn đè nghiến một đứa con nhà tử tế xuống bắt hít, hai lần là xong ư? Bọn buôn lẻ phục ngay ở cổng trường ấy, trời đất ơi, “làm cho khốc hại chẳng qua vì tiền” đây mà!</p><p class="Normal">
+Đám tang một thanh niên trẻ, đến bây giờ mỗi khi nhớ lại tôi vẫn ứa nước mắt. Nó là con liệt sĩ, mẹ đi bước nữa. Em trai cùng mẹ khác cha lớn lên bên anh, khăng khít. Mẹ là công chức, sơ sẩy con ở giai đoạn nó đang cấp II, con lỡ hít. Nhiều lần xin mẹ, van mẹ, đe mẹ để vòi tiền. Mẹ cai cho con ở nhà, đưa đi cai, về vẫn tái. Bố dượng sợ em ảnh hưởng, sống tách ra. Một buổi trưa, nó gí dao vào hông mẹ nã tiền, mẹ rú lên, hàng xóm đến giải cứu. Nó sập cửa phòng, chốt trong, treo cổ trên móc quạt trần. Người mẹ khóc ngày đêm, ra tận chỗ lễ tang, không ngẩng lên được. Tràn ngập vòng hoa trắng, gương mặt con yên ngủ và hình ảnh người mẹ khóc không đứng lên nổi ám ảnh tôi mãi, đến tận hôm nay.</p><p class="Normal">
+Một đứa trẻ khác, cháu họ tôi. Ba mẹ bỏ nhau, ông bà ngoại nuôi cháu. Ông bà quan chức có tiền, cưng chiều, cũng sơ suất khi cháu vào cấp II. Lỡ nghiện, đi cai hết trại này đến trại khác, bắt cóc bỏ dĩa, tái và cai, ăn cắp và đi tù, về nhà chỉ cần “nghe bạn thở là cháu tái nghiện”, lời thật lòng của nó. Rồi đến mức đã phải tiêm và HIV/AIDS đã hoành hành trong nó. Nó chết trên tay bà ngoại và luôn miệng “Con xin lỗi ngoại, còn làm khổ ngoại quá, con xin lỗi ngoại!”</p><p class="Normal">
+Vượt ngoài sự lo âu, ngoài tầm kiểm soát, nạn nghiện đã gõ cửa từng gia tộc, từng cầu thang chung cư, từng con hẻm, từng con phố. Kim tiêm dấy máu khắp nơi.</p><p class="Normal">
+Tôi được những người trực tiếp phòng chống ma túy mời đi một chuyến ở những nơi ma túy vờn dân như thú dữ vờn mồi. Sơn La, Lào Cai, Điện Biên, Lai Châu, Lạng Sơn, Yên Bái... Trực tiếp thấy những nấm mồ của chiến sĩ chết trẻ vì bọn liều lĩnh ấy chống trả. Trực tiếp thấy những chiến sĩ ngày đêm rình bắt lũ buôn chất trắng làm cho họ phơi nhiễm. Trực tiếp thấy dân bản sống chung với ma túy như cơm ăn và nước uống. Mênh mông địa hình trắc trở để ma túy dích dắc tuồn vào và cũng mênh mông nỗi buồn cho vùng đất đẹp mê hồn nhưng người nghiện đông không đếm xuể.</p><p class="Normal">
+Một trại cai nghiện ở Sơn La trong một buổi chiều hoang vắng. Nhìn thấy những chàng trai dán mắt sau song cửa thèm khát đôi chân tự do của tôi. Các em ơi, các em biết mình lỡ nhưng để thoát được, các em phải chịu nhốt mình sau song cửa kia đi đã. Tôi chú ý một người đàn ông được giới thiệu là thạc sĩ, cai riêng một phòng. Gương mặt đẹp, ánh mắt vô vọng và cách ngồi bệt trên nền xi măng ám ảnh tôi. Tôi nhớ một diễn viên gạo cội của làng điện ảnh Việt Nam lỡ nghiện và thường nói dối với bạn bè để xin tiền. Câu chuyện vật vã cai trong căn nhà ven đê của anh ấy như một chương tiểu thuyết đẫm buồn.</p><p class="Normal">
+Một gã đàn ông phập phù cai khi thành khi bại tại khu dân cư tôi hay gặp ở chỗ thể dục: “Cô cho con vài chục ăn bánh mì đi cô!”.</p><p class="Normal">
+Nhà thơ Akhmatova viết: "Ta thương người tù ta thương người bệnh". Họ là những con bệnh, họ quá đáng thương bạn ạ.</p><p class="Normal">
+Có phải nước ta luôn là thị trường ưa thích của bọn buôn chất tày trời? Có phải gia đình và học đường của ta quá yếu? Có phải thanh thiếu niên và cả trí thức trẻ của ta dễ dàng lạc lối? Có phải các trại cai nghiện không được tổ chức một cách nhân văn? Vô số các câu hỏi rơi vào thinh không. Đâu ai dám chắc gia tộc mình yên. Sống mà không dám chắc cái gì cả. Là người thân của bạn và có thể chính bạn trong một lần buông xuôi, không biết nữa.</p><p class="Normal" style="text-align:right;">
+<strong>Dạ Ngân</strong></p>	</div>
+<div class="div-fbook width_common mb20">
+<div class="block_btn_like left">
+<div class="item_social font_icon" data-component="true" data-component-type="like" data-component-objectid="3793235" data-component-siteid="1000000" data-objecttype="1"></div>	</div>
+<div class="right text-right">
+<p class="social social-detail">
+<span class="btn_facebook social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/con-nghien-3793235.html" data-type="facebook" class="icon_share social_share">
+<i class="ic ic-facebook"></i>
+</span>
+<span class="btn_twitter social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/con-nghien-3793235.html" data-type="twitter" data-content="Con nghiện" class="icon_share social_share">
+<i class="ic ic-twitter"></i>
+</span>
+<span class="btn_google_plus social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/con-nghien-3793235.html" data-type="google" class="icon_share social_share">
+<i class="ic ic-google-plus"></i>
+</span>
+</p>
+<span class="luu_tin right myvne_save_for_later" data-token="f43a15c67c040ac769a32bd47c342312" data-article-id="3793235"></span>
+</div>
+</div>
+</div>
+</article>
+<!--END DETAIL GOC NHIN-->

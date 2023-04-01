@@ -1,0 +1,55 @@
+﻿<!--DETAIL GOC NHIN-->
+<article id="article_detail" class="section article_detail">
+<header class="the-article-header inner_section clearfix">
+<h1 class="title_gn_detail">Huấn luyện viên online</h1>
+<p class="meta">
+<span class="avata_box_author">
+<a href="https://vnexpress.net/tac-gia/lam-thoa-1147.html">
+<img src="https://i-vnexpress.vnecdn.net/2018/09/01/lamthoapng-1535779514.png" alt="Lâm Thỏa">
+<strong>Lâm Thỏa</strong>
+</a>
+</span>
+<span class="time">Thứ bảy, 1/9/2018, 12:26 (GMT+7)</span>
+<a href="#box_comment"><span class="icon_commend" data-href="https://vnexpress.net/tin-tuc/goc-nhin/huan-luyen-vien-online-3801845.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3801845"><img class="icon_content icon_title_coment" alt="" src="https://s.vnecdn.net/vnexpress/restruct/i/v14/graphics/img_blank.gif">&nbsp;</span></span></a>
+<span class="luu_tin myvne_save_for_later" data-token="eed98e39eb1ba8a0540bb082c219fbe1" data-article-id="3801845"></span>
+</p>
+</header>
+<div class="article_body inner_section clearfix">
+<div class="fck_detail">
+<p class="Normal">Phải trực tiếp chứng kiến, mới biết rằng nhiều “cư dân mạng” đã bất công hay thậm chí là độc ác với thày và trò đội tuyển Olympic Việt Nam đến thế nào.</p>
+<p class="Normal">
+Tôi đã đứng đó, quay lại cảnh Park Hang-seo nhìn theo chiếc xe chở Hùng Dũng ra sân bay về nước. Người ta trách cứ ông Park vì “không giữ quân”, vì “không tính toán”, đá hết sức với Nhật Bản ở lượt đấu cuối vòng bảng để mất quân. Nhưng chính Park Hang-seo là người tiếc Hùng Dũng hơn ai hết. Ông đứng nhìn theo chiếc xe cho đến khi nó đi rất xa, rồi mới quay đi. Trước đó, ông đã giữ Dũng ở lại, nhưng chính anh là người chủ động xin về nước.</p><p class="Normal">
+Làm “huấn luyện viên online”, theo cách gọi của độc giả <em>VnExpress </em>những ngày này, rất dễ dàng. Xem trận đấu, quan sát vài biểu hiện trên màn hình, rồi đưa ra các nhận định hay là phán xét. Nhưng làm huấn luyện viên thật rất khó.</p><p class="Normal">
+Những áp lực mà ê kíp của Park Hang-seo phải chịu đựng phần lớn không lên báo đài. Young Sub vốn là thày giáo dạy tiếng Anh của ông Park, tức là không hề được liên đoàn trả lương cho các công tác chuyên môn. Nhưng cậu vẫn hoạt động với cường độ của một nhà chiến lược: trước ngày thi đấu, di chuyển 100 cây số đến nơi đối thủ tập luyện, quay hình toàn bộ, rồi về cắt hình để đội nghiên cứu. Trước mỗi trận đấu, Young Sub đến sân trước hàng tiếng đồng hồ để sắp xếp phòng thay đồ.</p><p class="Normal">
+Những người ác khẩu nói rằng họ chưa thấy HLV nào mà đội thua lại ngồi cười như ông Park. Đó là khoảnh khắc mà họ thoáng thấy trên truyền hình, trong trận gặp Hàn Quốc. Họ gián tiếp đặt ra một nghi ngờ ghê gớm với một người chuyên nghiệp: ông không thực tâm muốn thắng Hàn Quốc, vì đó là quê hương ông.</p><p class="Normal">
+Nhưng cái họ không thấy, là hình ảnh những phóng viên Hàn Quốc bao vây Park Hang-seo trước trận đấu. Trong cảm nhận của tôi, thì áp lực mà giới phóng viên Hàn Quốc tìm cách đè lên ông, còn lớn hơn cả áp lực của báo chí Việt Nam. Tôi nhìn thấy trợ lý Lee há hốc mồm trước trận đấu: phóng viên ảnh Hàn Quốc bao vây ông Park, dí ống kính máy ảnh vào sát mặt chụp hình, theo một thái độ bất thường và cực đoan.</p><p class="Normal">
+Trước đó, họ liên tục, liên tục hỏi Park trong các buổi họp báo và phỏng vấn rằng ông có muốn thắng Hàn Quốc không. Những lúc ấy, ông luôn trả lời đơn giản: “Tôi yêu tổ quốc tôi. Nhưng tôi là HLV của Việt Nam”.</p><p class="Normal">
+Cái họ không được nghe, là khi Park Hang-seo tâm sự với trợ lý của mình trước trận đấu gặp Hàn Quốc. Ông thừa nhận rằng đó là một nhiệm vụ cực kỳ khó khăn, nhưng “We can do”.</p><p class="Normal">
+Câu “We can do” ấy, tôi được người trợ lý kể lại nguyên văn. Tôi cũng xin phép những độc giả không dùng tiếng Anh được trích nguyên văn, bởi nó không chỉ là một câu nói: nó giống khẩu hiệu của một chiến dịch lớn, mà đội tuyển của chúng ta đã đi qua từ Thường Châu đến Indonesia. Đội tuyển của chúng ta từ chỗ luôn “học hỏi cọ xát” đã đến chỗ đặt mục tiêu thắng cả những đội bóng hàng đầu thế giới. Đó cũng chính là tinh thần của việc đặt mục tiêu thắng Nhật Bản. Nhưng không phải lúc nào những khẩu hiệu cũng được tuyên bố oang oang trên mặt báo, hay là phải thể hiện ra trên sóng truyền hình.</p><p class="Normal">
+Cái mà những HLV online không nhìn thấy, là sự lo lắng mất ăn mất ngủ của những thành viên ban huấn luyện và đội tuyển. Ông Park không trực tiếp đi xem đối phương thi đấu và tập luyện, thậm chí có lúc tỏ vẻ thờ ơ, miệng hay cười mỉm, nói những câu tưng tưng như “trận đấu nào cũng tốn thể lực thôi”, nhưng luôn chuẩn bị cho các trận đấu cực kỹ càng. Đội ngũ trợ lý làm việc hết công suất. Buổi trưa trước trận gặp Hàn Quốc, trong khi mọi người ăn uống nghỉ ngơi, tôi vẫn thấy hai trợ lý của ông căng thẳng ngồi riêng, trao đổi chiến thuật. Đó là hình ảnh người ta không nhìn thấy trên báo.</p><p class="Normal">
+Sự suy diễn từ bàn phím có thể đi rất xa. Thậm chí người ta có thể nói rằng ông Park đã mượn sân tập của Samsung để “quảng cáo cho nhãn hàng quê nhà”. Họ không hiểu rằng ban huấn luyện đã căng thẳng thế nào khi đội tuyển gặp sự cố về sân tập. Ban tổ chức bố trí cho chúng ta một sân tập cách khách sạn rất xa, và ông Park đã quyết định không tới tập ở đó, sau khi tính toán cẩn thận từng phút một, di chuyển mất bao lâu, xin giấy phép vào sân mất bao lâu (ta được bố trí tập ở một sân nằm trong khu quân sự, mỗi lần vào phải lấy giấy phép), thời gian tập được bao lâu. Cách bố trí sân tập của ban tổ chức thậm chí gây ức chế ngay cả cho những phóng viên đi theo tuyển như tôi, chứ đừng nói đến người lèo lái cả đội. Sân tập được mượn là kết quả của sự tính toán tối ưu trong tình thế khó khăn. Và lời cáo buộc vụ lợi, rất độc ác.</p><p class="Normal">
+Hiếm khi tôi thấy một nhà cầm quân nào phải giải thích chiến thuật của mình sau trận nhiều như Park Hang-seo ở giải đấu lần này. Không thể nghĩ rằng ông không bị ảnh hưởng bởi những lời dèm pha từ Việt Nam.</p><p class="Normal">
+Đôi khi, bớt lời, bớt tay gõ phím trong nhiều tình huống, đã là giúp đỡ người khác vượt qua những khó khăn. Ta không bao giờ có thể thực sự sống trong cuộc đời người khác để biết họ đang phải trải qua những gì.</p><p class="Normal" style="text-align:right;">
+<strong>Lâm Thỏa</strong><br>
+(từ Indonesia)</p>	</div>
+<div class="div-fbook width_common mb20">
+<div class="block_btn_like left">
+<div class="item_social font_icon" data-component="true" data-component-type="like" data-component-objectid="3801845" data-component-siteid="1000000" data-objecttype="1"></div>	</div>
+<div class="right text-right">
+<p class="social social-detail">
+<span class="btn_facebook social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/huan-luyen-vien-online-3801845.html" data-type="facebook" class="icon_share social_share">
+<i class="ic ic-facebook"></i>
+</span>
+<span class="btn_twitter social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/huan-luyen-vien-online-3801845.html" data-type="twitter" data-content="Huấn luyện viên online" class="icon_share social_share">
+<i class="ic ic-twitter"></i>
+</span>
+<span class="btn_google_plus social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/huan-luyen-vien-online-3801845.html" data-type="google" class="icon_share social_share">
+<i class="ic ic-google-plus"></i>
+</span>
+</p>
+<span class="luu_tin right myvne_save_for_later" data-token="eed98e39eb1ba8a0540bb082c219fbe1" data-article-id="3801845"></span>
+</div>
+</div>
+</div>
+</article>
+<!--END DETAIL GOC NHIN-->

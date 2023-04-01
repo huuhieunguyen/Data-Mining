@@ -1,0 +1,56 @@
+﻿<!--DETAIL GOC NHIN-->
+<article id="article_detail" class="section article_detail">
+<header class="the-article-header inner_section clearfix">
+<h1 class="title_gn_detail">Luật trái luật</h1>
+<p class="meta">
+<span class="avata_box_author">
+<a href="https://vnexpress.net/tac-gia/truong-thanh-duc-1144.html">
+<img src="https://i-vnexpress.vnecdn.net/2018/08/21/truongthanhducpng-1534787681.png" alt="Trương Thanh Đức">
+<strong>Trương Thanh Đức</strong>
+</a>
+</span>
+<span class="time">Thứ ba, 21/8/2018, 00:57 (GMT+7)</span>
+<a href="#box_comment"><span class="icon_commend" data-href="https://vnexpress.net/tin-tuc/goc-nhin/luat-trai-luat-3795440.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3795440"><img class="icon_content icon_title_coment" alt="" src="https://s.vnecdn.net/vnexpress/restruct/i/v14/graphics/img_blank.gif">&nbsp;</span></span></a>
+<span class="luu_tin myvne_save_for_later" data-token="23305761cb91fad365f9da8fef700551" data-article-id="3795440"></span>
+</p>
+</header>
+<div class="article_body inner_section clearfix">
+<div class="fck_detail">
+<p class="Normal">Sống và làm việc theo Hiến pháp và pháp luật không còn là khẩu hiệu mà đã trở thành điều hiển nhiên. Nhưng khi chính văn bản quy phạm pháp luật lại trái luật, thì chỉ có người dân phải chịu đựng, chứ không nhìn thấy trách nhiệm của người ban hành.</p>
+<p class="Normal">
+Suốt từ 2014 đến 2016, tôi tham gia cùng Phòng Thương mại và Công nghiệp Việt Nam đấu tranh đòi bãi bỏ một thông tư. Nó đã khiến nhiều doanh nghiệp dệt may thiệt hại hàng trăm tỷ đồng.</p><p class="Normal">
+Câu chuyện diễn ra từ 2009 đến 2016. Nhiều doanh nghiệp dệt may đã phải trả chi phí thêm hàng trăm tỷ đồng cho việc kiểm tra hàm lượng Formaldehyt và Amin thơm chuyển hóa từ thuốc nhuộm Azo trong sản phẩm dệt may. Đó là tiền họ phải chi trả cho các tổ chức thử kiệm, giám định, chứng nhận chất lượng, dịch vụ lưu kho bãi... với hàng hóa của mình.</p><p class="Normal">
+Thực tế, điều này không những không có tác dụng gì mà còn là sự đòi hỏi quá cao, ngay cả các nước văn minh cũng không yêu cầu doanh nghiệp thực hiện. Nhưng các doanh nghiệp Việt Nam phải chịu đựng việc vô lý này suốt bảy năm là do phải thực hiện theo Thông tư số 32/2009 và số 37/2015 của Bộ Công thương.</p><p class="Normal">
+“Không thể hiểu nổi quy định này nhằm mục đích gì. Nó đã gây khốn khổ, tốn kém cơ man tiền bạc của chúng tôi” - một lãnh đạo doanh nghiệp nói với chúng tôi, rằng đòi hỏi về hóa chất trong sản phẩm dệt may của Bộ Công thương như trên không chỉ cao hơn các nước châu Âu, mà quan trọng là nó trái luật.</p><p class="Normal">
+Quy định này trái với Luật Chất lượng hàng hóa năm 2007, nhưng mãi tới năm 2016, nó mới được bãi bỏ.</p><p class="Normal">
+Các doanh nghiệp dệt may sẽ không bao giờ được bồi thường thiệt hại từ sai phạm đó. Luật Tố tụng hành chính hiện hành chỉ cho phép doanh nghiệp khởi kiện quyết định hành chính hoặc hành vi hành chính trái luật, chứ không cho phép kiện văn bản quy phạm pháp luật.</p><p class="Normal">
+Trong nhiều năm hành nghề luật sư, tôi gặp vô số đạo luật và văn bản quy phạm pháp luật khác cũng bất cập từ gốc rễ. Chẳng hạn như Điều 64 về “Thu hồi đất do vi phạm pháp luật về đất đai” của Luật Đất đai năm 2013 quy định: nếu nhà đầu tư chậm triển khai dự án được Nhà nước cho thuê đất thì sẽ bị thu hồi đất mà không bồi thường về cả đất và tài sản gắn liền với đất. Trên thực tế xử lý việc này vô cùng vướng mắc, vì tài sản dự án thuộc sở hữu hoàn toàn hợp pháp của nhà đầu tư, nếu thu hồi có thể sẽ là việc tịch thu tài sản không có căn cứ, thậm chí là vi hiến.</p><p class="Normal">
+Hay là việc luật có các quy định trùng lặp dẫn đến người dân không biết phải thực hiện theo quy định nào. Ví dụ khái niệm “người có liên quan” từ năm 1997 đến 2018 liên tục “nhảy múa” theo sự thay đổi của việc sửa từng luật và hiện nó được quy định khác nhau trong đồng thời bốn đạo luật, gồm: Luật Các công cụ chuyển nhượng năm 2005, Luật Chứng khoán năm 2006 (sửa đổi, bổ sung năm 2010), Luật Các tổ chức tín dụng năm 2010 (sửa đổi, bổ sung năm 2017) và Luật Doanh nghiệp năm 2014.</p><p class="Normal">
+Chỉ riêng năm ngoái, cả nước ban hành 40.350 văn bản quy phạm pháp luật, thì trong đó có tới 14% văn bản bị phát hiện có nội dung trái luật. Tính trung bình, mỗi ngày làm việc, các cơ quan nhà nước cho ra đời 22,3 văn bản trái luật. Đó là chưa tính các văn bản của Thủ tướng và Chính phủ trở lên đến Quốc hội chưa được ngành Tư pháp rà soát, kiểm tra. <span>Một khi cả tỷ lệ tương đối và con số tuyệt đối văn bản trái luật đều quá nhiều, thật khó có thể chấp nhận khi ta theo đuổi nền tư pháp lành mạnh.</span></p><p class="Normal">
+Tôi thử tự trả lời cho câu hỏi tại sao có tình trạng này. <span>Nguyên nhân thứ nhất, theo tôi là ở tư duy, trình độ, nhận thức của đội ngũ công chức tham gia soạn thảo và ban hành văn bản. Họ chưa đủ tầm, chưa đáp ứng được yêu cầu công việc. Trong đó có hiện tượng các cấp chính quyền sa đà quá nhiều vào sự vụ, không còn thời gian và nguồn lực tập trung vào công tác xây dựng pháp luật.</span></p><p class="Normal">
+Thứ hai là cơ chế đã cho phép quá nhiều cơ quan được ban hành văn bản quy phạm pháp luật. Theo quy định của Luật Ban hành văn bản quy phạm pháp luật năm 2015, có tới 26 loại văn bản quy phạm pháp luật, do khoảng 10.871 cơ quan, cá nhân ban hành; 27 cơ quan ở Trung ương, khoảng 10.844 hội đồng nhân dân và ủy ban nhân dân ở ba cấp địa phương tỉnh, huyện, tới cả cấp xã. </p><p class="Normal">
+Thứ ba, việc xác định và quy kết trách nhiệm vẫn không rõ ràng đối với các sai phạm trong việc ban hành văn bản. Mặc dù đã có quy định về “trách nhiệm của cơ quan, tổ chức, người có thẩm quyền trong xây dựng, ban hành” trong Luật Ban hành văn bản quy phạm pháp luật. Nhưng nội dung về “trách nhiệm” còn quá chung chung.</p><p class="Normal">
+Thứ tư, việc xác định các nguyên tắc áp dụng pháp luật không hợp lý; lại không gắn với giải quyết hậu quả pháp lý và thiệt hại tài sản, nên ít hiệu quả, không gây được sức ép thay đổi. Đây là nguyên nhân luật sai từ gốc.</p><p class="Normal">
+Với những quy định sai luật, người dân, doanh nghiệp là đối tượng đầu tiên gánh chịu hậu quả - mà có khi tính bằng đời người. Còn những cơ quan chức năng đã ban hành văn bản sai có gánh chịu gì hay không, tôi thật chưa nhìn thấy.</p><p class="Normal" style="text-align:right;">
+<strong><span>Trương Thanh Đức</span></strong></p>	</div>
+<div class="div-fbook width_common mb20">
+<div class="block_btn_like left">
+<div class="item_social font_icon" data-component="true" data-component-type="like" data-component-objectid="3795440" data-component-siteid="1000000" data-objecttype="1"></div>	</div>
+<div class="right text-right">
+<p class="social social-detail">
+<span class="btn_facebook social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/luat-trai-luat-3795440.html" data-type="facebook" class="icon_share social_share">
+<i class="ic ic-facebook"></i>
+</span>
+<span class="btn_twitter social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/luat-trai-luat-3795440.html" data-type="twitter" data-content="Luật trái luật" class="icon_share social_share">
+<i class="ic ic-twitter"></i>
+</span>
+<span class="btn_google_plus social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/luat-trai-luat-3795440.html" data-type="google" class="icon_share social_share">
+<i class="ic ic-google-plus"></i>
+</span>
+</p>
+<span class="luu_tin right myvne_save_for_later" data-token="23305761cb91fad365f9da8fef700551" data-article-id="3795440"></span>
+</div>
+</div>
+</div>
+</article>
+<!--END DETAIL GOC NHIN-->

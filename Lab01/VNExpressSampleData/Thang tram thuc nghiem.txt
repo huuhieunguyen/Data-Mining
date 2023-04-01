@@ -1,0 +1,57 @@
+﻿<!--DETAIL GOC NHIN-->
+<article id="article_detail" class="section article_detail">
+<header class="the-article-header inner_section clearfix">
+<h1 class="title_gn_detail">Thăng trầm Thực nghiệm</h1>
+<p class="meta">
+<span class="avata_box_author">
+<a href="https://vnexpress.net/tac-gia/do-song-huong-465.html">
+<img src="https://i-vnexpress.vnecdn.net/2017/08/10/dosonghuongpng-1502339144.png" alt="Đỗ Sông Hương">
+<strong>Đỗ Sông Hương</strong>
+</a>
+</span>
+<span class="time">Thứ hai, 10/9/2018, 08:28 (GMT+7)</span>
+<a href="#box_comment"><span class="icon_commend" data-href="https://vnexpress.net/tin-tuc/goc-nhin/thang-tram-thuc-nghiem-3806059.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3806059"><img class="icon_content icon_title_coment" alt="" src="https://s.vnecdn.net/vnexpress/restruct/i/v14/graphics/img_blank.gif">&nbsp;</span></span></a>
+<span class="luu_tin myvne_save_for_later" data-token="90567809197b4a5415e3fb45a9cb6dde" data-article-id="3806059"></span>
+</p>
+</header>
+<div class="article_body inner_section clearfix">
+<div class="fck_detail">
+<p class="Normal">Tôi là học sinh trường Thực nghiệm khóa bốn. Đã gần 40 năm trôi qua, tôi vẫn nhớ như in cái ngày cha đưa tôi đi thi vào lớp Một - ngày mà chưa có trường cấp một nào tổ chức thi đầu vào để lựa chọn học sinh.</p>
+<p class="Normal">
+Buổi thi vấn đáp diễn ra trong vòng chưa đầy 20 phút. Tôi được yêu cầu phát âm một số từ cơ bản của tiếng Nga và nhìn tranh để trả lời khoảng năm câu hỏi trắc nghiệm. </p><p class="Normal">
+Không ôn thi đầu vào, không học trước, không quen biết, mọi đứa trẻ như tôi ngày đó đỗ vào trường chỉ nhờ phát âm chuẩn, có khả năng đối ứng linh hoạt với mọi tình huống và biết tư duy, tưởng tượng. Tôi đã bắt đầu với “công nghệ giáo dục” như vậy. </p><p class="Normal">
+Những năm 80 đó cái tên Thực nghiệm còn vô cùng xa lạ, và học sinh Thực nghiệm bị coi là khác thường vì chúng tôi đi học có ô tô đưa đón, mang cặp lồng cơm để bán trú tại trường, học tiếng Nga từ lớp một và thường xuyên được giao tiếp với chuyên gia người bản ngữ. Mô hình giáo dục tiên tiến này phải đến hơn 20 năm sau mới được áp dụng và phổ biến ở Việt Nam. </p><p class="Normal">
+“Công nghệ giáo dục” đó đã mang đến cho chúng tôi những buổi tham quan dã ngoại khắp nơi trong thành phố để sau đó có thể viết được những bài văn không theo khuôn mẫu sáo mòn của cô giáo; những giờ học không phải còng lưng tập viết các con chữ khô khan hay vắt óc làm các bài toán hóc búa, thay vào đó chúng tôi được thỏa sức tô vẽ, tưởng tượng, đi từ hứng thú này đến say mê khác; hay một thói quen học ngoại ngữ bằng bản năng, cứ thế nghe, và cứ thế tự tin nói, chưa cần chú trọng quá vào ngữ pháp; thành tích không phải là điểm 1,2 hay 9,10 mà là các cấp độ A,B,C,D... Mỗi đứa trẻ chúng tôi khi ấy là một bản thể riêng biệt, cá tính, không bị áp đặt, được tôn trọng và khơi dậy những năng lực tiềm tàng. </p><p class="Normal">
+Sau này, khi trở thành cô giáo, những nguyên lý giáo dục mà tôi đã thấm nhuần từ thời học Thực nghiệm giúp tôi xác lập được tôn chỉ dạy học của mình, đó là luôn cố gắng phát hiện và khơi dậy những mặt tích cực ở trẻ thay cho việc chỉ xoáy vào phê phán những điểm xấu. Dạy cho trẻ nhân cách trước khi bắt chúng học kiến thức. Và truyền đam mê cảm hứng, động lực trước khi ép vào quy tắc, khuôn khổ.</p><p class="Normal">
+Đã 40 năm mô hình giáo dục Thực nghiệm trải qua bao biến cố thăng trầm. Từ năm khai sinh 1978 đầy hy vọng về một mô hình giáo dục thực sự đổi mới, rồi những năm cuối thập niên 80 lao đao đến mức toàn bộ khóa một, khóa hai phải thôi học chương trình Công nghệ giáo dục và chuyển trường. Đến tháng 5 năm 2012, giai đoạn đỉnh cao được đánh dấu bởi sự kiện “đạp đổ cổng trường” do hiệu ứng mang tên “Ngô Bảo Châu”. Và hôm nay, với bộ sách tiếng Việt lớp Một Công nghệ giáo dục, cái tên “thực nghiệm” lại một lần nữa trở thành tâm bão của dư luận. </p><p class="Normal">
+Người ta chỉ trích rằng tại sao sau 40 năm vẫn là “thực nghiệm”, không chấp nhận đem con cháu mình làm vật thí nghiệm. Bản chất của từ “thực nghiệm” như vậy đã bị hiểu sai hoàn toàn. Để lĩnh hội được kiến thức một cách chủ động và sáng tạo, mỗi học sinh phải trải nghiệm thực tế, không thụ động đi theo lối mòn cũ kỹ do người lớn áp đặt. Đó là triết lý học thực nghiệm.</p><p class="Normal">
+Chúng ta luôn hoảng hốt và có thái độ tiêu cực khi đứng trước những thay đổi lớn. Và không ít người trong số chúng ta bị tâm lý đám đông chi phối dẫn đến những phát ngôn và hành động không xuất phát từ nền tảng nhận thức của chính mình. </p><p class="Normal">
+Nhiều năm nay tôi thường xuyên được mời tham gia vào hội đồng thẩm định sách giáo khoa. Nhiệm vụ của tôi là cùng những chuyên gia khác “bới lông tìm vết”, nhặt sạn cho những bộ sách giáo khoa đang cần thẩm định trước khi đưa vào thực tế giảng dạy. Những người viết sách thường bị gọi đùa là “bị cáo”, còn thẩm định viên trở thành “quan tòa”. Hai “phe” đối lập và hoàn toàn độc lập đó sẽ tham gia vào những cuộc “hỏi cung” và “giải trình” diễn ra nghiêm túc dưới sự giám sát của cơ quan chủ quản là Bộ Giáo dục.</p><p class="Normal">
+Có những đợt thẩm định phải kéo dài và lặp lại nhiều vòng do sách cần chỉnh sửa nhiều. Và những người trong cuộc, cả “bị cáo” và “quan tòa” luôn mang tâm thế phải làm việc thực sự công tâm và cẩn trọng. Bởi chúng tôi hiểu dư luận sẽ khó lòng tha thứ cho một sản phẩm giáo dục tồi. Với trải nghiệm bản thân đó, tôi tin, bất kỳ ai, dù là chủ biên hay thẩm định, nếu đã mang trong mình hoài bão và tâm huyết giáo dục, đều không dễ gì đánh đổi danh dự để nhận về thứ mà người ta đang quy kết là “lợi ích nhóm”.</p><p class="Normal">
+Sách tiếng Việt lớp Một Công nghệ giáo dục, hay chương trình Công nghệ giáo dục của giáo sư Hồ Ngọc Đại, để được đưa vào sử dụng rộng rãi chắc chắn cũng phải kinh qua các vòng thẩm định dưới sự giám sát của cơ quan chủ quản cao nhất là Bộ Giáo dục. Như thứ trưởng Giáo dục và Đào tạo Nguyễn Hữu Độ đã khẳng định: “Tất cả tài liệu dạy học được đưa vào nhà trường với tư cách là sách giáo khoa đều phải được Hội đồng quốc gia thẩm định”.</p><p class="Normal">
+Như vậy, chất lượng của sách như thế nào, tôi nghĩ, hãy chờ những chuyên gia trong lĩnh vực ngữ âm và giáo dục lên tiếng. Còn hiệu quả của sách như thế nào, hãy lắng nghe chia sẻ từ chính những người đã từng học như chúng tôi và hãy nhìn vào thành tích trong sự nghiệp của chính những cựu học sinh Thực nghiệm để đánh giá chương trình Công nghệ giáo dục. Sau đó, lựa chọn hay không là quyền của các bạn. </p><p class="Normal">
+Tôi xin dẫn thêm lời của thứ trưởng Nguyễn Hữu Độ: “Bộ trưởng Giáo dục sẽ phê duyệt danh mục sách giáo khoa (theo chương trình giáo dục phổ thông mới) được phép sử dụng trong cơ sở giáo dục. Nhà trường được phép lựa chọn sách giáo khoa phù hợp trong danh sách đó”. Đây cũng là hình thức được áp dụng từ lâu ở nhiều nước trên thế giới như Mỹ, Nhật... Giải pháp này sẽ chấm dứt sự độc quyền về sách giáo khoa, khai tử cho những nhóm lợi ích núp bóng viết sách và phát hành sách, đồng thời minh oan cho những người làm giáo dục chân chính. Chấm dứt sự độc quyền, phá vỡ thế chân vạc là để tạo ra sự cạnh tranh lành mạnh. Như thế, một sản phẩm giáo dục tốt sẽ được nhà trường lựa chọn, cũng như những ngôi trường tốt sẽ được phụ huynh lựa chọn.</p><p class="Normal">
+Tôi hiểu vì sao gần 40 năm trước cha tôi chọn cho con gái ông ngôi trường Thực nghiệm. Ông cũng là một người sớm được tiếp cận với nền giáo dục Xô viết, nắm bắt và thấu hiểu những ưu việt của mô hình giáo dục này. Đưa con tới trường Thực nghiệm không có nghĩa ông đặt tôi vào một phòng thí nghiệm mà ông muốn ngầm gieo cho tôi mầm năng lực, cá tính và nhân cách. </p><p class="Normal">
+Và tôi cũng tin, giáo sư Hồ Ngọc Đại, một người thầy từng từ chối quan lộ chỉ để “xin cho tôi về dạy lớp một”; một người thầy đã dốc sức cho Thực nghiệm đến tận cuối đời, thì giờ đây danh lợi với ông cũng chỉ là hư hao.</p><p class="Normal" style="text-align:right;">
+<strong>Đỗ Sông Hương</strong></p>	</div>
+<div class="div-fbook width_common mb20">
+<div class="block_btn_like left">
+<div class="item_social font_icon" data-component="true" data-component-type="like" data-component-objectid="3806059" data-component-siteid="1000000" data-objecttype="1"></div>	</div>
+<div class="right text-right">
+<p class="social social-detail">
+<span class="btn_facebook social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/thang-tram-thuc-nghiem-3806059.html" data-type="facebook" class="icon_share social_share">
+<i class="ic ic-facebook"></i>
+</span>
+<span class="btn_twitter social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/thang-tram-thuc-nghiem-3806059.html" data-type="twitter" data-content="Thăng trầm Thực nghiệm" class="icon_share social_share">
+<i class="ic ic-twitter"></i>
+</span>
+<span class="btn_google_plus social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/thang-tram-thuc-nghiem-3806059.html" data-type="google" class="icon_share social_share">
+<i class="ic ic-google-plus"></i>
+</span>
+</p>
+<span class="luu_tin right myvne_save_for_later" data-token="90567809197b4a5415e3fb45a9cb6dde" data-article-id="3806059"></span>
+</div>
+</div>
+</div>
+</article>
+<!--END DETAIL GOC NHIN-->

@@ -1,0 +1,57 @@
+﻿<!--DETAIL GOC NHIN-->
+<article id="article_detail" class="section article_detail">
+<header class="the-article-header inner_section clearfix">
+<h1 class="title_gn_detail">Người mù khởi nghiệp</h1>
+<p class="meta">
+<span class="avata_box_author">
+<a href="https://vnexpress.net/tac-gia/hong-phuc-414.html">
+<img src="https://i-vnexpress.vnecdn.net/2017/07/28/hongphucpng-1501177033.png" alt="Hồng  Phúc">
+<strong>Hồng Phúc</strong>
+</a>
+</span>
+<span class="time">Thứ bảy, 18/8/2018, 14:46 (GMT+7)</span>
+<a href="#box_comment"><span class="icon_commend" data-href="https://vnexpress.net/tin-tuc/goc-nhin/nguoi-mu-khoi-nghiep-3794437.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3794437"><img class="icon_content icon_title_coment" alt="" src="https://s.vnecdn.net/vnexpress/restruct/i/v14/graphics/img_blank.gif">&nbsp;</span></span></a>
+<span class="luu_tin myvne_save_for_later" data-token="1d82aba63e0da81dcd7c6d7bfd4e9f6b" data-article-id="3794437"></span>
+</p>
+</header>
+<div class="article_body inner_section clearfix">
+<div class="fck_detail">
+<p class="Normal">Mẹ dắt Mến đến trước cửa Bưu điện Sài Gòn rồi để đó năm lên 10. Thấy con bé mù đứng khóc cả giờ, công an đưa Mến về trại dưỡng lão gần cầu Thị Nghè.</p>
+<p class="Normal">
+Ở trại dưỡng lão hai năm, cô bé được chuyển sang Hội người Mù TP HCM, được cho đi học chữ nổi. Chị sống trong khu ký túc xá của Hội người mù đến nay đã 26 năm.</p><p class="Normal">
+Thực ra cứ sống ở đây cũng yên thân, với cái giường chiều ngang một mét và con mèo tên Quậy, nhưng chị muốn khởi nghiệp.</p><p class="Normal">
+Chị kết con thú, giỏ xách, đồ trang trí bằng hạt cườm và tìm cách bán chúng như nghề  chính. Tôi đến ký túc xá, chị rải hết sản phẩm ra nền nhà để giới thiệu. Những chiếc giỏ xách, dây đeo chìa khóa, búp bê, đồ trang trí đủ kiểu dáng, bông hồng đỏ lộng lẫy dưới ánh nắng xiên que ban chiều. Con búp bê mặc váy xòe hạt cườm, con ếch xanh ngậm đồng tiền, con thỏ tai dài màu tím đeo điện thoại, người sáng mắt cũng khó mà làm được.</p><p class="Normal">
+Mới đây chị hỏi tôi, làm thế nào để đăng bài lên mạng. Bài gì mà để người ta lên mạng sẽ thấy các mặt hàng của chị và các học trò. Vì hai năm rồi không ai mua hàng trên “phết” của chị nên phải thay đổi “phương án kinh doanh”. Tôi ngỏ ý muốn xem hình ảnh và bài giới thiệu sản phẩm, nhưng chị mới bắt đầu viết từ tháng trước nên chưa xong. Hình chụp sản phẩm cũng chưa  đủ vì “đâu thấy đường để canh mà chụp”, phải đợi có cơ hội nhờ người sáng giúp.</p><p class="Normal">
+Nhưng sau khi tìm được người sáng giúp chị sẽ “bốt” bài và đăng hình lên “phây”. Kế hoạch bán hàng thế nào ạ? - tôi hỏi. Chị bảo đang “sản xuất và dự trữ hàng”, nếu có điều kiện ra ngoài ở thì dễ bán hơn, trong ký túc xá thế này không kinh doanh được. Khách khó tìm được vào đây để mua hàng. Chị đang tiết kiệm tiền để ra ở riêng, hơn 2 triệu đồng rồi, chị để dành từ hồi đi bán vé số.</p><p class="Normal">
+Nhưng tôi không dám nói với chị, thành phố này có lẽ không có cái nhà nào cho thuê để vừa ở vừa bán hàng được với giá 2 triệu đồng mỗi tháng.</p><p class="Normal">
+Cả nước có hơn 3 triệu người mù. Tôi không tìm được thống kê nào về tỷ lệ thất nghiệp của người mù. Tỷ lệ có việc làm của người mù theo ước tính của một số cơ quan chưa đầy 20%, chủ yếu họ hành nghề bán vé số, bán rong, hát dạo, mát xa nhưng đa số dành cho nam giới. Phụ nữ mù làm những việc tiếp xúc với xã hội rất hay gặp trắc trở, bị bắt nạt, lạm dụng, gặp nguy hiểm. Họ hầu hết đều tự ti và mặc cảm, ít dám ra đường.</p><p class="Normal">
+Người ta mặc định cho rằng cái nghề duy nhất người mù biết là là mát xa đấm bóp. Tôi tìm cách kết bạn với người mù, nghe họ hát, kể chuyện, và chứng kiến họ có thể làm gần như mọi việc, từ đóng đinh trên tường đến nấu ăn bằng bếp gas. Có lẽ ai từng nhìn người mù làm việc cũng thấy cách chúng ta đang gắn mát xa với người mù rất chủ quan và buồn cười.</p><p class="Normal">
+Hệ thống chính sách và cơ sở hỗ trợ nhóm người khuyết tật của nước ta không thiếu. Nhưng có một đặc trưng phổ biến, đấy là việc dạy cho họ các nghề cơ bản, cơ hội tạo ra giá trị thấp, vài ba triệu một tháng với ai may mắn. Nghề mát xa được “mặc định” là dành cho người mù trong hầu hết các chương trình. Về cơ bản, cung cách “hỗ trợ” này đã không tính tới khả năng phát huy năng lực kinh tế tối đa của nhóm này; nó đã hàm chứa định kiến và thuyết phục nhóm hưởng lợi rằng họ sẽ chỉ nên sống như vậy thôi.</p><p class="Normal">
+Nói chuyện “người mù khởi nghiệp” như chị Mến sẽ rất lạc lõng. Một khảo sát từ năm 2008 của Tổ chức Lao động quốc tế ở Quảng Ninh và TP HCM thể hiện: quá nửa số người mù sau khi được đào tạo nghề muốn kinh doanh tại nhà. Tinh thần khởi nghiệp là rất cao. Nhưng số phận của họ phần lớn sẽ như Mến. Ai cho vay vốn, ai hỗ trợ logistic, cơ chế khuyến khích khởi nghiệp nào dành cho một nhóm người được mặc định là chỉ làm công việc tay chân đơn giản?</p><p class="Normal">
+Xung quanh những người như Mến là một hệ thống định kiến dầy đặc. Quốc gia khởi nghiệp không dành cho chị. Và có lẽ người mù không phải là nhóm đối tượng duy nhất sống trong những định kiến về hoạt động kinh tế. Còn bao nhiêu nhóm khuyết tật, nông dân, đồng bào dân tộc thiểu số,... mà các hình thức khuyến khích được xây dựng ngay từ đầu trên cơ sở họ sẽ chỉ làm tay chân, nhỏ lẻ?</p><p class="Normal">
+Có những người thấy chị Mến mù, thiệt thà thì cho tiền, cho cái này cái kia, nhưng sản phẩm kết cườm của chị đem bán lại chẳng mấy ai mua. Họ có thể giúi tiền vào tay chị bởi sự khuyết tật của chị chứ không phải vì công nhận sản phẩm chị làm có giá trị gia tăng bằng bàn tay và trí óc. Cái móc chìa khóa này, tiền hạt với dây cước đã là 3 nghìn đồng, chị bán cho đại lý 5 nghìn, mà ở chợ Bến Thành - chỉ cách chỗ chị ngồi làm ra nó có một cây số, người ta bán với giá 15 nghìn đồng. Người mua không hề biết nó được làm bởi một người mù.</p><p class="Normal">
+Lòng tốt đôi khi được diễn giải vô tình. Nó quên mất rằng người mù cần không gian để thể hiện sự tồn tại, khả năng, và tài năng chứ không phải một sự ban cho chiếu lệ. Sự khởi nghiệp và ước mong được làm việc của những người yếu thế, vẫn được coi như một đòi hỏi có phần viển vông, lóe lên rồi vụt tắt ngay sau khi người sáng giúi vào tay họ một tờ tiền.</p><p class="Normal">
+Hôm nọ có anh xe ôm chở chị Mến xong nhất quyết không lấy tiền, những 25 nghìn đồng. Chị bảo thực ra chị đủ tiền để trả họ đàng hoàng. Có lần chị định nói: “Anh ơi tôi không cần tiền của anh, tôi chỉ cần được làm việc”. Nhưng thôi, cứ để họ từ thiện cho họ vui.</p><p class="Normal">
+Hết mùa mưa chị sẽ đi thuê nhà. Tôi hỏi hết mùa mưa theo chị là tháng mấy? “Là hết năm đó em”, chị nói, “Mình phải phát triển sự nghiệp, em ạ!”.</p><p class="Normal" style="text-align:right;">
+<strong>Hồng Phúc</strong></p>	</div>
+<div class="div-fbook width_common mb20">
+<div class="block_btn_like left">
+<div class="item_social font_icon" data-component="true" data-component-type="like" data-component-objectid="3794437" data-component-siteid="1000000" data-objecttype="1"></div>	</div>
+<div class="right text-right">
+<p class="social social-detail">
+<span class="btn_facebook social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/nguoi-mu-khoi-nghiep-3794437.html" data-type="facebook" class="icon_share social_share">
+<i class="ic ic-facebook"></i>
+</span>
+<span class="btn_twitter social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/nguoi-mu-khoi-nghiep-3794437.html" data-type="twitter" data-content="Người mù khởi nghiệp" class="icon_share social_share">
+<i class="ic ic-twitter"></i>
+</span>
+<span class="btn_google_plus social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/nguoi-mu-khoi-nghiep-3794437.html" data-type="google" class="icon_share social_share">
+<i class="ic ic-google-plus"></i>
+</span>
+</p>
+<span class="luu_tin right myvne_save_for_later" data-token="1d82aba63e0da81dcd7c6d7bfd4e9f6b" data-article-id="3794437"></span>
+</div>
+</div>
+</div>
+</article>
+<!--END DETAIL GOC NHIN-->

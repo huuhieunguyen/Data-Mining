@@ -1,0 +1,56 @@
+﻿<!--DETAIL GOC NHIN-->
+<article id="article_detail" class="section article_detail">
+<header class="the-article-header inner_section clearfix">
+<h1 class="title_gn_detail">Băng rôn ở chung cư</h1>
+<p class="meta">
+<span class="avata_box_author">
+<a href="https://vnexpress.net/tac-gia/nguyen-ha-1023.html">
+<img src="https://i-vnexpress.vnecdn.net/2017/10/02/hanguyenpng-1506963520.png" alt="Nguyễn Hà">
+<strong>Nguyễn Hà</strong>
+</a>
+</span>
+<span class="time">Thứ tư, 15/8/2018, 01:02 (GMT+7)</span>
+<a href="#box_comment"><span class="icon_commend" data-href="https://vnexpress.net/tin-tuc/goc-nhin/bang-ron-o-chung-cu-3792468.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3792468"><img class="icon_content icon_title_coment" alt="" src="https://s.vnecdn.net/vnexpress/restruct/i/v14/graphics/img_blank.gif">&nbsp;</span></span></a>
+<span class="luu_tin myvne_save_for_later" data-token="6fb20218a25c9f8946af2a5213a26e0c" data-article-id="3792468"></span>
+</p>
+</header>
+<div class="article_body inner_section clearfix">
+<div class="fck_detail">
+<p class="Normal">Tôi chưa thể thuyết phục được ông xã đồng ý chuyển từ căn nhà mặt đất đang sống để dọn lên ở chung cư. Mọi người trong gia đình tôi có nhiều lý do để bảo vệ quan điểm. Tất nhiên, trong hàng tá lý do thì tôi thừa hiểu có một phần vấn đề nằm ở góc độ tâm lý sở hữu nhà đất của người Việt.</p>
+<p class="Normal">
+Tuy nhiên, có một lý do quan trọng nhất: có quá nhiều dự án nhà chung cư kể cả cao cấp, đã đi vào vận hành nhiều năm nay hay mới bàn giao đều xảy ra những tranh chấp, thậm chí kéo dài hàng năm nhưng vẫn không được giải quyết dứt điểm.</p><p class="Normal">
+<span>“Ở chung cư, rồi đi căng băng rôn và viết đơn thư kiến nghị cũng hết ngày”, chồng tôi phản bác ý kiến khi tôi cho rằng chung cư là một mô hình hiện đại và có nhiều điểm tiện lợi.  </span></p><p class="Normal">
+Một người bạn đang ở chung cư cũng nói với tôi rằng vợ chồng chị vô cùng chán ngán khi cứ cuối tuần, cư dân trong tòa nhà lại rủ nhau căng băng rôn để đòi quyền lợi, bởi vì gửi văn bản nhưng chủ đầu tư không có hồi đáp.  </p><p class="Normal">
+Cuối tuần, một cư dân khu chung cư cao cấp gọi cho tôi chia sẻ về kế hoạch căng băng rôn phản đối chủ đầu tư vì những bất đồng giữa hai bên. Cuộc làm việc sau đó giữa hai bên kéo dài từ chiều đến tối muộn, nhưng không mang lại kết quả. Trên các căn hộ nơi anh mua nhà, ban công giăng dày đặc băng rôn để bất kỳ người nào qua đường cũng có thể nhìn thấy, thay vì chỉ để phơi quần áo, trồng hoa, cây cảnh hay ngắm phố phường đúng như công năng của phần diện tích này. </p><p class="Normal">
+Tôi từng tham dự những cuộc họp kéo dài tới đêm muộn nhằm giải quyết căng thẳng giữa cư dân và chủ đầu tư. Mỗi tuần tôi đều nhận được điện thoại, đơn thư của cư dân các khu chung cư tại Hà Nội kiến nghị, trình bày những bức xúc với chủ đầu tư và gần đây là với chính ban quản trị do họ bầu ra. Những bức xúc xoay quanh những chuyện phổ biến như phí dịch vụ, diện tích chung – riêng, cách đo đạc, công tác phòng cháy chữa cháy  - vốn là tiêu chí an toàn sống còn của những người sinh sống trong đó hoặc nước sạch – một điều kiện sống tối thiểu... </p><p class="Normal">
+Đó là một dự án khi bán nhà quảng cáo một đằng nhưng khi bàn giao lại sản phẩm lại một nẻo. Phần diện tích được quảng cáo là tòa nhà từ 5 tầng thực tế là 40 tầng. Ở một dự án khác được quảng cáo là chung cư cao cấp nhưng người mua đang phải dùng nước đen như nước cống để sinh hoạt nhưng sau hàng năm trời kêu cứu, chủ đầu tư cũng chỉ hồi đáp bằng sự im lặng. </p><p class="Normal">
+Gần đây, người ở chung cư còn có thêm một “nghiệp vụ” nữa là đi đòi quỹ bảo trì.  Không chỉ đòi từ chủ đầu tư, có nơi, cư dân còn phải căng băng rôn, gửi đơn thư tứ phía để gây áp lực với chính ban quản trị do mình bầu ra. Ban quản trị là người có thẩm quyền thu chi, quản lý quỹ bảo trì – khoản tiền được tạo dựng từ 2% giá trị mỗi căn hộ do các chủ hộ đóng để phục vụ việc bảo dưỡng, sửa chữa hoặc phục vụ các công việc chung trong tòa nhà. Khoản quỹ ở một số dự án lên tới hàng chục tỷ đồng. </p><p class="Normal">
+Chủ trương đưa chung cư quay trở lại với một bộ mặt mới nhằm thay thế những khu tập thể cũ đã xuống cấp được Bộ Xây dựng kiên quyết thực hiện từ cuối thập niên 90. Hơn 20 năm phát triển chung cư, những khu đô thị kiểu mẫu, hàng nghìn dự án cao cấp cho đến giá rẻ ra đời... và cũng từ đó những mâu thuẫn trong tranh chấp chung cư ngày càng biến tướng với muôn hình vạn trạng ngày càng phức tạp. </p><p class="Normal">
+Một báo cáo của Bộ Xây dựng gửi lãnh đạo Chính phủ cách đây không lâu cho biết chỉ riêng dựa trên số lượng đơn thư gửi về Bộ Xây dựng cho thấy có 108 dự án xảy ra tranh chấp giữa chủ đầu tư với cư dân. Tuy nhiên, trong một báo cáo trước đó của chính quyền TP HCM lại cho thấy, riêng tại địa bàn này con số đã lên tới 105 dự án trong tổng số gần 1.000 tòa nhà chung cư đang xảy ra tranh chấp. </p><p class="Normal">
+Chỉ ra 8 tranh chấp cơ bản, Bộ Xây dựng cũng gạch đầu dòng đầy đủ nguyên nhân dẫn đến tình trạng này. Đó là những quy định chưa đủ rõ, chế tài xử phạt chưa phù hợp, lỗi từ phía chủ đầu tư “chỉ chú trọng đến thu lợi nhuận” hay cơ quan quản lý chưa giải quyết tốt các mâu thuẫn dẫn đến tranh chấp kéo dài... Tuy nhiên, tất cả những phương án xử lý tình trạng này dù nhiều tháng trôi qua nhưng vẫn nằm ở dạng “đề xuất” trong báo cáo mà chưa có một biện pháp đẩy lùi nào được áp dụng. </p><p class="Normal">
+Tại một cuộc họp của cơ quan quản lý, khi được hỏi về vấn đề này, cũng với những cách trả lời tương tự, Bộ chủ quản cho biết, chung cư là một mô hình mới tại Việt Nam nên cần thời gian để việc quản lý đi vào quỹ đạo.  Tuy nhiên, thực tế, tình trạng tranh chấp chung cư không phải đến bây giờ mới diễn ra. Nhiều dự án cao cấp và đắt đỏ bậc nhất Hà Nội bàn giao cũng từng xảy ra chuyện tương tự từ chục năm trước, thậm chí dẫn đến xô xát nhưng vai trò điều tiết của cơ quan quản lý trong việc hạn chế những con số này còn rất mờ nhạt. </p><p class="Normal">
+Hơn 10 năm đã trôi qua, người ta vẫn đang loay hoay với bài toán tháo nút thắt cho những tranh chấp này. Rốt cục thì từ một giải pháp cho vấn đề nhà ở đô thị, một mô hình cư trú mà nhiều người như tôi tin rằng đầy giá trị tốt, bây giờ chung cư "mang tiếng". Sau những tranh chấp ồn ào khắp các mặt báo, cái danh xưng "chủ đầu tư" của nhà chung cư luôn có vẻ đáng dè chừng, dù ở bất kỳ lĩnh vực nào cũng hiển nhiên có nhà đầu tư tốt và không tốt.</p><p class="Normal">
+Xét đến cùng, khi mà khung pháp lý không hoàn thiện, thì bất kỳ lĩnh vực nào cũng đáng dè chừng, chứ chưa cần tới thứ khiến người ta đặt cược cả gia sản như một căn nhà. Và đến khi nào những mâu thuẫn pháp lý của chung cư chưa có phương án giải quyết hoặc chí ít đẩy lùi thì việc thuyết phục được người dân lựa chọn ở chung cư trong bối cảnh quỹ đất ngày càng hạn hẹp  sẽ không dễ dàng.</p><p class="Normal">
+Chiến lược phát triển nhà chung cư cũng như giấc mơ đô thị nén có thể vì thế mà trở nên ì ạch và chậm chạp.    </p><p class="Normal" style="text-align:right;">
+<strong>Nguyễn Hà</strong></p>	</div>
+<div class="div-fbook width_common mb20">
+<div class="block_btn_like left">
+<div class="item_social font_icon" data-component="true" data-component-type="like" data-component-objectid="3792468" data-component-siteid="1000000" data-objecttype="1"></div>	</div>
+<div class="right text-right">
+<p class="social social-detail">
+<span class="btn_facebook social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/bang-ron-o-chung-cu-3792468.html" data-type="facebook" class="icon_share social_share">
+<i class="ic ic-facebook"></i>
+</span>
+<span class="btn_twitter social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/bang-ron-o-chung-cu-3792468.html" data-type="twitter" data-content="Băng rôn ở chung cư" class="icon_share social_share">
+<i class="ic ic-twitter"></i>
+</span>
+<span class="btn_google_plus social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/bang-ron-o-chung-cu-3792468.html" data-type="google" class="icon_share social_share">
+<i class="ic ic-google-plus"></i>
+</span>
+</p>
+<span class="luu_tin right myvne_save_for_later" data-token="6fb20218a25c9f8946af2a5213a26e0c" data-article-id="3792468"></span>
+</div>
+</div>
+</div>
+</article>
+<!--END DETAIL GOC NHIN-->

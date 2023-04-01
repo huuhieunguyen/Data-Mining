@@ -1,0 +1,53 @@
+﻿<!--DETAIL GOC NHIN-->
+<article id="article_detail" class="section article_detail">
+<header class="the-article-header inner_section clearfix">
+<h1 class="title_gn_detail">Một nghìn tỷ đồng</h1>
+<p class="meta">
+<span class="avata_box_author">
+<a href="https://vnexpress.net/tac-gia/nguyen-khac-giang-97.html">
+<img src="https://i-vnexpress.vnecdn.net/2017/04/11/nguyenkhacgiangpng-1491900251.png" alt="Nguyễn Khắc Giang">
+<strong>Nguyễn Khắc Giang</strong>
+</a>
+</span>
+<span class="time">Thứ sáu, 7/9/2018, 05:01 (GMT+7)</span>
+<a href="#box_comment"><span class="icon_commend" data-href="https://vnexpress.net/tin-tuc/goc-nhin/mot-nghin-ty-dong-3804554.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3804554"><img class="icon_content icon_title_coment" alt="" src="https://s.vnecdn.net/vnexpress/restruct/i/v14/graphics/img_blank.gif">&nbsp;</span></span></a>
+<span class="luu_tin myvne_save_for_later" data-token="ff66b9f1fac18e19eda956a21b8ba273" data-article-id="3804554"></span>
+</p>
+</header>
+<div class="article_body inner_section clearfix">
+<div class="fck_detail">
+<p class="Normal">Tôi yêu vùng núi phía Bắc, nơi có dư vị hấp dẫn xa lạ của thôn bản miền biên viễn. Khi rảnh rang, tôi thường đi ngược lên các tỉnh ở cả Tây và Đông Bắc dạo chơi. Lai vãng cà phê gần trụ sở các cơ quan tỉnh cũng dễ gặp các công chức nhà nước, những người trông tươi tỉnh hơn nhiều so với các cô văn thư mặt nặng như chì dưới xuôi. Thứ cuộc sống nhè nhẹ ấy khiến tôi ngạc nhiên khi nhiều tỉnh ở đây xin xây dựng toà nhà hành chính tập trung.</p>
+<p class="Normal">
+Lai Châu là địa phương đầu tiên có khu hành chính tập trung vào năm 2009. Dự án tương tự của Sơn La đang trong quá trình xây dựng. Và cách đây hai tháng, trước khi có sự cố gian lận thi cử, Hà Giang lại “tái xin” Thủ tướng cho xây khu hành chính tập trung với tổng chi phí phải thanh toán là hơn 1.000 tỷ đồng. Ba năm trước, Thủ tướng đã có chỉ đạo tạm dừng chủ trương nói trên do nhiều lo ngại mà tôi từng thảo luận ở <a href="https://vnexpress.net/tin-tuc/goc-nhin/khu-hanh-chinh-nghin-ty-3451949.html">đây</a>. Hà Giang lỡ chuyến tàu một nhịp, nhưng khác với các tỉnh, trụ sở mới vẫn là giấc mơ mà lãnh đạo tỉnh không muốn từ bỏ.</p><p class="Normal">
+Hà Giang là một tỉnh nghèo. Cái nghèo không chỉ thể hiện qua con số hơn 1/3 số hộ trên địa bàn “đạt” chuẩn nghèo đa chiều, con đường đến trường <a href="https://vnexpress.net/tin-tuc/goc-nhin/nguoi-ha-giang-tu-trong-3777816.html">gian nan</a>, những trận lũ quét ở vùng núi đất, hay năm tháng ròng rã thiếu nước trên cao nguyên đá. Cái nghèo thấy rõ ngay từ khi chưa đặt chân tới. Cùng là cách thủ đô Hà Nội khoảng 300 km, một người bình thường sẽ mất ba tiếng rưỡi ô tô để đến Lào Cai, trong khi cần gấp đôi thời gian đó để tới Hà Giang. Địa phương này đang xin trung ương hỗ trợ xây đường cao tốc. Nếu tính một cách đơn sơ theo phương án của tỉnh, căn cứ vào cao tốc Nội Bài - Lào Cai, kinh phí xây dựng chỉ tương đương khu hành chính mà tỉnh đang muốn xây.</p><p class="Normal">
+Nếu là người Hà Giang, bạn sẽ chọn khu hành chính nghìn tỷ hay đường cao tốc nghìn tỷ?</p><p class="Normal">
+Là người Hà Giang, chí ít bạn còn có một chút may mắn, vì vẫn còn cơ hội nói lên nguyện vọng của mình. Ở nhiều địa phương khác, lựa chọn đã định sẵn: đó là <a href="https://vnexpress.net/photo/thoi-su/quang-truong-1-500-ty-dang-do-sau-hon-7-nam-thi-cong-3467335.html">quảng trường nghìn tỷ</a> ở Ninh Bình, <a href="https://vnexpress.net/photo/thoi-su/du-an-benh-vien-850-ty-bo-hoang-o-nam-dinh-3624084.html">bệnh viện trăm tỷ</a> ở Nam Định, <a href="https://vnexpress.net/photo/thoi-su/cau-75-ty-xay-giua-chung-bo-hoang-o-thanh-hoa-3579314.html">hay cây cầu chục tỷ</a> ở Thanh Hóa. Tất cả những công trình đó đều đang dở dang vì thiếu vốn, và có lẽ không biết khi nào mới được hoàn thành. Chúng trở thành nơi chăn thả gia súc và là biểu tượng ngạo nghễ cho sự lãng phí tài sản công. </p><p class="Normal">
+Những địa phương này, cũng giống Hà Giang, đang phải nhận hỗ trợ từ ngân sách trung ương do thu không đủ chi. Khi cần xây trụ sở, họ ca ngợi thành tích kinh tế, hay sự tiến bộ vượt bậc của tỉnh nhà. Khi thâm hụt ngân sách, một bài ca than nghèo kể khổ lại được bổn cũ soạn lại để “hát” với trung ương.</p><p class="Normal">
+Đây có lẽ là vấn đề đau đầu cho ngân sách trong những năm qua, khi phần lớn các công trình nghìn tỷ - không ít trong số đó bị bỏ hoang - thuộc trách nhiệm quản lý của các địa phương, đặc biệt là những nơi đang đứng đầu danh sách nhận hỗ trợ từ ngân sách trung ương. Hiện tại, chỉ hơn 10 trong số 63 tỉnh thành trên cả nước có thể cân đối được chi tiêu, thế nhưng không phải địa phương nào cũng biết “hưởng theo năng lực”.</p><p class="Normal">
+Nhìn vào cơ chế giám sát hiện tại, có thể thấy những “tác phẩm” nghìn tỷ bỏ hoang không phải từ trên trời rơi xuống.</p><p class="Normal">
+Ở địa phương, theo luật Ngân sách nhà nước, hội đồng nhân dân là cơ quan giữ then cài cho những quyết định lớn. Trên lý thuyết, hội đồng này là cơ quan dân cử và có quyền phủ quyết những đề xuất chi tiêu không hợp lý. Nhưng thực tế cho thấy hoạt động của cơ quan này nặng tính hình thức, chỉ nhằm hợp thức hóa ý kiến của một số lãnh đạo, thay vì đảm nhiệm vai trò giám sát và phản ánh nguyện vọng của cử tri. Thậm chí trong một số giai đoạn, chức vụ chủ tịch ủy ban nhân dân và chủ tịch hội đồng nhân dân do một người nắm giữ, khiến cơ chế kiểm soát quyền lực gần như tê liệt. Hơn nữa, khi thành viên của hội đồng nhân dân đồng thời là cán bộ kiêm nhiệm, có mấy ai dám phản biện cấp trên của mình?</p><p class="Normal">
+Hy vọng lớn nhất của người dân là hệ thống giám sát từ trên xuống của trung ương, “tuýt còi” khi địa phương có ý định chi quá tay. Nhưng sự mong chờ này không phải lúc nào cũng có kết quả. Thứ nhất, theo luật, địa phương có quyền tự quyết nhiều khoản chi mà không cần hỏi ý kiến từ trung ương. Thứ hai, với số địa phương lớn và địa bàn trải dài, công tác giám sát cũng không thể tiến hành liên tục và trên diện rộng.</p><p class="Normal">
+Một nghìn tỷ đồng không phải là một con số vô tri. Nếu trải ra bằng tiền mặt, với tờ tiền mệnh giá lớn nhất của Việt Nam hiện nay, thì bạn có thể xếp dọc một con đường dài 300 cây số - bằng khoảng cách từ Hà Nội đến Hà Giang.</p><p class="Normal">
+Nếu hệ thống giám sát của hội đồng nhân dân vẫn hoạt động theo cách cũ; nếu trung ương vẫn không thể “ba đầu sáu tay” mà kiểm soát hiệu quả chi tiêu của địa phương; thì bạn cần nhớ hình ảnh này: đến cuối cùng, người dân - tức là chính bạn - sẽ phải tự đi mà canh chừng những con số nghìn tỷ xuất hiện trên mặt báo.</p><p class="Normal" style="text-align:right;">
+<strong><span>Nguyễn Khắc Giang</span></strong></p>	</div>
+<div class="div-fbook width_common mb20">
+<div class="block_btn_like left">
+<div class="item_social font_icon" data-component="true" data-component-type="like" data-component-objectid="3804554" data-component-siteid="1000000" data-objecttype="1"></div>	</div>
+<div class="right text-right">
+<p class="social social-detail">
+<span class="btn_facebook social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/mot-nghin-ty-dong-3804554.html" data-type="facebook" class="icon_share social_share">
+<i class="ic ic-facebook"></i>
+</span>
+<span class="btn_twitter social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/mot-nghin-ty-dong-3804554.html" data-type="twitter" data-content="Một nghìn tỷ đồng" class="icon_share social_share">
+<i class="ic ic-twitter"></i>
+</span>
+<span class="btn_google_plus social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/mot-nghin-ty-dong-3804554.html" data-type="google" class="icon_share social_share">
+<i class="ic ic-google-plus"></i>
+</span>
+</p>
+<span class="luu_tin right myvne_save_for_later" data-token="ff66b9f1fac18e19eda956a21b8ba273" data-article-id="3804554"></span>
+</div>
+</div>
+</div>
+</article>
+<!--END DETAIL GOC NHIN-->

@@ -1,0 +1,56 @@
+﻿<!--DETAIL GOC NHIN-->
+<article id="article_detail" class="section article_detail">
+<header class="the-article-header inner_section clearfix">
+<h1 class="title_gn_detail">Tâm lý tôm hùm</h1>
+<p class="meta">
+<span class="avata_box_author">
+<a href="https://vnexpress.net/tac-gia/jesse-peterson-1050.html">
+<img src="https://i-vnexpress.vnecdn.net/2017/11/17/jessepngpng-1510857625.png" alt="Jesse Peterson">
+<strong>Jesse Peterson</strong>
+</a>
+</span>
+<span class="time">Thứ bảy, 8/9/2018, 12:00 (GMT+7)</span>
+<a href="#box_comment"><span class="icon_commend" data-href="https://vnexpress.net/tin-tuc/goc-nhin/tam-ly-tom-hum-3805299.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3805299"><img class="icon_content icon_title_coment" alt="" src="https://s.vnecdn.net/vnexpress/restruct/i/v14/graphics/img_blank.gif">&nbsp;</span></span></a>
+<span class="luu_tin myvne_save_for_later" data-token="2b69f939ad510d0019be2d0482f4551d" data-article-id="3805299"></span>
+</p>
+</header>
+<div class="article_body inner_section clearfix">
+<div class="fck_detail">
+<p class="Normal">Đồng nghiệp của tôi tổ chức tiệc cuối tuần. Họ mời tôi và bạn tôi đến tham dự. Nhà hàng khá sang trọng. Biết chắc rằng lương của tôi không cho phép nhưng tôi không từ chối được.</p>
+<p class="Normal">
+Trong nhóm tiệc có một anh chàng mới, chúng tôi chưa nói chuyện với nhau bao giờ. Sau màn chào hỏi anh ấy như phép lịch sự, tôi bắt đầu cảm thấy bị “xâm lược” từ cách nói chuyện khá hung hăng của anh, sau đó có thêm vài người hùa theo. Thật sự tôi rất ngạc nhiên khi mọi người đặt những câu hỏi rất vô duyên, và họ cười ra rả về cách họ nói chuyện với tôi. Mặc dù tôi đã cố gắng chuyển sự chú ý của họ sang các chủ đề khác để có thể thở được, nhưng họ mặc kệ và càng tiếp tục tấn công tôi bằng từ ngữ. Từ bắt đầu chỉ là một cuộc ăn uống trò chuyện vui vẻ hoá ra lại là một trận đấu cờ vua, phải dùng trí não rất nhiều.</p><p class="Normal">
+Nhưng tôi hiểu tại sao họ cư xử như vậy nên vẫn giữ bình tĩnh. Vị trí của bạn trong xã hội càng cao thì càng tốt cho bạn, đặc biệt là sức khoẻ. Đây là nghiên cứu điển hình của nhà tâm lý học Jordan Peterson. Và nó giúp tôi hiểu tại sao thi thoảng, gặp một số người, cuộc nói chuyện sẽ giống như chơi cờ vua.</p><p class="Normal">
+Bác sĩ Peterson cho biết rằng tôm hùm mặc dù đã tách ra khỏi chúng ta hàng triệu năm tiến hoá, vẫn rất giống con người ở sự định hình thứ bậc các cá nhân trong phân cấp xã hội. Ví dụ, khi hai tôm hùm giao chiến, con nào thua sẽ sinh ra nhiều hoóc môn cortisol trong cơ thể, làm thay đổi bộ não của chúng, ảnh hưởng lên cách chúng suy nghĩ và hành động. Cùng lúc đó serotonin - hóc môn hạnh phúc - giảm xuống, khiến con tôm hùm thua cuộc yếu đi nhiều. Chúng tự ti, co rút lại hơn. Con chiến thắng càng thêm nhiều hóc môn serotonin, làm nó cảm thấy mạnh hơn, tự tin hơn. Cuộc sống của nó trở nên tốt hơn.</p><p class="Normal">
+Nghiên cứu này rất thú vị. Nó cho ta biết rằng hệ thống phân cấp xã hội đã có trong thiên nhiên từ một vài triệu năm trước. Chúng ta có một bộ đếm chất serotonin kiểm soát cơ thể, mức độ serotonin liên quan đến thái độ của ta với những người khác xung quanh mình, dẫn đến có sự quy định hệ thống phân cấp.</p><p class="Normal">
+Tất nhiên con người không nguyên thuỷ và man rợ như tôm hùm. Trong nhà hàng đó, tôi không thể đứng dậy giải quyết mấy người lấy tôi ra làm trò vui bằng cặp càng như tôm hùm. Tôi phải giữ bình tĩnh, suy nghĩ mình sẽ nói gì rồi trả miếng. Người nào mất kiểm soát trước sẽ sinh ra hóc môn cortisol, cùng lúc đó andrenaline - hoóc môn trong phản ứng chiến đấu hay chạy trốn kẻ thù sẽ khiến nhịp tim của họ đập nhanh hơn, thở gấp, và toàn bộ cơ thể bắt đầu căng thẳng và sẵn sàng hành động, thậm chí gây gổ bằng chân tay. Đây không phải là trạng thái tôi mong muốn. Hơn nữa, cortisol sinh ra trong cơ thể không dễ tự mất đi, phải tập thể dục, thiền hoặc ngủ mới hết được. Nên, để không thua khi họ đang cố gắng sỉ nhục mình, tốt nhất là giữ bình tĩnh.</p><p class="Normal">
+Chắc các bạn tò mò về cách người ta “tấn công” khi mình đang nói chuyện. Thực sự mọi người cũng thấy rất nhiều lần rồi, nhưng không biết Tâm lý học gọi nó là gì.</p><p class="Normal">
+Có ai đã từng bị người khác đùa mà bạn không hề thấy vui chưa? Hay là họ lỡ có nói gì hơi xúc phạm bạn rồi quay lại nói “đùa thôi”. Đùa, nhưng chỉ có một trong hai người cười? “Em ế hả? Hahaha!” – “Ngực lép thế? Hahaha!” – “Ăn gì ngu dữ? Hahaha...”.</p><p class="Normal">
+Đây là một cách, một chiến lược, một cú đánh với mục đích để giảm tỷ lệ serotonin của bạn. Cho dù họ có ý thức về việc họ đang làm hay không; dù họ có thể nói “Tôi đùa đó”.</p><p class="Normal">
+Nhưng nếu là đùa thật sự thì cả hai phải cùng cười, cùng thấy thoải mái. Tiếng Anh có một từ về thói quen này, là “NEG”, hơi giống dìm hàng. Công thức của NEG là họ chê một người bằng cách đùa, trêu chọc. Họ tập trung vào một điều mà người nghe sẽ rất nhạy cảm khi đụng tới.  Khi một người trêu mình nhẹ: “Tới giờ chưa có người yêu luôn hả?” chẳng hạn. Có thể thực sự mình thấy bình thường với câu bông đùa này. Nhưng nếu họ đùa hoài, họ đang làm bạn tập trung vào vấn đề nhạy cảm của bản thân, một điểm yếu của bạn. Họ làm mức độ serotonin, hay chính là sự tự tin của bạn giảm xuống một tí. Còn serotonin của người ta tăng lên. Họ cảm thấy phấn khích, sự cân bằng của mối quan hệ nghiêng về họ.</p><p class="Normal">
+Tất nhiên không phải tất cả “sự trêu” đều có mục đích tấn công. Rất nhiều người chỉ trêu cho vui. Tôi nhớ một chú làm bảo vệ ở Thái Bình trêu tôi: “Em đẹp trai thế, cẩn thận ra đường bị bắt cóc nhé!”</p><p class="Normal">
+Chỉ cần tập trung vào cách người khác nói chuyện, quan sát họ, thì bạn sẽ biết họ đùa vô hại hoặc có ác ý.</p><p class="Normal">
+Có lần tôi đi ăn tối với bạn nữ. Mọi người cố gắng hỏi những câu hỏi nhạy cảm. Chuyện là vì anh chàng khác trong nhóm có chút cảm tình với bạn nữ đi chung với tôi từ trước. Nên khi ngồi chung một nhóm có cả nữ và nam, thì hành vi của anh ấy trở nên phức tạp và cạnh tranh. “Jesse nghĩ tình yêu là gì?” - “Người phương Tây hay ngoại tình phải không Jesse?” - “Người Việt Nam tình cảm hơn người nước ngoài?”...</p><p class="Normal">
+Tôi đã giữ bình tĩnh, chỉ cười, vẫn trả một cách thật thà, rồi cuối cùng nói với anh ta: “Đây không phải là trận bóng đá”.</p><p class="Normal">
+Nếu không phải là “dìm hàng” người khác trong đối thoại, thì bạn sẽ hỏi rằng bí quyết để đạt bộ đếm serotonin cao, để mình cảm thấy được vị trí tốt hơn trong xã hội là gì? Jordan Peterson khuyên rằng, chỉ cần làm một điều gì đó thật tốt. Nếu là cướp ngân hàng (tôi đùa thôi, đừng có làm theo) hay trở thành bác sĩ, hãy cố gắng làm tốt nhất thì tự nhiên bạn sẽ có tâm lý bình tĩnh và hạnh phúc.</p><p align="right" class="Normal">
+<strong>Jesse Peterson</strong><br><span>(Nguyên tác tiếng Việt)</span></p>	</div>
+<div class="div-fbook width_common mb20">
+<div class="block_btn_like left">
+<div class="item_social font_icon" data-component="true" data-component-type="like" data-component-objectid="3805299" data-component-siteid="1000000" data-objecttype="1"></div>	</div>
+<div class="right text-right">
+<p class="social social-detail">
+<span class="btn_facebook social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/tam-ly-tom-hum-3805299.html" data-type="facebook" class="icon_share social_share">
+<i class="ic ic-facebook"></i>
+</span>
+<span class="btn_twitter social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/tam-ly-tom-hum-3805299.html" data-type="twitter" data-content="Tâm lý tôm hùm" class="icon_share social_share">
+<i class="ic ic-twitter"></i>
+</span>
+<span class="btn_google_plus social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/tam-ly-tom-hum-3805299.html" data-type="google" class="icon_share social_share">
+<i class="ic ic-google-plus"></i>
+</span>
+</p>
+<span class="luu_tin right myvne_save_for_later" data-token="2b69f939ad510d0019be2d0482f4551d" data-article-id="3805299"></span>
+</div>
+</div>
+</div>
+</article>
+<!--END DETAIL GOC NHIN-->

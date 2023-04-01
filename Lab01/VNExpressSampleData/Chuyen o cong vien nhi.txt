@@ -1,0 +1,52 @@
+﻿<!--DETAIL GOC NHIN-->
+<article id="article_detail" class="section article_detail">
+<header class="the-article-header inner_section clearfix">
+<h1 class="title_gn_detail">Chuyện ở cổng viện Nhi</h1>
+<p class="meta">
+<span class="avata_box_author">
+<a href="https://vnexpress.net/tac-gia/duc-hoang-58.html">
+<img src="https://i-vnexpress.vnecdn.net/2017/04/03/DucHoangpng-1491237929.png" alt="Đức Hoàng">
+<strong>Đức Hoàng</strong>
+</a>
+</span>
+<span class="time">Thứ ba, 18/9/2018, 07:57 (GMT+7)</span>
+<a href="#box_comment"><span class="icon_commend" data-href="https://vnexpress.net/tin-tuc/goc-nhin/chuyen-o-cong-vien-nhi-3811021.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3811021"><img class="icon_content icon_title_coment" alt="" src="https://s.vnecdn.net/vnexpress/restruct/i/v14/graphics/img_blank.gif">&nbsp;</span></span></a>
+<span class="luu_tin myvne_save_for_later" data-token="5c6f5dce9765c8c9124916cf386a1a49" data-article-id="3811021"></span>
+</p>
+</header>
+<div class="article_body inner_section clearfix">
+<div class="fck_detail">
+<p class="Normal">Chiều qua, có đám cháy ở cổng viện Nhi trung ương. Tôi cũng mải mê di chuyển giờ tan tầm, không để ý tin tức, đồng nghiệp gọi: “Thấy bảo cháy mấy dãy nhà trọ. Hoàng gọi cho ông Hiệp xem sao”.</p>
+<p class="Normal">
+Ông Hiệp là chủ dãy <a href="https://vnexpress.net/tin-tuc/goc-nhin/phong-tro-15-nghin-3578698.html">nhà trọ mười lăm nghìn đồng</a> ở cổng viện Nhi TW. Câu chuyện về một người đàn ông duy trì một dãy phòng trọ với giá tối thiểu, dành cho những gia đình bệnh nhi đã khánh kiệt vì hành trình điều trị bệnh nặng cho con, đã trở nên nổi tiếng từ lâu. Tôi đã từng viết về ông Hiệp một lần ở chuyên mục này, và thỉnh thoảng vẫn rẽ qua thăm. Mỗi lần qua, câu chuyện của ông lúc nào cũng xoay về việc “có trường hợp này khó khăn lắm, Hoàng xem kêu gọi giúp đỡ”.</p><p class="Normal">
+Tôi gọi ông Hiệp. “Hoàng à” - tiếng ông Hiệp ở đầu dây bên kia - “Cháy hết 20 phòng trọ của mình rồi”. Tôi khựng lại. Trong đầu tôi hiện lên hình ảnh cái ngõ hẹp dưới chân dốc viện Nhi, với những dãy nhà trọ dựng lên bằng đủ thứ vật liệu dễ cháy, những lối đi quanh co. Tôi không dám tưởng tượng về một vụ cháy ở đấy. Đó là một khoảnh khắc bối rối: bạn thăm hỏi người khác vì nguyên tắc, nhưng khi thực sự đối mặt với bi kịch của họ bạn không biết sẽ phải chia sẻ như thế nào.</p><p class="Normal">
+Nhưng rồi ông Hiệp tiếp lời luôn: “Phòng trọ mình cháy thì thôi. Nhưng người ở trọ họ đã chẳng có tài sản gì, bây giờ lại còn cháy hết. Hoàng xem có cách nào kêu gọi giúp đỡ họ”.</p><p class="Normal">
+Đấy là câu tôi đã quen những buổi chiều nhẩn nha ngồi uống chè ở trong cái ngõ hẹp ấy. Nhưng buổi tối hôm qua, câu đó nhảy ra trong cuộc đối thoại mang một sắc thái kỳ dị. Đầu dây bên kia, là một người vừa chạy ra khỏi một vụ cháy tàn bạo, nuốt chửng hết cơ nghiệp. Và điều đầu tiên ông nói, vẫn là về việc kêu gọi giúp đỡ gia đình bệnh nhi. Trong lúc tôi, một kẻ ngoài cuộc, còn đang loay hoay tìm từ, thì ông thực hiện tam đoạn luận trong vòng 10 giây: cháy - người ở trọ nghèo mất hết đồ đạc - tìm cách giúp đỡ.</p><p class="Normal">
+Tôi cúp máy xuống, và nhắn tin cho bạn bè. Lại phải thú thực rằng đó tiếp tục là một trạng thái bối rối. Tôi không tính được gì ngay, chỉ nhắn tin cho những người thân thiết để cùng suy nghĩ. Có một người bạn nhắn lại hỏi: “Hiệp nào?”. Tôi kể vắn tắt. Nhà trọ mười lăm nghìn. Bệnh nhi. Người ở trọ nghèo. Mất hết. Mười phút sau, anh gửi ảnh mình đang trên xe ôm. Trước đấy, anh còn không biết đến khu trọ ở cổng viện nhi. “Còn mấy triệu trong người, bây giờ mình chạy vào”.</p><p class="Normal">
+Một chuỗi những hành vi tử tế tiếp nối sau đấy. Cậu xe ôm trên đường đi, nghe kể mục đích của bạn tôi, không lấy tiền. “Anh là người tốt” – cậu nói. Anh vào, và đưa cho mỗi gia đình bệnh nhi mấy trăm nghìn. Rồi một nhà báo khác, trên đường chạy đến hiện trường vụ cháy để tác nghiệp, bằng một phản xạ nào đấy, vác theo cả sữa và bánh mì. Vài phút nữa, điện thoại tôi nhận hàng loạt tin nhắn hỏi han. Đồng nghiệp của tôi đang đổ về hướng đó. Bất chấp cấm đường và không khí hoảng loạn, những sự giúp đỡ đang đến. Tôi thở nhẹ, và bớt áy náy với sự đần độn của mình, chỉ biết ngồi một chỗ trong nửa tiếng đồng hồ.</p><p class="Normal">
+Có rất nhiều điều để nói về một vụ cháy. Nhiều vấn đề của đô thị cần được làm rõ. Thậm chí tôi không chắc rằng ngay sau một vụ cháy lớn, kể ra những câu chuyện này, mình có thực hiện đúng trách nhiệm của mình với độc giả không. Có nhiều bi kịch cần được xem xét, và ông Hiệp không phải là nhân vật duy nhất của sự kiện. Có một "thủ phạm", dù là con người hay thực tế khách quan, cần được truy tìm sau sự kiện này. Nhưng dù thế nào, quyết định chạy vào viện của bạn bè tôi, đồng nghiệp tôi, và cho đi những món nhỏ sau vụ cháy; quyết định của anh xe ôm, là không thể sai.</p><p class="Normal">
+Nhưng chuỗi sự kiện đã diễn ra quanh cái nhà trọ mười lăm nghìn buổi tối hôm qua, với tôi là quan trọng: trong đám cháy đó, sự tử tế vô hình hội tụ lại, rất nhanh, mà thậm chí chưa cần một bài báo, hay một cuộc quyên góp nào. Tôi cũng không định buông thêm lời tán dương. Việc đó, báo chí đã làm suốt nhiều năm qua ở khu trọ mười lăm nghìn này. Khu trọ hay hình ảnh "ông Hiệp" ở đây chỉ là một cái cớ để người ta tìm đến <a href="https://vnexpress.net/photo/thoi-su/cuoc-song-tam-bo-cua-benh-nhan-sau-vu-chay-gan-vien-nhi-3810978.html">những người nhà bệnh nhi ở trọ </a>- những người thực sự đã khốn khó nay trở nên khốn cùng. Ngay trong đêm đó, những người xa lạ, bao gồm cả một cậu xe ôm vô tình đi ngang, quyết định tham dự vào sự kiện.</p><p class="Normal">
+Tôi mới phát hiện ra rằng ở hạng mục phim Tài liệu của Viện hàn lâm điện ảnh Mỹ, năm nào cũng có đề cử dành cho một phim về những điều thuần túy đẹp đẽ, về những con người nhân văn. Tôi không chắc rằng Viện hàn lâm có khách quan không, vì rõ ràng phim tài liệu, cũng như trong nghề báo của tôi, làm về những mặt tối xã hội sẽ tạo cảm xúc mạnh hơn cho công chúng, dễ hay hơn và giải chính luôn rơi vào những thứ phản biện kịch tính. Nhưng nếu ngay cả khi đó là một sự “cơ cấu” cố tình, đó cũng là một cách làm đáng tin tưởng.</p><p class="Normal">
+Hôm nay, chúng tôi sẽ họp lại để nói về vụ cháy, và như thường lệ, sẽ giao cho nhau nhiệm vụ tìm kiếm nguyên nhân, ghi nhận lại những bi kịch và bắt đầu quy trình phản biện xã hội. Nhưng trước đó, tôi muốn kể câu chuyện về khu nhà trọ mười lăm nghìn. Hôm qua, nó đã cháy. Nhưng tinh thần của nó vẫn còn nguyên.</p><p class="Normal" style="text-align:right;">
+<strong>Đức Hoàng</strong></p>	</div>
+<div class="div-fbook width_common mb20">
+<div class="block_btn_like left">
+<div class="item_social font_icon" data-component="true" data-component-type="like" data-component-objectid="3811021" data-component-siteid="1000000" data-objecttype="1"></div>	</div>
+<div class="right text-right">
+<p class="social social-detail">
+<span class="btn_facebook social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/chuyen-o-cong-vien-nhi-3811021.html" data-type="facebook" class="icon_share social_share">
+<i class="ic ic-facebook"></i>
+</span>
+<span class="btn_twitter social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/chuyen-o-cong-vien-nhi-3811021.html" data-type="twitter" data-content="Chuyện ở cổng viện Nhi" class="icon_share social_share">
+<i class="ic ic-twitter"></i>
+</span>
+<span class="btn_google_plus social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/chuyen-o-cong-vien-nhi-3811021.html" data-type="google" class="icon_share social_share">
+<i class="ic ic-google-plus"></i>
+</span>
+</p>
+<span class="luu_tin right myvne_save_for_later" data-token="5c6f5dce9765c8c9124916cf386a1a49" data-article-id="3811021"></span>
+</div>
+</div>
+</div>
+</article>
+<!--END DETAIL GOC NHIN-->

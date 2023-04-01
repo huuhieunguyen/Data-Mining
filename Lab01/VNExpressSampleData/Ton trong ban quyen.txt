@@ -1,0 +1,53 @@
+﻿<!--DETAIL GOC NHIN-->
+<article id="article_detail" class="section article_detail">
+<header class="the-article-header inner_section clearfix">
+<h1 class="title_gn_detail">Tôn trọng bản quyền</h1>
+<p class="meta">
+<span class="avata_box_author">
+<a href="https://vnexpress.net/tac-gia/le-thi-thien-huong-1081.html">
+<img src="https://i-vnexpress.vnecdn.net/2018/03/20/lethithienhuongpng-1521562449.png" alt="Lê Thị Thiên Hương">
+<strong>Lê Thị Thiên Hương</strong>
+</a>
+</span>
+<span class="time">Thứ hai, 17/9/2018, 01:44 (GMT+7)</span>
+<a href="#box_comment"><span class="icon_commend" data-href="https://vnexpress.net/tin-tuc/goc-nhin/ton-trong-ban-quyen-3810068.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3810068"><img class="icon_content icon_title_coment" alt="" src="https://s.vnecdn.net/vnexpress/restruct/i/v14/graphics/img_blank.gif">&nbsp;</span></span></a>
+<span class="luu_tin myvne_save_for_later" data-token="c3ef6cc9eb2e9ba985b04568c3002402" data-article-id="3810068"></span>
+</p>
+</header>
+<div class="article_body inner_section clearfix">
+<div class="fck_detail">
+<p class="Normal">Các sinh viên Pháp của tôi chẳng bao giờ dám photocopy cả cuốn sách. Cho dù mỗi máy photocopy đều phải đăng kí và trích một phần lợi nhuận vào Quỹ Bản quyền, họ chỉ dám chụp lại những trang cần thiết của sách vì  hiểu rằng lấy toàn bộ là vi phạm luật.</p>
+<p class="Normal">
+Người Pháp gọi các tác giả là “Nhà sáng tạo” – créateur. Từ này trước đây chỉ được dùng để chỉ Chúa Trời trong đạo Thiên chúa, với hàm ý là người tạo ra vạn vật. Các bà mẹ Pháp, trước khi đọc sách cho con nghe, đều nêu tên tác giả của câu chuyện.</p><p class="Normal">
+Ai cả gan xem phim, nghe nhạc chùa trên web miễn phí ư? Một ngày kia bạn sẽ nhận được thư gửi tới tận nhà, nêu rõ ngày giờ vi phạm. Và nếu tiếp tục tái phạm, các biện pháp cứng rắn hơn sẽ tìm đến để bạn chấm dứt hành vi xài chùa. Anh bạn hàng xóm người Trung Quốc sau một lần nhận thư cảnh cáo đã không dám ghé thăm các trang web có phim miễn phí nữa.</p><p class="Normal">
+Như người trồng cây táo trong vườn của mình có quyền rào xung quanh nó để ngăn người khác trộm táo, luật pháp ngày nay cho phép người sở hữu bản quyền xây một bức tường vô hình giữa tác phẩm và quần chúng. Họ được quyết định cho ai được thưởng thức tác phẩm, dưới hình thức nào, điều kiện ra sao.</p><p class="Normal">
+Ai lao động phải được hưởng thành quả của mình, cho dù thành quả vật chất hay phi vật chất, tất nhiên vô cùng hợp lý. Vậy mà đã hơn 10 năm kể từ khi luật Sở hữu trí tuệ ra đời, Việt Nam vẫn chưa tạo được nền văn hóa tôn trọng bản quyền. Sách báo, băng đĩa lậu nhan nhản khắp nơi, sản phẩm trí tuệ bán công khai ở những vị trí đắc địa của đô thị lớn. Việc xem phim, nghe nhạc miễn phí trên các trang web lậu đã gắn liền với đời sống giải trí của nhiều người. Có bài báo mới đây đưa “tin mừng” rằng tỷ lệ vi phạm bản quyền phần mềm tại Việt Nam đã giảm, chỉ còn 74% mà thôi. Con số đủ làm khiếp hãi những doanh nghiệp nước ngoài muốn đầu tư làm các sản phẩm tử tế cho thị trường Việt.</p><p class="Normal">
+Tuần vừa rồi có hai sự kiện liên quan đến bản quyền. Ở ngoài nước, Nghị viện Châu Âu thông qua luật về bản quyền - Copyright Directive. Ngành công nghiệp sáng tạo châu Âu coi đây là một thắng lợi lớn, vì luật nhắm vào việc đảm bảo chia sẻ doanh thu hợp lí hơn cho các tác giả có sáng tác được sử dụng trên mạng Internet. Một mặt, các quốc gia này đã thấm nhuần “văn hóa bản quyền”; mặt khác, họ hiểu rất rõ rằng trong kỷ nguyên số hóa, văn hóa, tri thức là tài sản vô giá, là vũ khí kinh tế vô cùng hiệu quả.</p><p class="Normal">
+Còn trong nước, Thủ tướng Nguyễn Xuân Phúc cùng hơn 100 nhà khoa học đã nhấn nút khởi động mạng lưới đổi mới sáng tạo ở Việt Nam. Giới chuyên gia quốc tế nhìn nhận đây là một bước đi dài của Việt Nam trong việc lắng nghe những gì thế giới đã làm. Và tất nhiên là cơ hội để sắp xếp lại thị trường bản quyền, quyền sở hữu trí tuệ nội địa.</p><p class="Normal">
+Sẽ có người phản biện rằng rất khập khễnh khi so sánh liên minh châu Âu với Việt Nam. Luật Bản quyền đầu tiên trên thế giới được thông qua tại Anh năm 1710, và sau đó tại Pháp vào năm 1793. Trong khi đó, người Việt Nam nói riêng và người châu Á nói chung, do ảnh hưởng của văn hóa Nho giáo - coi các sáng tác văn học nghệ thuật là “con thuyền” chuyển tải kiến thức, cần được chia sẻ rộng rãi. Trên phương tiện thông tin đại chúng, trong chương trình giáo dục phổ thông khá vắng bóng nội dung “tôn trọng quyền sở hữu trí tuệ”. Nếu như nhiều nước phương Tây đã xây dựng được một nền văn hóa tôn trọng bản quyền, coi dùng sách lậu nhạc lậu cũng đáng xấu hổ không kém ăn cắp tài sản của người khác thì chúng ta chưa làm được. Từ năm 2005 đến giờ, tôi chưa thấy có chương trình nào thực sự nhằm vào việc nâng cao hiểu biết người dân trong lĩnh vực này.</p><p class="Normal">
+Đầu năm nay, tôi kết hợp với một viện nghiên cứu Việt Nam xây dựng một chương trình giáo dục nâng cao nhận thức của người Việt trong vấn đề sở hữu trí tuệ, song đến giờ dự án vẫn giậm chân tại chỗ chỉ vì thiếu sự ủng hộ từ các ban ngành nhà nước có liên quan. Thậm chí, nhiều cán bộ nhà nước còn cho rằng đây “chưa phải là vấn đề cần quan tâm ở nước ta”. Nhà quản lý còn nghĩ như thế về chất xám, làm sao người dân tôn trọng và tuân thủ?</p><p class="Normal">
+Hẳn là Việt Nam thiếu một nền văn hóa tôn trọng bản quyền, nhưng tôi không cho rằng đó là lỗi của người dân. Khi Luật Sở hữu trí tuệ được thông qua năm 2005, khái niệm “sở hữu trí tuệ” còn vô cùng mới mẻ với người Việt và thực tế, việc ban hành luật này là để mở đường cho Việt Nam trở thành thành viên của Tổ chức thương mại Thế giới vào năm 2007 chứ không hẳn vì người Việt Nam đã sẵn sàng để áp dụng luật. Luật lỏng lẻo và không được thực thi hiệu quả nên tinh thần thượng tôn pháp luật càng không được nuôi dưỡng.</p><p class="Normal">
+Nhìn về lợi ích kinh tế, còn chậm bảo vệ hợp lý tài sản trí tuệ thì Việt Nam còn hụt bước dài dài trong kế hoạch tri thức hóa nền kinh tế.</p><p class="Normal">
+Chúng ta đều muốn trồng những cây táo sáng tạo của mình, bằng mồ hôi, nước mắt, những đêm không ngủ. Tại sao có thể hồn nhiên hái táo nhà người?</p><p class="Normal" style="text-align:right;">
+<strong>Lê Thị Thiên Hương</strong></p>	</div>
+<div class="div-fbook width_common mb20">
+<div class="block_btn_like left">
+<div class="item_social font_icon" data-component="true" data-component-type="like" data-component-objectid="3810068" data-component-siteid="1000000" data-objecttype="1"></div>	</div>
+<div class="right text-right">
+<p class="social social-detail">
+<span class="btn_facebook social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/ton-trong-ban-quyen-3810068.html" data-type="facebook" class="icon_share social_share">
+<i class="ic ic-facebook"></i>
+</span>
+<span class="btn_twitter social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/ton-trong-ban-quyen-3810068.html" data-type="twitter" data-content="Tôn trọng bản quyền" class="icon_share social_share">
+<i class="ic ic-twitter"></i>
+</span>
+<span class="btn_google_plus social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/ton-trong-ban-quyen-3810068.html" data-type="google" class="icon_share social_share">
+<i class="ic ic-google-plus"></i>
+</span>
+</p>
+<span class="luu_tin right myvne_save_for_later" data-token="c3ef6cc9eb2e9ba985b04568c3002402" data-article-id="3810068"></span>
+</div>
+</div>
+</div>
+</article>
+<!--END DETAIL GOC NHIN-->

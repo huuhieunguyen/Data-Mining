@@ -1,0 +1,53 @@
+﻿<!--DETAIL GOC NHIN-->
+<article id="article_detail" class="section article_detail">
+<header class="the-article-header inner_section clearfix">
+<h1 class="title_gn_detail">Tấm chân dung liệt sĩ</h1>
+<p class="meta">
+<span class="avata_box_author">
+<a href="https://vnexpress.net/tac-gia/phung-nguyen-1037.html">
+<img src="https://i-vnexpress.vnecdn.net/2017/10/29/PhungNguyenpng-1509289318.png" alt="Phùng Nguyên">
+<strong>Phùng Nguyên</strong>
+</a>
+</span>
+<span class="time">Thứ bảy, 15/9/2018, 03:24 (GMT+7)</span>
+<a href="#box_comment"><span class="icon_commend" data-href="https://vnexpress.net/tin-tuc/goc-nhin/tam-chan-dung-liet-si-3809600.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3809600"><img class="icon_content icon_title_coment" alt="" src="https://s.vnecdn.net/vnexpress/restruct/i/v14/graphics/img_blank.gif">&nbsp;</span></span></a>
+<span class="luu_tin myvne_save_for_later" data-token="af5fbce3fcdaa1f51cc2d3be62bea3b9" data-article-id="3809600"></span>
+</p>
+</header>
+<div class="article_body inner_section clearfix">
+<div class="fck_detail">
+<p class="Normal">Bố hy sinh ở chiến trường Quảng Trị khi Dương còn chưa chào đời, chẳng để lại gì, kể cả một bức ảnh nhỏ bợt màu thời gian. Mẹ ở vậy nuôi Dương. Anh học giỏi, được cấp học bổng sang Liên Xô. Giờ Dương làm việc ở một viện nghiên cứu với chuyên ngành triết học.</p>
+<p class="Normal">
+Hơn hai mươi năm nay, năm nào Dương cũng từ Hà Nội vào Quảng Trị để tìm chân dung của bố ở những vùng đất xưa kia là chiến trường ác liệt, nhưng càng tìm càng vô vọng. Càng vô vọng thì nỗi khát khao được nhìn thấy gương mặt bố mình càng mạnh mẽ. “Mình biết bây giờ rất khó tìm thấy hài cốt của bố. Điều mình khao khát là được nhìn thấy mặt bố, ít ra là một tấm ảnh chân dung đen trắng hoen ố cũng đủ an ủi”, Dương tâm sự với tôi ở nghĩa trang liệt sĩ Trường Sơn vào một ngày hè nắng cháy. Khuôn mặt anh trầm tư, nheo mắt nhìn mãi ra rừng bia mộ. Dương đi một đôi giày bộ đội. Đôi giày này anh chỉ dùng trong những chuyến tìm mộ bố. Nó đã bạc phếch.</p><p class="Normal">
+Dương luôn mang niềm khắc khoải và nỗi đau của người con không thể hình dung ra gương mặt người sinh ra mình. Anh kể, hồi cấp một có lần cô giáo ra đề văn: “Tả người bố thân yêu của em”. Anh gục xuống bàn khóc rồi nộp bài thi chỉ với một câu: “Thưa cô, em không biết mặt bố”. Cô giáo lặng người. Đó là bài kiểm tra duy nhất trong đời đi học anh không làm bài mà vẫn được điểm khá.</p><p class="Normal">
+Tôi  hiểu phần nào nỗi đau đó, bởi gia đình tôi cũng có hai người bác ruột đã hy sinh thời chống Pháp và chống Mỹ ở tuổi đôi mươi mà không để lại một bức chân dung. Bàn thờ hai bác vẫn để trống bức ảnh thờ. Hai bác đi bộ đội khi còn quá trẻ nên không ai hình dung đủ rõ gương mặt để thuê vẽ một bức truyền thần.</p><p class="Normal">
+Lê Anh Xuân, cũng là một nhà thơ liệt sĩ, đã viết: “Anh chẳng để lại gì cho anh trước lúc lên đường”. Những lần đi qua các nghĩa trang liệt sĩ mênh mông, tôi không thể quên rất nhiều bia mộ không có tên người. Một thời, người ta gọi họ là “Liệt sĩ vô danh”, giờ được sửa lại thành “Liệt sĩ chưa biết tên”. Bởi chẳng có chiến sĩ nào trước khi hy sinh là vô danh cả. Tất cả đều có tên họ, quê quán rõ ràng, nhưng chiến tranh nghiệt ngã đã khiến cho việc định danh trên các phần mộ trở nên quá khó khăn.</p><p class="Normal">
+Hố chôn tập thể gồm 13 liệt sĩ vừa được tìm thấy ở Đồng Nai, trong đó có <a href="https://vnexpress.net/tin-tuc/thoi-su/buc-chan-dung-chien-si-duoi-ho-chon-tap-the-tai-dong-nai-3808227.html">bức chân dung chiến sĩ </a>được tìm thấy trong bóp da còn khá nguyên vẹn, gây xúc động cho nhiều người. Người chiến sĩ trong ảnh còn trẻ và nụ cười tươi rói. Đó cũng có thể là bức ảnh duy nhất của anh ở tuổi đôi mươi.</p><p class="Normal">
+Tôi đoan chắc là người nghiên cứu triết học, Dương hiểu quy luật cát bụi về cát bụi. Những thứ thuộc về hình tướng như bức ảnh rồi sau cùng cũng khó đọng lại giữa lẽ vô thường. Di sản của một người, nếu có, chỉ là trong trí nhớ người khác. Nhưng với Dương và nhiều thân nhân liệt sĩ, người thân của họ thực sự là “không dấu vết”.</p><p class="Normal">
+Tôi từng làm tình nguyện viên ở Trung tâm Marin, một trung tâm tư vấn và trợ giúp pháp lý cho gia đình liệt sĩ, từng tiếp xúc với rất nhiều thân nhân liệt sĩ chưa tìm được mộ người thân. Tất cả họ đều đau đáu mong tìm được hài cốt của người nhà hay ít nhất một di vật hay bức ảnh. Nhiều ngày, họ đi khắp rừng xanh núi đỏ, thậm chí bị những nhà ngoại cảm “dỏm” lừa mất nhiều tiền.</p><p class="Normal">
+Bức chân dung người chiến sĩ trẻ mỉm cười, hay những di vật như bút mực, bình nước, đồng hồ... đào lên từ hố chôn tập thể nhắc ta rằng: 200.000 liệt sĩ chưa tìm thấy hài cốt không phải là những con số thống kê. Họ là những con người, có tâm hồn, có cuộc đời của riêng mình.</p><p class="Normal">
+Chắc hẳn vẫn còn nhiều hố chôn tập thể liệt sĩ đâu đó trong lòng đất mẹ hay nước bạn, và càng ngày càng khó tìm ra. Nhưng việc không tìm thấy các hài cốt liệt sĩ không đáng sợ bằng cách đối xử với những hy sinh của họ, không đáng sợ bằng cách “đền ơn” nhiều khi chỉ vang lên với ngôn từ hô hào bóng bẩy, biểu ngữ với băng rôn mà thiếu vắng tri ân chân thật. </p><p class="Normal">
+Hầu như năm nào chúng ta cũng phát hiện các vụ ăn chặn, lừa đảo, chiếm đoạt tiền của gia đình liệt sĩ. Nhiều gia đình không biết họ có trợ cấp: cán bộ địa phương đã <a href="https://vnexpress.net/tin-tuc/thoi-su/can-bo-xa-an-chan-tien-mai-tang-cua-nguoi-co-cong-3639017.html">làm giả hồ sơ</a>, “ký thay” hàng chục năm. Cán bộ chính sách ở Ninh Bình <a href="https://vnexpress.net/tin-tuc/phap-luat/can-bo-xa-chiem-doat-tien-cua-than-nhan-liet-si-3445894.html">chiếm đoạt</a> hàng trăm triệu đồng tiền tuất liệt sĩ, tiền mai táng phí người có công; hay ở một tỉnh khác, cán bộ giả chữ ký của thân nhân liệt sĩ để làm giả hồ sơ, chiếm đoạt tiền chính sách. Có người lợi dụng việc tặng quà Tết để chiếm đoạt tiền của hàng trăm gia đình dù mỗi hộ đó chỉ được có 200.000 đồng. Người ta thậm chí còn <a href="https://vnexpress.net/tin-tuc/phap-luat/dao-hai-cot-liet-si-de-lua-dao-cau-thuy-linh-an-chung-than-3297137.html">làm giả cả hài cốt liệt sĩ </a>để lừa người thân họ. Và tất nhiên, người ta sống bạc bẽo như thế không chỉ trong công cuộc tri ân liệt sĩ.</p><p class="Normal">
+Những con người đang sống bằng thái độ ấy, liệu có ai nhìn kỹ bức chân dung chiến sĩ “chưa rõ tên” tìm được dưới hố chôn tập thể ở Đồng Nai?</p><p class="Normal" style="text-align:right;">
+<strong>Phùng Nguyên</strong></p>	</div>
+<div class="div-fbook width_common mb20">
+<div class="block_btn_like left">
+<div class="item_social font_icon" data-component="true" data-component-type="like" data-component-objectid="3809600" data-component-siteid="1000000" data-objecttype="1"></div>	</div>
+<div class="right text-right">
+<p class="social social-detail">
+<span class="btn_facebook social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/tam-chan-dung-liet-si-3809600.html" data-type="facebook" class="icon_share social_share">
+<i class="ic ic-facebook"></i>
+</span>
+<span class="btn_twitter social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/tam-chan-dung-liet-si-3809600.html" data-type="twitter" data-content="Tấm chân dung liệt sĩ" class="icon_share social_share">
+<i class="ic ic-twitter"></i>
+</span>
+<span class="btn_google_plus social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/tam-chan-dung-liet-si-3809600.html" data-type="google" class="icon_share social_share">
+<i class="ic ic-google-plus"></i>
+</span>
+</p>
+<span class="luu_tin right myvne_save_for_later" data-token="af5fbce3fcdaa1f51cc2d3be62bea3b9" data-article-id="3809600"></span>
+</div>
+</div>
+</div>
+</article>
+<!--END DETAIL GOC NHIN-->

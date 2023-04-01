@@ -1,0 +1,55 @@
+﻿<!--DETAIL GOC NHIN-->
+<article id="article_detail" class="section article_detail">
+<header class="the-article-header inner_section clearfix">
+<h1 class="title_gn_detail">Niềm tin tôn giáo</h1>
+<p class="meta">
+<span class="avata_box_author">
+<a href="https://vnexpress.net/tac-gia/hoang-xuan-49.html">
+<img src="https://i-vnexpress.vnecdn.net/2014/04/02/HoangXuan180180jpg-1396413415.jpg" alt="Hoàng Xuân">
+<strong>Hoàng Xuân</strong>
+</a>
+</span>
+<span class="time">Thứ sáu, 17/8/2018, 07:45 (GMT+7)</span>
+<a href="#box_comment"><span class="icon_commend" data-href="https://vnexpress.net/tin-tuc/goc-nhin/niem-tin-ton-giao-3793614.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3793614"><img class="icon_content icon_title_coment" alt="" src="https://s.vnecdn.net/vnexpress/restruct/i/v14/graphics/img_blank.gif">&nbsp;</span></span></a>
+<span class="luu_tin myvne_save_for_later" data-token="d51e08897e5cfcac8526de75af8dd929" data-article-id="3793614"></span>
+</p>
+</header>
+<div class="article_body inner_section clearfix">
+<div class="fck_detail">
+<p class="Normal">Trước mắt tôi, trong buổi cầu siêu ở chùa hôm ấy, là hàng chục cái tháp cao gần hai mét dựng lên bằng các lon nước ngọt đủ màu. Trái cây, bánh kẹo vun có ngọn trên những chiếc bàn cỡ đại. Hoa tươi khắp nơi. Còn trên bàn thờ Phật, hàng chục pho tượng giấy bồi khá lớn.</p>
+<p class="Normal">
+Nhà sư chủ trì buổi lễ ăn mặc hoa lệ với áo thụng dài bằng gấm, chiếc mũ cao hình trụ và đôi giày cũng bằng gấm, dẫn đầu một đoàn các sư đệ tử. Các thầy thay phiên nhau đọc kinh và tế tụng ở cả hai đàn tràng cách nhau khoảng 30 m. Đoàn sư nhịp nhàng di chuyển qua lại giữa hai đàn, tụng kinh vang rền và bước chân theo bài bản. Kinh ngạc nhất là có một hình nộm mà tôi không biết đó là phượng hoàng, đại bàng, hạc hay cò, chỉ thấy nó có đôi chân cao chót vót và móng màu đỏ. Đôi cánh rộng giương ra hai bên, trên lưng có một hình nhân. Phía trước con chim để một đĩa gạo, chai nước, ly rượu và vài chiếc bút lông.</p><p class="Normal">
+Một sư trẻ tốt giọng cầm chiếc bút lông, vừa ngâm nga vừa họa lông và điểm nhãn cho chim. Sau đó, thầy vừa tụng vừa cầm sợi dây phía dưới cổ nó giật nhẹ. Nó gục gặc vào đĩa gạo phía trước như đang mổ. Trong tiếng nhạc bát âm réo rắt, tôi nghe được lời tụng của thầy.</p><p class="Normal">
+<em>“Này sứ giả hãy nghe sư nói<br><span>Đến thiên đình phụng bái Ngọc hoàng...”</span></em></p><p class="Normal">
+Hóa ra hình người trên lưng con chim kia là vị sứ giả, con chim đó là phương tiện giao thông vũ trụ của người. Và nó đang ăn gạo, uống nước, nhận lãnh nhiệm vụ trước khi cất cánh đưa sứ giả lên chầu thiên đình để báo cáo và xin được che chở. Ở dưới, các thiện nam tín nữ thành kính lạy nhịp nhàng.</p><p class="Normal">
+Ăn gạo, uống nước xong, vị sứ giả được mời một chung rượu, tiếp tục được dặn dò và gởi trao, có cả hứa thưởng. Ba bốn người kính cẩn mang sứ giả ra trước sân. Hộp quẹt bật lên. Cả sứ giả lẫn phượng hoàng cháy bùng bùng trong tiếng tụng niệm.</p><p class="Normal">
+Tôi nhớ đến những buổi lễ cầu an, cầu siêu khác từng chứng kiến. Những ngôi chùa cổ nhỏ xíu nằm trong khu vườn rộng mướt xanh cây lá, mái ngói thâm nâu, không gian u tịch ở đồng bằng Bắc bộ. Những bức tượng gỗ nhỏ nhưng là tuyệt tác của nghệ thuật điêu khắc, mô tả những nỗi đau và niềm vui sướng nhân sinh. Vài ông bõ, bà vãi già, tấm áo nâu khiêm từ, khuôn mặt răn reo, cười hiền như Bụt. Tiếng chuông gõ nhẹ, lan trong không gian thanh trầm, nhắc người ta về đời người đang trôi...</p><p class="Normal">
+Kể cả những buổi đại lễ cầu an ở đó, hàng trăm người mặc áo già lam, ngồi thẳng hàng trong đại sảnh, cùng đọc kinh. Ai cũng có thể ngồi vào và tụng theo cuốn kinh mở rộng trước mặt, góp một lời cầu an cho chính mình và cho nhân gian. Có thời gian thì dự hết, không thì đọc vài thời kinh rồi về, chỗ trống ấy lại có người khác tiến vào. Trên bàn thờ Phật chỉ vài bình hoa tươi theo mùa. Không có gì hào nhoáng, phô trương, kịch tính trong những buổi lễ ấy, nhưng nó mang lại cảm giác bình an và cộng đồng mãnh liệt.</p><p class="Normal">
+Tuy nhiên, ở một số nơi khác, tôi đã thấy những buổi lễ rườm rà, bày vẽ, phô trương và trái ngược hẳn với cội nguồn niềm tin giản dị của các tôn giáo.</p><p class="Normal">
+Đức Phật, cũng như nhiều tôn giáo khác, đề cao sự giản dị và thành tâm trong thực hành tín ngưỡng. Câu “Phật tại tâm” đã quen thuộc với người Việt. Việc tổ chức các buổi trò chuyện về một đề tài cụ thể của các nhà tu hành tôn giáo cho các đối tượng khác nhau không hề lạ lẫm, còn gọi là Pháp thoại.</p><p class="Normal">
+Nó đã được thực hiện phổ biến tại miền Nam từ trước 1975 và tiếp nối trở lại sau này. Ngoài những buổi trò chuyện với người bình thường ở chùa, ở trường học, các vị tu hành còn vào nhà tù, bệnh viện, trung tâm xã hội để nói chuyện với bệnh nhân và tù nhân, với những người nghiện ma túy và đang chờ chết, với những người đã từng phạm pháp hay vừa tái hòa nhập cộng đồng, với những người đã tổn thương.</p><p class="Normal">
+Việc này không ngoài mục đích khai trí cho con người để hiểu về thể xác và tâm trí của chính mình, giúp con người bồi dưỡng niềm tin vào bản thân, hiểu thêm nguyên do của nỗi đau khổ cũng như hạnh phúc; học cách bình thản buông bỏ, chấp nhận hay vượt qua tham - sân - si trong đời. Đó là mục đích thâm sâu của các tôn giáo lành mạnh, hoàn toàn khác với việc “kinh doanh niềm tin” như ở đâu đó vẫn diễn ra.</p><p class="Normal">
+Vì tín ngưỡng là từ đời sống mà ra. Tôn giáo là một hệ thống triết học bắt đầu từ cổ đại, hướng dẫn tín hữu dựa theo nó để có một tâm trí bình an sáng suốt, có một cộng đồng chia sẻ và gắn bó, để nương tựa và giúp đỡ nhau trong cuộc sống hiện hữu.</p><p class="Normal">
+Những bày vẽ hình thức và tốn kém cả vật chất lẫn thời gian, liệu có phải là biểu hiện xa rời niềm tin tôn giáo trong sáng, dẫn người ta vào những nẻo mê tín được mạ trang kim lấp lánh?</p><p class="Normal" style="text-align:right;">
+<strong>Hoàng Xuân</strong></p>	</div>
+<div class="div-fbook width_common mb20">
+<div class="block_btn_like left">
+<div class="item_social font_icon" data-component="true" data-component-type="like" data-component-objectid="3793614" data-component-siteid="1000000" data-objecttype="1"></div>	</div>
+<div class="right text-right">
+<p class="social social-detail">
+<span class="btn_facebook social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/niem-tin-ton-giao-3793614.html" data-type="facebook" class="icon_share social_share">
+<i class="ic ic-facebook"></i>
+</span>
+<span class="btn_twitter social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/niem-tin-ton-giao-3793614.html" data-type="twitter" data-content="Niềm tin tôn giáo" class="icon_share social_share">
+<i class="ic ic-twitter"></i>
+</span>
+<span class="btn_google_plus social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/niem-tin-ton-giao-3793614.html" data-type="google" class="icon_share social_share">
+<i class="ic ic-google-plus"></i>
+</span>
+</p>
+<span class="luu_tin right myvne_save_for_later" data-token="d51e08897e5cfcac8526de75af8dd929" data-article-id="3793614"></span>
+</div>
+</div>
+</div>
+</article>
+<!--END DETAIL GOC NHIN-->

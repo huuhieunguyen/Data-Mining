@@ -1,0 +1,53 @@
+﻿<!--DETAIL GOC NHIN-->
+<article id="article_detail" class="section article_detail">
+<header class="the-article-header inner_section clearfix">
+<h1 class="title_gn_detail">Khi quốc gia vay nợ</h1>
+<p class="meta">
+<span class="avata_box_author">
+<a href="https://vnexpress.net/tac-gia/nguyen-khac-giang-97.html">
+<img src="https://i-vnexpress.vnecdn.net/2017/04/11/nguyenkhacgiangpng-1491900251.png" alt="Nguyễn Khắc Giang">
+<strong>Nguyễn Khắc Giang</strong>
+</a>
+</span>
+<span class="time">Thứ tư, 19/9/2018, 07:34 (GMT+7)</span>
+<a href="#box_comment"><span class="icon_commend" data-href="https://vnexpress.net/tin-tuc/goc-nhin/khi-quoc-gia-vay-no-3811587.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3811587"><img class="icon_content icon_title_coment" alt="" src="https://s.vnecdn.net/vnexpress/restruct/i/v14/graphics/img_blank.gif">&nbsp;</span></span></a>
+<span class="luu_tin myvne_save_for_later" data-token="2ce7629ff4bf9f16e0ddb7ace3eee578" data-article-id="3811587"></span>
+</p>
+</header>
+<div class="article_body inner_section clearfix">
+<div class="fck_detail">
+<p class="Normal">Lớp đại học của tôi có chín người Trung Quốc, trong đó tôi ấn tượng nhất với Lý Hằng Vỹ. Cô là người Bạch ở Quế Lâm, con cháu vương quốc Đại Lý của Đoàn Dự, nhưng luôn có cảm giác tự ti mình không phải là người Hán thuần khiết. Chính vì thế, cô cố gắng hơn nhiều người để chứng tỏ tình yêu tổ quốc của mình.</p>
+<p class="Normal">
+Học xong thạc sĩ, cô tình nguyện sang châu Phi làm việc, hăng say viết về những dự án của Trung Quốc tại lục địa đen. Cách đây bốn năm, làn sóng đầu tư từ Trung Quốc bắt đầu nở rộ. Rất nhiều nước châu Phi hứng khởi với viễn cảnh làm đối tác đầu tư bình đẳng với Bắc Kinh, thay vì chịu quan hệ “bề trên” như với những nhà tài trợ phương Tây.</p><p class="Normal">
+Năm 2013, chiến lược “Một vành đai, một con đường” được giới thiệu, trở thành tâm điểm cho chính sách ngoại giao của Bắc Kinh từ đó đến nay. Người Trung Quốc mơ thành <a href="https://giaitri.vnexpress.net/tin-tuc/phim/sau-man-anh/phim-anh-truyen-ba-giac-mo-sieu-cuong-cua-trung-quoc-3727411.html">siêu cường giải cứu thế giới</a> như Ngô Kinh trong phim Chiến lang, còn người châu Phi cần một cái thang tốt để thoát khỏi hố sâu nghèo đói. Đó được kỳ vọng là một mối quan hệ đôi bên cùng thắng lợi.</p><p class="Normal">
+Nhưng sau vài năm ở châu Phi, Hằng Vỹ nhận ra mọi chuyện không đơn giản như vậy. Trở thành học giả nghiên cứu phương Đông và châu Phi tại Đại học London, cô nhiều lần lên tiếng phê phán chính sách cho vay của nước mình. Cô hiểu những khoản viện trợ kếch xù không chỉ có màu hồng.</p><p class="Normal">
+Khắp thế giới, người ta xì xầm về “<a href="https://vnexpress.net/tin-tuc/the-gioi/phan-tich/moi-lo-mac-bay-no-trung-quoc-o-cac-nuoc-thai-binh-duong-3765593.html">ngoại giao bẫy nợ</a>” của Trung Quốc. Ngoại trưởng Mỹ cũng <a href="https://vnexpress.net/tin-tuc/the-gioi/my-canh-bao-chau-phi-mat-chu-quyen-do-vay-trung-quoc-3720392.html">công khai đứng ra</a> nói về điều này. Những khoản vay khó có khả năng chi trả sau cùng khiến nước đi vay phải nhượng bộ cho Bắc Kinh những điều kiện chiến lược. Ví dụ được nói đến nhiều nhất là Sri Lanka. Năm ngoái, quốc gia này nhượng lại cảng chiến lược Hambantota bên bờ Ấn Độ Dương cho Bắc Kinh trong vòng 99 năm, sau khi không thể chi trả khoản nợ vay 6 tỷ USD để xây hạ tầng, bao gồm một sân bay nằm giữa rừng sâu theo đúng nghĩa đen. Thủ tướng Malaysia Mahathir Mohamad, khi đưa ra lý do từ chối những khoản vay của Trung Quốc, nói rằng ông sợ Kuala Lumpur bị rơi vào vòng xoáy “một phiên bản mới của chủ nghĩa thực dân”. Đầu tháng 9 này, chủ tịch Trung Quốc tiếp tục hào phóng tuyên bố khoản vay hơn 60 tỷ USD cho châu Phi.  </p><p class="Normal">
+Nhưng Bắc Kinh không phải ngoại lệ, nếu chúng ta để ý đến ngành “công nghiệp viện trợ” trong khoảng 30 năm trở lại đây. Nghiên cứu của tổ chức Minh bạch Tài chính Toàn cầu (GFI) và Trường Kinh tế Na Uy trong năm 2017 chỉ ra rằng, cứ mỗi một USD đầu tư, các nước thế giới thứ ba sẽ phải chuyển lại 3 USD về thế giới phát triển.</p><p class="Normal">
+Đi sâu vào chi tiết sẽ rất phức tạp, nhưng số tiền chảy ngược này sẽ thông qua các hình thức như trả nợ, đẩy giá dịch vụ thương mại - đầu tư lên cao, chuyển giá và xuất khẩu tài nguyên. Nghiên cứu cho rằng con số mà các nước đang phát triển mất đi từ năm 1980 là hơn 16 nghìn tỷ USD, tương đương giá trị GDP của nền kinh tế số một thế giới Hoa Kỳ.</p><p class="Normal">
+Đương nhiên, tác động của những khoản đầu tư và viện trợ vẫn còn là chủ đề gây tranh cãi. Những nước nghèo than vãn về thực trạng trên, nhưng họ không thể ngừng nhận tiền, vì nhiều lý do khác nhau. Ngoài vấn đề về tham nhũng, nhu cầu xây dựng cơ sở hạ tầng hay giải quyết các vấn đề xã hội là có thật. Điều này chỉ cho chúng ta thấy rằng, không có gì là miễn phí. Khi nhận bất kì một khoản tiền nào, dù là đi vay hay viện trợ, những người đại diện nhận vốn - thường là nhà nước - cần mường tượng được cái giá phải trả là bao nhiêu.</p><p class="Normal">
+Không phải ngẫu nhiên mà mức lương tư vấn 700 triệu đồng mỗi tháng của chuyên gia Nhật tại Việt Nam được đem ra mổ xẻ. Cuộc tranh cãi sau đó bị đẩy xuống thành vấn đề cơm áo gạo tiền: thứ người Nhật làm ra liệu có “đắt xắt ra miếng” hay không, hay vấn đề quốc tịch của khoản vay, và rằng sản phẩm của Nhật tốt hay của Trung Quốc tốt. Nhưng cái cần phải lo nhất ở đây, theo tôi là chi phí khổng lồ của những khoản vay và lợi ích thực sự mà nền kinh tế, xã hội được hưởng từ những khoản vay đó.</p><p class="Normal">
+Đã từ lâu, những dự án ưu đãi của nước ngoài thực hiện theo chu trình khép kín: vốn của bên cho vay, đấu thầu do họ thực hiện, doanh nghiệp của họ, chuyên gia của họ, và đội ngũ lao động chính cũng là của họ. Với “công thức” này, phần nhiều số tiền cho vay sẽ quay ngược về cố quốc ngay trước khi quá trình trả nợ bắt đầu. Chúng ta sau đó có thể có hạ tầng, nhưng chi phí có thể sẽ đắt hơn rất nhiều so với tính toán ban đầu. Hiệu ứng thẩm thấu - khi các doanh nghiệp Việt được hưởng lợi bằng cách tham gia dự án hỗ trợ phát triển chính thức - là không đáng kể.</p><p class="Normal">
+Nỗi lo lớn nhất với Việt Nam, bởi thế, không phải là mức lương của một chuyên gia. Cho đến hết năm 2017, tổng dư nợ nước ngoài của quốc gia là 2.451 triệu tỷ đồng, bằng một nửa số tổng sản phẩm cả nước làm ra trong một năm. Năm ngoái, chính phủ đã dành 10,5 tỷ USD để trả nợ gốc và lãi. Khoản này lại được lấy từ một khoản vay khác có giá trị 15 tỷ USD.</p><p class="Normal">
+Không quốc gia nào từ vay mượn mà trở nên thịnh vượng. Tàn dư còn lại của các khoản nợ công được thế giới nhớ đến là những vụ vỡ nợ kinh điển tại Hy Lạp hay Argentina. Cũng không phải lúc nào cũng có những tiếng nói như Hằng Vỹ để công chúng hiểu hơn về mặt trái của việc đi vay. Ngừng ảo tưởng về những khoản vay nước ngoài, cho dù là từ Trung Quốc, Nhật Bản hay phương Tây là điều cần thiết đầu tiên cho quá trình “dậy thì thành công” của mỗi quốc gia. Việt Nam cũng không là ngoại lệ.</p><p class="Normal" style="text-align:right;">
+<strong>Nguyễn Khắc Giang</strong></p>	</div>
+<div class="div-fbook width_common mb20">
+<div class="block_btn_like left">
+<div class="item_social font_icon" data-component="true" data-component-type="like" data-component-objectid="3811587" data-component-siteid="1000000" data-objecttype="1"></div>	</div>
+<div class="right text-right">
+<p class="social social-detail">
+<span class="btn_facebook social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/khi-quoc-gia-vay-no-3811587.html" data-type="facebook" class="icon_share social_share">
+<i class="ic ic-facebook"></i>
+</span>
+<span class="btn_twitter social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/khi-quoc-gia-vay-no-3811587.html" data-type="twitter" data-content="Khi quốc gia vay nợ" class="icon_share social_share">
+<i class="ic ic-twitter"></i>
+</span>
+<span class="btn_google_plus social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/khi-quoc-gia-vay-no-3811587.html" data-type="google" class="icon_share social_share">
+<i class="ic ic-google-plus"></i>
+</span>
+</p>
+<span class="luu_tin right myvne_save_for_later" data-token="2ce7629ff4bf9f16e0ddb7ace3eee578" data-article-id="3811587"></span>
+</div>
+</div>
+</div>
+</article>
+<!--END DETAIL GOC NHIN-->

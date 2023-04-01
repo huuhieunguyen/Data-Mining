@@ -1,0 +1,56 @@
+﻿<!--DETAIL GOC NHIN-->
+<article id="article_detail" class="section article_detail">
+<header class="the-article-header inner_section clearfix">
+<h1 class="title_gn_detail">Thương hiệu quốc gia</h1>
+<p class="meta">
+<span class="avata_box_author">
+<a href="https://vnexpress.net/tac-gia/ngo-trong-thanh-1006.html">
+<img src="https://i-vnexpress.vnecdn.net/2017/08/23/ngotrongthanhpng-1503425625.png" alt="Ngô Trọng Thanh">
+<strong>Ngô Trọng Thanh</strong>
+</a>
+</span>
+<span class="time">Chủ nhật, 2/9/2018, 22:35 (GMT+7)</span>
+<a href="#box_comment"><span class="icon_commend" data-href="https://vnexpress.net/tin-tuc/goc-nhin/thuong-hieu-quoc-gia-3802308.html#box_comment" style="white-space: nowrap; cursor: pointer; display: none;"><span class="txt_num_comment font_icon" data-type="comment" data-objecttype="1" data-objectid="3802308"><img class="icon_content icon_title_coment" alt="" src="https://s.vnecdn.net/vnexpress/restruct/i/v14/graphics/img_blank.gif">&nbsp;</span></span></a>
+<span class="luu_tin myvne_save_for_later" data-token="037d988732b66a676a8e4654cced9c7e" data-article-id="3802308"></span>
+</p>
+</header>
+<div class="article_body inner_section clearfix">
+<div class="fck_detail">
+<p class="Normal">Tôi tới Indonesia hai tháng trước, tìm đối tác phát triển thị trường cho một doanh nghiệp. Ở đó, tôi tiếp xúc với một số đối tác tiềm năng, trong đó có Andrias – ông chủ một công ty phân phối hàng điện dân dụng lớn.</p>
+<p class="Normal">
+Rồi chúng tôi email qua lại với tính chất thăm dò và tìm hiểu. Công việc không tiến triển nhiều, tôi cảm thấy hơi bối rối. Hơn 20 năm làm kinh doanh, kinh nghiệm nói với tôi rằng, cần phải thả dây dài để bắt cá lớn. Những doanh nhân lớn, có tầm, sẽ không dễ gây cảm tình, thuyết phục để chốt thương vụ trong thời gian ngắn, hoặc chỉ bằng các email.</p><p class="Normal">
+Ba hôm trước, tôi ngỡ ngàng khi nhận được cuộc điện thoại trực tiếp từ Andrias. Khác hẳn với những cuộc trao đổi nghiêm túc và giữ kẽ trước đó, ông thốt lên đầy phấn khích: “Không thể tin nổi, Việt Nam đã vào vòng tứ kết!”.</p><p class="Normal">
+Và câu chuyện của chúng tôi cứ tiếp diễn, như những người bạn thân thiết, xoay quanh đội tuyển bóng đá, về huấn luyện viên Park Hang-seo, đến câu chuyện làm ăn cùng cơ hội hợp tác. Với Andrias, đội tuyển không chỉ còn là của riêng Việt Nam mà là “đội tuyển của vùng trũng bóng đá ASEAN đã được lọt vào tứ kết giải châu Á”.</p><p class="Normal">
+Tôi hẹn với ông sẽ bay qua Indonesia sớm để gặp nhau, bàn tiếp công việc của chúng tôi. Tôi thầm cảm ơn những người đứng sau đội tuyển bóng đá nước nhà. Họ không hề biết một bước đi tích cực trong công việc riêng của tôi lại được mở ra nhờ bóng đá - một điều nghe qua chẳng mấy liên quan.</p><p class="Normal">
+Tôi tin bất kỳ doanh nhân nào người Việt cũng từng cảm thấy chạnh lòng mỗi khi mang chuông đi đánh xứ người, vì thương hiệu quốc gia của chúng ta còn khiêm tốn. Trong báo cáo gần đây nhất, hãng đánh giá thương hiệu FutureBrand xếp hạng 64 cho Việt Nam trong số 75 quốc gia, chỉ đứng trước Cambodia và một số nước châu Phi. Yếu tố “made by” của Việt Nam được xếp khá thấp.</p><p class="Normal">
+Trong những cuộc gặp với đối tác 20 năm trước, tôi đã không thể tìm câu trả lời khi họ hỏi đâu là sản phẩm “made by Vietnam” - hàm ý làm ra bởi người Việt - được xuất đi trên thế giới. Rồi khi thông thương giữa chúng ta và nước ngoài bùng nổ, câu hỏi đó vẫn thường xuyên được lặp lại, và không ít đối tác vẫn khó tin hàng Việt Nam có thể cạnh tranh với hàng Trung Quốc, Thái Lan. Thậm chí, tôi đã từng lặng người khi có đối tác ngạc nhiên vì chữ viết của Việt Nam sao lại không giống chữ viết của Thái Lan.</p><p class="Normal">
+Tôi biết rằng cần lắm, để hình ảnh Việt Nam được cải thiện trong mắt thế giới, để bạn bè và đối tác làm ăn của doanh nghiệp Việt biết và hiểu rõ hơn về đất nước, con người, sản phẩm Việt. Thành công của đội tuyển chúng ta, dù chưa trọn vẹn, nhưng vẫn sẽ là một cú hích mạnh mẽ trong lộ trình đưa hình ảnh Việt Nam đến với phần còn lại của thế giới.</p><p class="Normal">
+Đại học Oxford có một nghiên cứu trong nhiều năm để khẳng định rằng, thể thao và bóng đá nói riêng là một trong các con đường ngắn nhất, hiệu quả nhất để nâng cao hình ảnh và giá trị cho mỗi quốc gia. Cái tên Croatia, một đất nước nhỏ bé, đã “bùng nổ” sau khi đội tuyển của họ đoạt huy chương bạc World Cup 2018 là một minh chứng.</p><p class="Normal">
+Gần 1/5 tổng thu nhập quốc dân của Croatia đến từ ngành du lịch, dù ngân sách của họ chỉ dành 9 triệu USD mỗi năm để làm quảng bá. Con số này quá nhỏ khi ta biết rằng, riêng hãng Nike đã chi 195 triệu USD chỉ cho việc tài trợ tại World Cup 2018. Nhờ thành công của đội tuyển quốc gia, đất nước Croatia đã bất ngờ trở thành tâm điểm thu hút sự chú ý của thế giới. Số bài báo viết về đất nước này tăng dần theo trái bóng lăn: 200.000 bài sau trận thắng Nga, 300.000 bài sau trận thằng Anh, và hơn một triệu bài ngay sau trận chung kết. Số bài báo quốc tế viết về Croatia trong suốt kỳ World Cup đã vượt quá tổng số bài báo viết về lịch sử của đất nước này trước đó.</p><p class="Normal">
+Có tới 3,4 tỷ người đã xem trực tiếp trận chung kết World Cup 2018, và hơn một tỷ người đã chứng kiến hình ảnh gần gũi, thân thiện của bà Tổng thống Kolinda Grabar-Kitarovic đội mưa trong lễ trao giải.</p><p class="Normal">
+Ngay sau kỳ World Cup, theo thông tin từ Cục du lịch quốc gia Croatia, lượng tìm kiếm trên mạng về Croatia tăng hơn 300%. Khách du lịch đã tăng gần 30% - con số trong mơ đối với ngân sách 9 triệu USD cho quảng bá du lịch mỗi năm của họ.</p><p class="Normal">
+Sức mạnh của môn bóng đá vừa được lặp lại với chúng ta, dù ở cấp độ khác, bằng màn trình diễn tuyệt vời của đội tuyển Olympic Việt Nam ở Indonesia. Khi dòng người trên các đường phố mừng thành tích lọt vào top 4 của đội bóng thân yêu, cũng là lúc chúng ta nên nói lời cám ơn tới những chàng trai vàng Olympic Việt Nam, về những nỗ lực trong sáng qua từng trận đấu vì màu cờ, sắc áo. Chúng ta cám ơn huấn luyện viên Park Hang-seo về sự truyền cảm tuyệt vời của ông về lòng tin, về ý chí quyết tâm sắt đá tới đội tuyển và sự tôn trọng người hâm mộ; cám ơn những người đã ươm mầm tài năng bóng đá trẻ, kiên định theo đuổi mơ ước về một đội tuyển tử tế hơn cho dân tộc Việt. Và để tôi được dịp chia sẻ về thương hiệu quốc gia trong chuyện làm ăn của giới doanh nhân.</p><p class="Normal">
+Niềm vui bóng đá có thể bùng nổ trong vài giờ, vài ngày, nhưng niềm vui với “made-in” và “made- by” Việt Nam thì đã khác.</p><p class="Normal">
+Hình ảnh các chàng trai vàng của chúng ta: dẻo dai, đầy cảm hứng sẽ là một “made by Vietnam” để giúp tôi mỉm cười tự tin khi gặp lại anh bạn Andrias tới đây.</p><p class="Normal" style="text-align:right;">
+<strong>Ngô Trọng Thanh</strong></p>	</div>
+<div class="div-fbook width_common mb20">
+<div class="block_btn_like left">
+<div class="item_social font_icon" data-component="true" data-component-type="like" data-component-objectid="3802308" data-component-siteid="1000000" data-objecttype="1"></div>	</div>
+<div class="right text-right">
+<p class="social social-detail">
+<span class="btn_facebook social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/thuong-hieu-quoc-gia-3802308.html" data-type="facebook" class="icon_share social_share">
+<i class="ic ic-facebook"></i>
+</span>
+<span class="btn_twitter social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/thuong-hieu-quoc-gia-3802308.html" data-type="twitter" data-content="Thương hiệu quốc gia" class="icon_share social_share">
+<i class="ic ic-twitter"></i>
+</span>
+<span class="btn_google_plus social_share" data-url="https://vnexpress.net/tin-tuc/goc-nhin/thuong-hieu-quoc-gia-3802308.html" data-type="google" class="icon_share social_share">
+<i class="ic ic-google-plus"></i>
+</span>
+</p>
+<span class="luu_tin right myvne_save_for_later" data-token="037d988732b66a676a8e4654cced9c7e" data-article-id="3802308"></span>
+</div>
+</div>
+</div>
+</article>
+<!--END DETAIL GOC NHIN-->
